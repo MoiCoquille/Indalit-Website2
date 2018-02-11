@@ -18,6 +18,17 @@
 .header01 {
 }
 
+.packprice01 {
+	position: absolute;
+	right: 45px;
+	bottom: 35px;
+}
+
+.packimg01 {
+	position: absolute;
+	bottom: 15px;
+}
+
 .my-column {
     padding: 10px 10px 10px 10px;
 	vertical-align: top;
