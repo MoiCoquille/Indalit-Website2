@@ -6,7 +6,7 @@ languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+# disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
@@ -60,20 +60,26 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/MoiCoquille"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 2
     name = "Twitter"
-    url = "https://github.com/MoiCoquille"
+    url = "https://twitter.com/indalitcloud"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
 [[menu.topbar]]
-    weight = 3
+    weight = 4
     name = "Email"
     url = "mailto:v@indalit.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/indalit-cloud-consulting/"
+    pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -166,7 +172,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     icon = "fa fa-file-code-o"
     title = "Do you want to know more?"
     subtitle = "Visit the reste of the site to get more in depth information on the subjects we've just barely touched."
-    link_url = "#"
+    link_url = "/packs/"
     link_text = "Get the Details on the Packs"
 
 [params.clients]
