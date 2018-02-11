@@ -3,7 +3,7 @@ title: "DevOps Consulting"
 description: >
    <p>
     <strong>UNIX is not so much an operating system as a way of thinking</strong> 
-    <ul>
+    <ul style="list-style: none;">
       <li><i class="fa fa-long-arrow-right"></i>Got a project, need to make it happen?</li>
       <li><i class="fa fa-long-arrow-right"></i>Why not an audit after a new installation or down the road?</li>
       <li><i class="fa fa-long-arrow-right"></i>Anything not working as it should? Debug?</li>

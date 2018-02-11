@@ -3,7 +3,7 @@ title: "AWS Consulting"
 description:  >
   <p>
     <strong>Try AWS once, it's all it takes</strong>
-    <ul>
+    <ul style="list-style: none;">
       <li><i class="fa fa-long-arrow-right"></i>Migrate your physical infrastructure to the Cloud?</li>
       <li><i class="fa fa-long-arrow-right"></i>Extend / hybridize your existing infrastructure to the Cloud?</li>
       <li><i class="fa fa-long-arrow-right"></i>Start a brand new project?</li>
