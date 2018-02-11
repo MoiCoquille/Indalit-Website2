@@ -1,18 +1,16 @@
 weight: 3
 title: "DevOps Consulting"
-description: "<p>* UNIX is not so much an operating system as a way of thinking *
-<br /><br />
--> Got a project, need to make it happen?
-<br /><br />
--> Why not an audit after a new installation or down the road?
-<br /><br />
--> Anything not working as it should? Debug?
-<br /><br />
--> Is it a mess, need to industrialize?
-<br /><br />
--> Need a deployment mechanism?
-<br /><br />
--> How about training on new technologies?
-</p>
-"
+description: >
+   <p>
+    <strong>UNIX is not so much an operating system as a way of thinking</strong> 
+    <ul>
+      <li><i class="fa fa-long-arrow-right"></i>Got a project, need to make it happen?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Why not an audit after a new installation or down the road?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Anything not working as it should? Debug?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Is it a mess, need to industrialize?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Need a deployment mechanism?</li>
+      <li><i class="fa fa-long-arrow-right"></i>How about training on new technologies?</li>
+     </ul>
+   </p>
+
 image: "img/carousel/devops-consulting.png"
