@@ -4,6 +4,7 @@ date = "2017-09-20T21:49:20+02:00"
 tags = ["Configuration", "IP", "VPC" ]
 categories = ["AWS", "Did You Know?", "Networking & Content Delivery"]
 banner = "img/blog/aws-vpc-span.jpg"
+alt = "Span Across many AZs a VPC"
 author = "Veronique Robitaille"
 +++
 

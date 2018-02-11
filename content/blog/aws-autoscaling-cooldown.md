@@ -4,6 +4,7 @@ date = "2017-06-13T21:49:20+02:00"
 tags = ["Auto Scaling", "Configuration"]
 categories = ["AWS", "Did You Know?", "Compute"]
 banner = "img/blog/aws-autoscaling-cooldown.jpg"
+alt = "Cooldown Period in Auto Scaling"
 author = "Veronique Robitaille"
 +++
 
