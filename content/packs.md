@@ -24,31 +24,37 @@ id = "packs"
   <div class="col-md-4 column-04"><div class="cell-04 my-column">
 
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
+Need to quickly understand AWS, it's most important services and the pricing?  An introductory presentation is what you need.  Given by a certified Solutions Architect who can guide you and answer your questions.
 
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
-<li>Includes even one of thses</li>
-<li>Should last 3 hours</li>
-<li>Conference call only</li>
-<li>If time, learn more </li>
+<li>Online video conferencing</li>
+<li>2 to 4 hours depending on your need</li>
+<li>1 pre-defined topic can be added</li>
+<li>Questions and Answers at the end</li>
+<li>Slides provided</li>
+<li>1 hour follow-up call</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/presentation.png" alt="Making a Presentation"></h2>
+<h2><div class="packprice01">€239</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/presentation.png" alt="Making a Presentation"></div>
+</h2>
 </div></div>
   <div class="col-md-4 column-05"><div class="cell-05 my-column">
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
+Need all the theory about a specific AWS service?  An in depth technical presentation of your choice.  
 
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
+<li>Online video conferencing</li>
+<li>1 to 2 hours depending on your need</li>
+<li>1 AWS service chosen by you</li>
+<li>Questionaire to test your newly acquired knowledge</li>
+<li>Questions and Answers at the end</li>
+<li>Guidelines on how to become an expert at this one subject</li>
+<li>Slides and Cheat Sheet provided</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/training.png" alt="Receiving a Reward">
+<h2><div class="packprice01">€109</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/training.png" alt="Receiving a Reward"></div>
 </h2>
 
 </div></div>
