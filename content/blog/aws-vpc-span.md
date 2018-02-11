@@ -9,5 +9,5 @@ author = "Veronique Robitaille"
 +++
 
 Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?
-<br><br>
+<br /><br />
 For more information on AWS VPC Configuration see: <http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html>
