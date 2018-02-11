@@ -1,0 +1,16 @@
+weight: 1
+title: "Project Management"
+description:  >
+  <p>
+    <ul>
+      <li><i class="fa fa-long-arrow-right"></i>Need someone to keep it all organised?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Require conception and initiation?</li>
+      <li><i class="fa fa-long-arrow-right"></i>What about Project definition and planning?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Once launched, who follows execution?</li>
+      <li><i class="fa fa-long-arrow-right"></i>You want to be responsible for project performance?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Keep your team working together?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Only the essencials, no nonsense?</li>
+    </ul>
+  </p>
+
+image: "img/carousel/aws-devops-project-management.png"
