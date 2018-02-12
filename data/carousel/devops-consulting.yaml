@@ -2,7 +2,10 @@ weight: 3
 title: "DevOps Consulting"
 description: >
    <p>
-    <strong>UNIX is not so much an operating system as a way of thinking</strong> 
+    <strong>"UNIX is not so much an operating system as a way of thinking"</strong> 
+   </p>
+   <br />
+   <p>
     <ul style="list-style: none;">
       <li><i class="fa fa-long-arrow-right"></i>Got a project, need to make it happen?</li>
       <li><i class="fa fa-long-arrow-right"></i>Why not an audit after a new installation or down the road?</li>
@@ -10,6 +13,7 @@ description: >
       <li><i class="fa fa-long-arrow-right"></i>Is it a mess, need to industrialize?</li>
       <li><i class="fa fa-long-arrow-right"></i>Need a deployment mechanism?</li>
       <li><i class="fa fa-long-arrow-right"></i>How about training on new technologies?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Want a first-class engineer that can pretty much do it all to accompany you in your project?</li>
      </ul>
    </p>
 

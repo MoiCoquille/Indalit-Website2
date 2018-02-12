@@ -60,3 +60,32 @@ Be reassured, you won't be on your own, not only we will folllow your project, b
 </h4>
 </div>
 </div>
+SIMPLIFIED
+Cloud services are one time install as a platform
+
+ 
+SECURE
+Highly secure data as Amazon holds many security concerned certificates like PCI, HIPAA, Sarbanes-Oxley, and ISO
+
+ 
+COST EFFECTIVE
+Cloud solutions costs less than on premise solution
+
+ 
+HARDWARE
+No hardware installation is required, so it takes no time to install
+
+EFFECTIVE
+Cloud services can work without falling apart
+
+ 
+SCALABILITY
+Cloud services are scalable as if we need to increase its capacity, we need just a click and it continues providing that service
+
+ 
+RELIABILITY
+Offer Services without any failure
+
+ 
+PROFITABLE
+Cloud services, being cheap and reliable as they increase sales and thus which further increases profitability

@@ -60,17 +60,18 @@ Need all the theory about a specific AWS service?  An in depth technical present
 </div></div>
   <div class="col-md-4 column-06"><div class="cell-06 my-column">
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
-
+Finally decided to look into AWS seriously?  Have a project and want a solution to build it on AWS?  Need a personalized proposal?
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
+<li>Investigation with you teams to understand the requirements</li>
+<li>Build a solution and propose a customized architecture in approx. a days work</li>
+<li>Provide a network diagram and proposal document</li>
+<li>Understand how to move forward</li>
+<li>Present the solution to you</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/solution.png" alt="Providing a Solution">
+<h2><div class="packprice01">€449</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/solution.png" alt="Providing a Solution"></div>
 </h2>
-
 </div></div>
 
 
@@ -98,8 +99,8 @@ This is some presentation text before putting the bullet points explaining what 
 <li>And even this thing</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/project.png" alt="Project Management">
+<h2><div class="packprice01">€109</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/project.png" alt="Project Management"></div>
 </h2>
 
 </div></div>
@@ -112,8 +113,8 @@ This is some presentation text before putting the bullet points explaining what 
 <li>And even this thing</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/pricing.png" alt="Providing Pricing">
+<h2><div class="packprice01">€109</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/pricing.png" alt="Providing AWS Pricing"></div>
 </h2>
 
 </div></div>
@@ -126,10 +127,9 @@ This is some presentation text before putting the bullet points explaining what 
 <li>And even this thing</li>
 </ul>
 </p>
-<h2>€56
-<img style="float: right; margin: 0px 15px 0px 0px;" src="/img/packs/better.png" alt="Doing a better job">
+<h2><div class="packprice01">€109</div>
+<div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/better.png" alt="Doing a Better Job"></div>
 </h2>
-
 </div></div>
 </div>
 

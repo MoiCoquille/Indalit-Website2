@@ -108,7 +108,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>We are a great team.  Our objective is to keep our employes happy and extremely well trained.  This way we work in a healthy positive environment with the technical elite of the market place.  Priority is on competence and knowledge.</p>"
+    about_us = "<p>We are a great team.  Our objective is to keep our employes happy and extremely well trained.  This way we work in a healthy positive environment with the technical elite of the market place.  Priority is on competence and knowledge.  We believe this is what is required to provide a high-quality service to our customers.</p>"
     copyright = "Copyright (c) 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
