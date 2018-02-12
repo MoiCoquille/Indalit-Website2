@@ -186,4 +186,4 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
 [params.recent_posts]
     enable = true
     title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    subtitle = "Keeping up to date with the technologies and sharing this knowledge is important to us.  The open source model mindset applies perfectly to what we aim to be as a company.  To build you must actually do things, talk is simply not enough."
