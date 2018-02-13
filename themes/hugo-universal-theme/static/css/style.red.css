@@ -749,6 +749,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #fff;
   margin-bottom: 40px;
   letter-spacing: 0.08em;
+margin: auto;
 }
 @media (max-width: 991px) {
   #intro .item h1 {
@@ -1275,6 +1276,7 @@ fieldset[disabled] .btn-template-primary.active {
 .testimonials .item .testimonial:after {
   content: " ";
   display: table;
+  margin: auto;
 }
 .testimonials .item .testimonial:after {
   clear: both;
@@ -1304,6 +1306,7 @@ fieldset[disabled] .btn-template-primary.active {
   float: right;
   width: 80%;
   text-align: right;
+  margin: auto;
 }
 .testimonials .item .testimonial .name-picture h5 {
   font-size: 14px;
@@ -1331,6 +1334,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin-bottom: 5px;
   letter-spacing: 0.08em;
 }
+
 .team-member h3 a {
   color: #555555;
 }
