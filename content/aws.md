@@ -43,6 +43,15 @@ You might have your project in mind:
 	<li><span style="color:grey">Prepare your existing AWS assets for massive traffic or computing needs growth?</li>
 	<li><span style="color:grey">Audit an existing infrastructure?</li>
 	<li><span style="color:grey">Train your teams?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Migrate your physical infrastructure to the Cloud?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Extend your existing infrastructure to the Cloud?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Start a brand new project?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Prepared for new traffic or massive load?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Not sure what you have, need an audit?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Need to learn about AWS and it's services?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Understand pricing?</li>
+      <li><i class="fa fa-long-arrow-right"></i>You have a solution, what next?</li>
+
 </ul>
 
 <br />
