@@ -1,9 +1,9 @@
 +++
 title = "Creating the Packs Web Page"
 date = "2018-02-13T00:49:20+02:00"
-tags = ["Web Development"]
+tags = ["Creating My Company"]
 categories = ["Veronique Diary"]
-banner = "img/blog/veronique-superwoman.png"
+banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Veronique Super Women Creating the Packs Page"
 author = "Veronique Robitaille"
 +++
