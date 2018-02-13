@@ -2,7 +2,7 @@
 title = "AWS Storage Gateway Cheat Sheet"
 date = "2017-12-14T21:49:20+02:00"
 tags = ["Storage Gateway"]
-categories = ["AWS", "Cheat Sheet", "Storage"]
+categories = ["AWS", "cheatsheet", "Storage"]
 banner = "img/blog/aws-storage-gateway-cheatsheet.jpg"
 alt = "AWS Storage Gateway Cheat Sheet"
 author = "Veronique Robitaille"
