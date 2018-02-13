@@ -1,4 +1,4 @@
-weight: 3
+weight: 2
 title: "DevOps Consulting"
 description: >
    <p>
@@ -7,13 +7,13 @@ description: >
    <br />
    <p>
     <ul style="list-style: none;">
-      <li><i class="fa fa-long-arrow-right"></i>Got a project, need to make it happen?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Why not an audit after a new installation or down the road?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Anything not working as it should? Debug?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Is it a mess, need to industrialize?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Need a deployment mechanism?</li>
-      <li><i class="fa fa-long-arrow-right"></i>How about training on new technologies?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Want a first-class engineer that can pretty much do it all to accompany you in your project?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Understand your requirements, what do you want?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Review your current solution, what do you have?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Propose a solution, what you will have?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Implement the solution</li>
+      <li><i class="fa fa-long-arrow-right"></i>Document, train & hand-over to the support team, what do you need to know?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Troubleshoot current problems</li>
+      <li><i class="fa fa-long-arrow-right"></i>Audit your infrastructure</li>
      </ul>
    </p>
 

@@ -1,22 +1,24 @@
 weight: 1
 title: "AWS Consulting"
 description:  >
-  <p>
-    <strong>"Try AWS once, it's all it takes!"</strong>
-  </p>
-  <br />
-  <p>
-    <ul style="list-style: none;">
-      <li><i class="fa fa-long-arrow-right"></i>Migrate your physical infrastructure to the Cloud?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Extend your existing infrastructure to the Cloud?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Start a brand new project?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Prepared for new traffic or massive load?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Not sure what you have, need an audit?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Need to learn about AWS and it's services?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Understand pricing?</li>
-      <li><i class="fa fa-long-arrow-right"></i>You have a solution, what next?</li>
-    </ul>
-  </p>
-
+ <p>
+ <strong>"Try AWS once, it's all it takes!"</strong>
+ </p>
+ <br />
+ <p>
+ <ul style="list-style: none;">
+ <li><i class="fa fa-long-arrow-right"></i>Present AWS Cloud and it’s services, what can AWS do for you?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Review your current infrastructure if one exist, what do you have?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Understand your requirements, what do you want?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Design and propose your new infrastructure, what you will have?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Provide an estimation of monthly pricing, how much will it cost you?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Implement the solution</li>
+ <li><i class="fa fa-long-arrow-right"></i>If applicable, work on the migration with your team's, what must move?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Document, train & hand-over to the support team, what do you need to know?</li>
+ <li><i class="fa fa-long-arrow-right"></i>Troubleshooting current problems</li>
+ <li><i class="fa fa-long-arrow-right"></i>Upgrade a current infrastructure</li>
+ <li><i class="fa fa-long-arrow-right"></i>Audit your infrastructure, an AWS infrastructure or billing to see if you could pay less</li>
+ </ul>
+ </p>
 image: "img/carousel/aws-consulting.png"
 alt: "AWS and DevOps Consulting and Project Management"

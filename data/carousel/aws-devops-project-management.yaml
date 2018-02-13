@@ -1,15 +1,20 @@
-weight: 1
+weight: 3
 title: "Project Management"
 description:  >
+ <p>
+ <strong>"In today's world of project management, it can be easy to get lost in the overhead.  We go with a simple and straight to the point approach, no time wasted."</strong>
+ </p>
+ <br />
   <p>
     <ul style="list-style: none;">
-      <li><i class="fa fa-long-arrow-right"></i>Need someone to keep it all organised?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Require conception and initiation?</li>
-      <li><i class="fa fa-long-arrow-right"></i>What about Project definition and planning?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Once launched, who follows execution?</li>
-      <li><i class="fa fa-long-arrow-right"></i>You want to be responsible for project performance?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Keep your team working together?</li>
-      <li><i class="fa fa-long-arrow-right"></i>Only the essencials, no nonsense?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Understand the project, the technical aspects of solution to implement, who is involved, how much time will it take and document this</li>
+      <li><i class="fa fa-long-arrow-right"></i>Initiate the project</li>
+      <li><i class="fa fa-long-arrow-right"></i>Define the objectives, what are we aiming at?</li>
+      <li><i class="fa fa-long-arrow-right"></i>Build the project file and start planning</li>
+      <li><i class="fa fa-long-arrow-right"></i>Track the project step by step</li>
+      <li><i class="fa fa-long-arrow-right"></i>Provide status</li>
+      <li><i class="fa fa-long-arrow-right"></i>Control the progress and take corrective action when necessary</li>
+      <li><i class="fa fa-long-arrow-right"></i>Close the project</li>
     </ul>
   </p>
 
