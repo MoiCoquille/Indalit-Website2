@@ -44,20 +44,20 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
-    name  = "PACKS"
+    name  = "Packs"
     url  = "/packs/"
     weight  = 2
     identifier = "packs"
 
 [[menu.main]]
     name  = "AWS"
-    url  = "/aws/"
+    url  = "/aws-amazon-web-services-consultants/"
     weight  = 3
     identifier = "aws"
 
 [[menu.main]]
     name  = "DevOps"
-    url  = "/devops/"
+    url  = "/devops-consultants/"
     weight  = 4
     identifier = "devops"
 # Top bar social links menu
@@ -88,10 +88,12 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
-
+#    author = "DevCows"
+#    defaultKeywords = ["devows", "hugo", "go"]
+#    defaultDescription = "Site template made by devcows using hugo"
+	author = "Veronique Robitaille"
+	defaultKeywords = ["AWS", "Amazon Web Services", "Consultant"]
+	defaultDescription = "Indalit AWS Consultants"
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCSC6pldLflbgRPnKU6ESAoUUyrAL51rKI"
 
@@ -111,7 +113,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "v@indalit.com"
 
     about_us = "<p>We are a great team.  Our objective is to keep our employes happy and extremely well trained.  This way we work in a healthy positive environment with the technical elite of the market place.  Priority is on competence and knowledge.  We believe this is what is required to provide a high-quality service to our customers.</p>"
     copyright = "Copyright (c) 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
@@ -165,12 +167,12 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "The Founders"
+    subtitle = "Both founders come from a skilled background with much experience in each their field.  Founding a company was just the next logical step."
 
 [params.see_more]
     enable = true
