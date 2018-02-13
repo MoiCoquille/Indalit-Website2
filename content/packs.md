@@ -92,25 +92,31 @@ Finally decided to look into AWS seriously?  Have a project and want a solution 
   <div class="col-md-4 column-10"><div class="cell-10 my-column">
 
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
+Sometime ignored, but having a project manager makes everything better.
 
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
+<li>Document the objectives and goals, create and maintain the project document</li>
+<li>Work with all involved to move forward</li>
+<li>Organize one meeting a week for project review</li>
+<li>Participate in meetings planned by you</li>
+<li>Includes 4 to 6 hours a week</li>
+<li>For AWS projects, handled by a certified Solutions Architect who will have the advantage of understanding all the technical aspects</li>
 </ul>
 </p>
-<h2><div class="packprice01">€109</div>
+<h2><div class="packprice01">€299/week</div>
 <div class="packimg01"><img style="float: left; margin: 0px 0px 0px 0px;" src="/img/packs/project.png" alt="Project Management"></div>
 </h2>
 
 </div></div>
   <div class="col-md-4 column-11"><div class="cell-11 my-column">
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
+Why a pricing pack?  Because AWS pricing is not straight forward.  If you want a good estimate, then it's going to take some time to do it.  Often requires alot of work with your teams.
 
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
+<li>Includes 4 to 6 hours of work</li>
+<li>Data gathering to identify correct usage of each service</li>
+<li>Final video conference call to present the estimate and have a much needed Questions & Answers session</li>
+<li>Includes a second estimate based on changed requirements after the Questions & Answers</li>
 </ul>
 </p>
 <h2><div class="packprice01">€109</div>
@@ -120,11 +126,14 @@ This is some presentation text before putting the bullet points explaining what 
 </div></div>
   <div class="col-md-4 column-12"><div class="cell-12 my-column">
 <p>
-This is some presentation text before putting the bullet points explaining what is included.
-
+You already have an AWS infrastructure, but you need to make it better.  Handle more load, get better pricing, learnt lessons and more.
 <ul>
-<li>This is what is included</li>
-<li>And even this thing</li>
+<li>One subjet to "better" is chosen by you (billing, more load, ...)</li>
+<li>A 4 hours audit is done</li>
+<li>Work with your team to understand better the solution in place</li>
+<li>Improved solutions are considered and chosen</li>
+<li>Best solution in presented on a video conference call</li> 
+<li>How to move forward?</li>
 </ul>
 </p>
 <h2><div class="packprice01">€109</div>
