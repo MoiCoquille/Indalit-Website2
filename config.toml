@@ -176,9 +176,9 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     enable = true
     icon = "fa fa-file-code-o"
     title = "Do you want to know more?"
-    subtitle = "Visit the reste of the site to get more in depth information on the subjects we've just barely touched."
+    subtitle = "Visit the rest of the site to get more in depth information on the subjects we've just barely touched."
     link_url = "/packs/"
-    link_text = "Get the Details on the Packs"
+    link_text = "More on the Packs"
 
 [params.clients]
     enable = false
