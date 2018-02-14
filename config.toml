@@ -1,4 +1,4 @@
-baseurl = "https://example.org"
+baseurl = "http://www.indalit.com/"
 title = "Indalit Cloud Consulting"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -113,7 +113,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "v@indalit.com"
+    email = ""
 
     about_us = "<p>We are a great team.  Our objective is to keep our employes happy and extremely well trained.  This way we work in a healthy positive environment with the technical elite of the market place.  Priority is on competence and knowledge.  We believe this is what is required to provide a high-quality service to our customers.</p>"
     copyright = "Copyright (c) 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
@@ -133,8 +133,8 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
 </p>
 """
 
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+    latitude = "39.484992999999996"
+    longitude = "-0.402362900000071"
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
