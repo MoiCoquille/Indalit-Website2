@@ -17,6 +17,7 @@ googleAnalytics = ""
 
 # Define the number of posts per page
 paginate = 10
+PaginatePath = "page"
 
 [menu]
 
