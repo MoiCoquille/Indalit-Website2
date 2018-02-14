@@ -22,7 +22,7 @@ type = "page"
 <h4 class="font01">
 
 <p>
-<a href="https://www.aws.com">Amazon Web Services</a> is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.
+<a href="https://aws.amazon.com">Amazon Web Services</a> is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.
 </p>
 
 <br />
