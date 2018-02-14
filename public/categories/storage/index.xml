@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storage on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/categories/storage/</link>
+    <description>Recent content in Storage on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/categories/storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Storage Gateway Cheat Sheet</title>
+      <link>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+    <item>
+      <title>AWS S3 Encryption SSE-C</title>
+      <link>http://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys? For more information on Amazon S3 Encryption see: https://aws.amazon.com/s3/faqs/</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Ephemeral Storage</title>
+      <link>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite</title>
+      <link>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
+      <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes? For more information on Amazon Glacier Expedite Option see: http://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Minimum Pricing</title>
+      <link>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it? For more information on Amazon Glacier pricing see: https://aws.amazon.com/glacier/pricing/</description>
+    </item>
+    
+  </channel>
+</rss>

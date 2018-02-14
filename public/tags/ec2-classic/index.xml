@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ec2 Classic on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/ec2-classic/</link>
+    <description>Recent content in Ec2 Classic on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/ec2-classic/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS EC2 Instances T2 VPC</title>
+      <link>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC. For more information on Amazon EC2 T2 instance family type see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html</description>
+    </item>
+    
+  </channel>
+</rss>

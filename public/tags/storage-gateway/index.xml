@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storage Gateway on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/storage-gateway/</link>
+    <description>Recent content in Storage Gateway on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/storage-gateway/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS Storage Gateway Cheat Sheet</title>
+      <link>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
+    </item>
+    
+  </channel>
+</rss>

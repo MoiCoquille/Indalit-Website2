@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/categories/</link>
+    <description>Recent content in Categories on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aws</title>
+      <link>http://www.indalit.com/categories/aws/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheatsheet</title>
+      <link>http://www.indalit.com/categories/cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compute</title>
+      <link>http://www.indalit.com/categories/compute/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://www.indalit.com/categories/database/</link>
+      <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did You Know</title>
+      <link>http://www.indalit.com/categories/did-you-know/</link>
+      <pubDate>Wed, 20 Sep 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/did-you-know/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Messaging</title>
+      <link>http://www.indalit.com/categories/messaging/</link>
+      <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking  Content Delivery</title>
+      <link>http://www.indalit.com/categories/networking--content-delivery/</link>
+      <pubDate>Wed, 20 Sep 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/networking--content-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>http://www.indalit.com/categories/storage/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/storage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veronique Diary</title>
+      <link>http://www.indalit.com/categories/veronique-diary/</link>
+      <pubDate>Tue, 13 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/categories/veronique-diary/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

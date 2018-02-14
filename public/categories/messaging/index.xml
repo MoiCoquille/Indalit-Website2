@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Messaging on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/categories/messaging/</link>
+    <description>Recent content in Messaging on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jul 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/categories/messaging/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS SQS Messaging Deleting a Queue</title>
+      <link>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
+      <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
+      <description>Did you know if an Amazon SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+    </item>
+    
+  </channel>
+</rss>

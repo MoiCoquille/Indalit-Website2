@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</loc>
+    <lastmod>2018-02-13T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</loc>
+    <lastmod>2017-10-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/09/20/aws-vpc-span/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</loc>
+    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</loc>
+    <lastmod>2017-07-12T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</loc>
+    <lastmod>2017-07-11T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</loc>
+    <lastmod>2017-06-26T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</loc>
+    <lastmod>2017-06-20T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</loc>
+    <lastmod>2017-06-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</loc>
+    <lastmod>2017-06-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</loc>
+    <lastmod>2017-06-15T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/aws-amazon-web-services-consultants/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/auto-scaling/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/aws/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/</loc>
+    <lastmod>2018-02-13T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/cheatsheet/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/compute/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/configuration/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/creating-my-company/</loc>
+    <lastmod>2018-02-13T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/database/</loc>
+    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/devops-consultants/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/did-you-know/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/ebs/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/ec2-classic/</loc>
+    <lastmod>2017-06-26T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/ec2-instances/</loc>
+    <lastmod>2017-07-12T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/encryption/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/glacier/</loc>
+    <lastmod>2017-06-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/</loc>
+    <lastmod>2018-02-13T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/ip/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/messaging/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/networking--content-delivery/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/os/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/packs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/pricing/</loc>
+    <lastmod>2017-06-15T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/rds/</loc>
+    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/s3/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/sqs/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/storage/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/storage-gateway/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/veronique-diary/</loc>
+    <lastmod>2018-02-13T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/vpc/</loc>
+    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

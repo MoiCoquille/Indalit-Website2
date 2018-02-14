@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ec2 Instances on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/ec2-instances/</link>
+    <description>Recent content in Ec2 Instances on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS EC2 Ephemeral Storage</title>
+      <link>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances T2 VPC</title>
+      <link>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC. For more information on Amazon EC2 T2 instance family type see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Public IP</title>
+      <link>http://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
+      <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped. For more information on Amazon EC2 Instances IP addressing see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Intances Metadata</title>
+      <link>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
+For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
+    </item>
+    
+  </channel>
+</rss>

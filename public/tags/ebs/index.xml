@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ebs on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/ebs/</link>
+    <description>Recent content in Ebs on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/ebs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+  </channel>
+</rss>

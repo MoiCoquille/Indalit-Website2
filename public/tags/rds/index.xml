@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rds on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/rds/</link>
+    <description>Recent content in Rds on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jul 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/rds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS RDS Multi Availability Zone Deployment</title>
+      <link>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
+      <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
+    </item>
+    
+    <item>
+      <title>AWS RDS Database Read Replicas</title>
+      <link>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
+      <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
+    </item>
+    
+  </channel>
+</rss>

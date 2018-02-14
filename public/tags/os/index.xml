@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Os on Indalit Cloud Consulting</title>
+    <link>http://www.indalit.com/tags/os/</link>
+    <description>Recent content in Os on Indalit Cloud Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2017 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.indalit.com/tags/os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Intances Metadata</title>
+      <link>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
+For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
+    </item>
+    
+  </channel>
+</rss>
