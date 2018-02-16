@@ -30,6 +30,25 @@
     </item>
     
     <item>
+      <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
+      <link>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
+For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Amazon GuardDuty</title>
+      <link>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
+    </item>
+    
+    <item>
       <title>A Sort of Personal Blog</title>
       <link>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</link>
       <pubDate>Sun, 01 Oct 2017 21:49:20 +0200</pubDate>
@@ -66,12 +85,12 @@
     </item>
     
     <item>
-      <title>AWS SQS Messaging Deleting a Queue</title>
+      <title>AWS Deleting the Queue After 30 Days</title>
       <link>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
-      <description>Did you know if an Amazon SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+      <description>Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue? For more information on Amazon Web Services SQS Queues and what AWS can do with them see: https://cloudacademy.com/quiz/study/411880/</description>
     </item>
     
     <item>

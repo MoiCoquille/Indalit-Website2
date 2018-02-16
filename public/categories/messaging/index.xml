@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>AWS SQS Messaging Deleting a Queue</title>
+      <title>AWS Deleting the Queue After 30 Days</title>
       <link>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
-      <description>Did you know if an Amazon SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+      <description>Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue? For more information on Amazon Web Services SQS Queues and what AWS can do with them see: https://cloudacademy.com/quiz/study/411880/</description>
     </item>
     
   </channel>

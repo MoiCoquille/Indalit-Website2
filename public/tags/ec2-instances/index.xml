@@ -6,10 +6,20 @@
     <description>Recent content in Ec2 Instances on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jul 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
+      <link>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
+For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
+    </item>
     
     <item>
       <title>AWS EC2 Ephemeral Storage</title>

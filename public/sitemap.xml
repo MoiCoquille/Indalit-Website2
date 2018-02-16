@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</loc>
     <lastmod>2017-10-01T21:49:20+02:00</lastmod>
   </url>
@@ -123,7 +133,7 @@
   
   <url>
     <loc>http://www.indalit.com/categories/compute/</loc>
-    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -155,7 +165,7 @@
   
   <url>
     <loc>http://www.indalit.com/categories/did-you-know/</loc>
-    <lastmod>2017-09-20T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -173,7 +183,7 @@
   
   <url>
     <loc>http://www.indalit.com/tags/ec2-instances/</loc>
-    <lastmod>2017-07-12T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,6 +196,12 @@
   <url>
     <loc>http://www.indalit.com/tags/glacier/</loc>
     <lastmod>2017-06-20T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/tags/guard-duty/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,6 +230,12 @@
   </url>
   
   <url>
+    <loc>http://www.indalit.com/categories/new-aws-service/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.indalit.com/tags/os/</loc>
     <lastmod>2017-07-28T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -238,6 +260,12 @@
   <url>
     <loc>http://www.indalit.com/tags/s3/</loc>
     <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.indalit.com/categories/security-identity--compliance/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
