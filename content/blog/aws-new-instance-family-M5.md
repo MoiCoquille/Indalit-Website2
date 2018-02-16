@@ -4,7 +4,7 @@ date = "2017-12-01T21:49:20+02:00"
 tags = ["EC2 Instances"]
 categories = ["AWS", "Did You Know", "Compute", "New AWS Service"]
 banner = "img/blog/aws-new-m5-general-purpose-instance.jpg"
-alt = "Text"
+alt = "A new general purpose instance family type M5"
 author = "Veronique Robitaille"
 +++
 

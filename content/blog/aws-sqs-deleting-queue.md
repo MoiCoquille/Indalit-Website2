@@ -3,7 +3,7 @@ title = "AWS Deleting the Queue After 30 Days"
 date = "2017-07-17T21:49:20+02:00"
 tags = ["SQS"]
 categories = ["AWS", "Did You Know", "Messaging"]
-banner = "img/blog/aws-delete-queue-sqs.png"
+banner = "img/blog/aws-sqs-deleting-queue.jpg"
 alt = "AWS can delete a SQS queue after 30 days"
 author = "Veronique Robitaille"
 +++
