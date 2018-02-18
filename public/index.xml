@@ -6,10 +6,38 @@
     <description>Recent content on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging www.indalit.com</title>
+      <link>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
+      <description>On my previous post I was working on www.indalit.com. First of all, I, innocent me, actually thought I was finished. But then, I made the mistake at looking at the page with my mobile phone!!! And then making my browser screen smaller!!! Wow, horrible. So, it turns out working with CSS and positioning correctly DIVs is just not a beginners thing. Took me hours of work. Now it works great, but my associate has decided it needs to be centered.</description>
+    </item>
+    
+    <item>
+      <title>Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent</title>
+      <link>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</guid>
+      <description>Environment  Hugo Static Website Generator version v0.36 Hugo Universal Theme Hosted on AWS S3 in http only Image size as per examples : 1000 x 750 .js and .css files have not been modified  What should be happening When going on the BLOG page, a list of most recent blog post will appear one after the other with the associated image on the left.
+What is happening  When going on the BLOG page, a list of most recent blog post will appear one after the other with or without the image on the left.</description>
+    </item>
+    
+    <item>
+      <title>AWS VPC To Span Across AZs</title>
+      <link>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
+    </item>
     
     <item>
       <title>Creating the Packs Web Page</title>
@@ -17,7 +45,7 @@
       <pubDate>Tue, 13 Feb 2018 00:49:20 +0200</pubDate>
       
       <guid>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
-      <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base, after that you have alot of modifications to do.</description>
+      <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base and after that you have a lot of modifications to do.</description>
     </item>
     
     <item>
@@ -55,15 +83,6 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       
       <guid>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</guid>
       <description>Yes, it&amp;rsquo;s official, we are starting the process of creating our company. I assume this will take a few months, but I am not in a hurry. At this stage roles are not clear, so I go with the flow. For now, I seem responsible for the design/creation and configuration of our website Indalit.com and it&amp;rsquo;s content. So, I decided on having a blog. Inicially thinking it will look professional, be a good place to publish what I write about AWS and help with SEO.</description>
-    </item>
-    
-    <item>
-      <title>AWS VPC To Span Across AZs</title>
-      <link>http://www.indalit.com/blog/2017/09/20/aws-vpc-span/</link>
-      <pubDate>Wed, 20 Sep 2017 21:49:20 +0200</pubDate>
-      
-      <guid>http://www.indalit.com/blog/2017/09/20/aws-vpc-span/</guid>
-      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
     </item>
     
     <item>
@@ -201,7 +220,7 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
       <guid>http://www.indalit.com/contact/</guid>
       <description>We are here to help you Are you curious about something? Do you need more information about our company , our services and packs. Or maybe you are in need of professional expertise in AWS Cloud Technologies or the DevOps realm. Then don&amp;rsquo;t hesitate, we are here to help.
 Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.
-+34 619 466 892</description>
++34 699 184 246</description>
     </item>
     
     <item>
@@ -215,12 +234,21 @@ Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.
     
     <item>
       <title>PACKS</title>
+      <link>http://www.indalit.com/backpacks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.indalit.com/backpacks/</guid>
+      <description>Discover Our Packs
+AWS Presentation Pack   Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call  €239       AWS Training Pack Test   Need all the theory about a specific AWS service?</description>
+    </item>
+    
+    <item>
+      <title>PACKS</title>
       <link>http://www.indalit.com/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www.indalit.com/packs/</guid>
-      <description>Discover Our Packs
-AWS Presentation Pack   Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call  €239       AWS Training Pack Test   Need all the theory about a specific AWS service?</description>
+      <description>Discover Our Packages AWS Presentation Pack Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call  €239     AWS Training Pack Need all the theory about a specific AWS service?</description>
     </item>
     
   </channel>

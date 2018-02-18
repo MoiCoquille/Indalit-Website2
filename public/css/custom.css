@@ -15,107 +15,118 @@
 	font-weight: normal;
 }
 
-.header01 {
+.texture-packs {
+  background: url('../img/packs/background-grey.jpeg') center center repeat;
 }
 
-.packprice01 {
-	position: absolute;
-	right: 45px;
-	bottom: 35px;
-	top: 270px;
+
+.aws-consulting {
+    line-height: 1.6;
+}
+
+
+.packprice01 .h2 {
+    position: absolute;
+    right: 45px;
+    bottom: 35px;
+    top: 270px;
 }
 
 .packimg01 {
 	position: absolute;
 	bottom: 15px;
+	width: 100%;
 }
 
-.my-column {
-    padding: 10px 10px 10px 10px;
-	vertical-align: top;
+.packimg02 {
+    margin: 0px 20px 0px 0px;
+}
+
+.cellgroup-01 {
+    text-align: center;
+    border-radius: 50px 50px 0px 0px;
+}
+
+.cellgroup-02 {
+    height: 100%;
+    width: 100%;
+    text-align: left !important;
+    background-color: #ffffff !important;
+    border-radius: 0px 0px 25px 25px;
 }
 
 .cell-01 {
-	background: #1ca138;
-	text-align: center;
-	border-radius: 50px 50px 0px 0px;
+	background-color: #1ca138;
+    margin: 10px 30px 0px 30px;
 }
 
 .cell-02 {
-    background: #2196f3;
-	text-align: center;
-    border-radius: 50px 50px 0px 0px;
+    background-color: #2196f3;
+    margin: 0px 30px 0px 30px;
 }
 
 .cell-03 {
-    background: #d84315;
-	text-align: center;
-    border-radius: 50px 50px 0px 0px;
+	background-color: #d84315;
+    margin: 0px 30px 0px 30px;
 }
 
 .cell-04 {
     border: 5px solid #1ca138;
-    height: 350px;
-    border-radius: 0px 0px 15px 15px;
 }
 
 .cell-05 {
     border: 5px solid #2196f3;
-    height: 350px;
-	border-radius: 0px 0px 15px 15px;
 }
 
 .cell-06 {
     border: 5px solid #d84315;
-    height: 350px;
-    border-radius: 0px 0px 15px 15px;
 }
 
 .cell-07 {
 	background: #d84315;
-	text-align: center;
-    margin: 30px 0px 0px 0px;
-    border-radius: 50px 50px 0px 0px;
+    margin: 20px 30px 0px 30px;
 }
+
 
 .cell-08 {
     background: #fcd308;
-	text-align: center;
-    margin: 30px 0px 0px 0px;
-    border-radius: 50px 50px 0px 0px;
+    margin: 20px 30px 0px 30px;
 }
 
 .cell-09 {
     background: #1ca138;
-	text-align: center;
-    margin: 30px 0px 0px 0px;
-    border-radius: 50px 50px 0px 0px;
+    margin: 20px 30px 0px 30px;
 }
 
 .cell-10 {
     border: 5px solid #d84315;
-    border-radius: 0px 0px 15px 15px;
-    height: 350px;
 }
 
 .cell-11 {
     border: 5px solid #fcd308;
-    border-radius: 0px 0px 15px 15px;
-    height: 350px;
 }
 
 
 .cell-12 {
     border: 5px solid #1ca138;
-    border-radius: 0px 0px 15px 15px;
-    height: 350px;
 }
 
 
 
 /* Clear floats after the columns */
-.row:after {
+/*.row:after {
     content: "";
     display: table;
     clear: both;
+}
+*/
+
+#blog-listing-medium .post .image {
+	margin-bottom: 10px;
+	overflow: hidden;
+	min-height: 196px;
+}
+
+#blog-listing-big .post .image {
+	margin-bottom: 10px;
 }
