@@ -6,10 +6,19 @@
     <description>Recent content in Aws on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS VPC To Span Across AZs</title>
+      <link>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
+    </item>
     
     <item>
       <title>AWS Storage Gateway Cheat Sheet</title>
@@ -37,15 +46,6 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       
       <guid>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
-    </item>
-    
-    <item>
-      <title>AWS VPC To Span Across AZs</title>
-      <link>http://www.indalit.com/blog/2017/09/20/aws-vpc-span/</link>
-      <pubDate>Wed, 20 Sep 2017 21:49:20 +0200</pubDate>
-      
-      <guid>http://www.indalit.com/blog/2017/09/20/aws-vpc-span/</guid>
-      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
     </item>
     
     <item>

@@ -30,12 +30,12 @@
 
   
   
-    <link href="http://www.indalit.com/css/style.red.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="/css/style.red.css" rel="stylesheet" id="theme-stylesheet">
   
 
 
   
-  <link href="http://www.indalit.com/css/custom.css" rel="stylesheet">
+  <link href="/css/custom.css" rel="stylesheet">
 
   
   
@@ -179,6 +179,82 @@
                     <div class="col-md-9" id="blog-listing-medium">
 
                         
+                        
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/">
+                                          
+                                          <img src="http://www.indalit.com/img/blog/aws-sqs-deleting-queue.jpg" class="img-responsive"
+                                             alt="AWS can delete a SQS queue after 30 days">
+                                            
+                                          
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/">AWS Deleting the Queue After 30 Days</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          
+                                          By <a href="#">Veronique Robitaille</a>
+                                          
+                                          
+                                          
+                                          in <a href="http://www.indalit.com/categories/aws">AWS</a>
+                                          
+                                          
+
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/"><i class="fa fa-calendar-o"></i> July 17, 2017</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue? For more information on Amazon Web Services SQS Queues and what AWS can do with them see: https://cloudacademy.com/quiz/study/411880/</p>
+                                    <p class="read-more"><a href="http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/" class="btn btn-template-main">Continue reading</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                        
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/">
+                                          
+                                          <img src="http://www.indalit.com/img/blog/aws-rds-multiaz-deployment.jpg" class="img-responsive"
+                                             alt="AWS RDS Database in Multi AZ Deployment">
+                                            
+                                          
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/">AWS RDS Multi Availability Zone Deployment</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          
+                                          By <a href="#">Veronique Robitaille</a>
+                                          
+                                          
+                                          
+                                          in <a href="http://www.indalit.com/categories/aws">AWS</a>
+                                          
+                                          
+
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/"><i class="fa fa-calendar-o"></i> July 14, 2017</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</p>
+                                    <p class="read-more"><a href="http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/" class="btn btn-template-main">Continue reading</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
                         
                         <section class="post">
                             <div class="row">
@@ -485,52 +561,14 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
                             </div>
                         </section>
                         
-                        <section class="post">
-                            <div class="row">
-                                <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/">
-                                          
-                                          <img src="http://www.indalit.com/img/blog/aws-autoscaling-termination-policy.png" class="img-responsive"
-                                             alt="Turning off AWS Auto Scaling">
-                                            
-                                          
-                                      </a>
-                                  </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <h2><a href="http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/">AWS Auto Scaling Termination Policy</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          
-                                          By <a href="#">Veronique Robitaille</a>
-                                          
-                                          
-                                          
-                                          in <a href="http://www.indalit.com/categories/aws">AWS</a>
-                                          
-                                          
-
-                                        </p>
-                                        <p class="date-comments">
-                                            <a href="http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/"><i class="fa fa-calendar-o"></i> June 13, 2017</a>
-                                        </p>
-                                    </div>
-                                    <p class="intro">Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</p>
-                                    <p class="read-more"><a href="http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/" class="btn btn-template-main">Continue reading</a>
-                                    </p>
-                                </div>
-                            </div>
-                        </section>
-                        
 
                         <ul class="pager">
                             
                             <li class="previous"><a href="/blog/">&larr; Newer</a></li>
                             
 
-                            
-                            <li class="next disabled"><a href="#">Older &rarr;</a></li>
+                             
+                            <li class="next"><a href="/blog/page/3/">Older &rarr;</a></li>
                             
                         </ul>
                     </div>
@@ -583,6 +621,9 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
             <li><a href="http://www.indalit.com/categories/aws">aws (17)</a>
             </li>
             
+            <li><a href="http://www.indalit.com/categories/bug-report">bug-report (1)</a>
+            </li>
+            
             <li><a href="http://www.indalit.com/categories/cheatsheet">cheatsheet (1)</a>
             </li>
             
@@ -610,7 +651,7 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
             <li><a href="http://www.indalit.com/categories/storage">storage (6)</a>
             </li>
             
-            <li><a href="http://www.indalit.com/categories/veronique-diary">veronique-diary (2)</a>
+            <li><a href="http://www.indalit.com/categories/veronique-diary">veronique-diary (3)</a>
             </li>
             
         </ul>
@@ -683,6 +724,9 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
             <li><a href="http://www.indalit.com/tags/vpc"><i class="fa fa-tags"></i> vpc</a>
             </li>
             
+            <li><a href="http://www.indalit.com/tags/web-development"><i class="fa fa-tags"></i> web-development</a>
+            </li>
+            
         </ul>
     </div>
 </div>
@@ -730,40 +774,40 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://www.indalit.com/blog/2018/02/13/veronique-packs-page/">
+                        <a href="http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/">
                           
-                            <img src="http://www.indalit.com/img/blog/veronique-wonderwoman.jpg" class="img-responsive" alt="Creating the Packs Web Page">
+                            <img src="http://www.indalit.com/img/blog/veronique-wonderwoman.jpg" class="img-responsive" alt="Debugging www.indalit.com">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://www.indalit.com/blog/2018/02/13/veronique-packs-page/">Creating the Packs Web Page</a></h5>
+                        <h5><a href="http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/">Debugging www.indalit.com</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/">
+                        <a href="http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/">
                           
-                            <img src="http://www.indalit.com/img/blog/aws-storage-gateway-cheatsheet.jpg" class="img-responsive" alt="AWS Storage Gateway Cheat Sheet">
+                            <img src="http://www.indalit.com/img/blog/bug-report-hugo-image-loading.png" class="img-responsive" alt="Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/">AWS Storage Gateway Cheat Sheet</a></h5>
+                        <h5><a href="http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/">Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent</a></h5>
                     </div>
                 </div>
                 
                 <div class="item same-height-row clearfix">
                     <div class="image same-height-always">
-                        <a href="http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/">
+                        <a href="http://www.indalit.com/blog/2018/02/15/aws-vpc-span/">
                           
-                            <img src="http://www.indalit.com/img/blog/aws-new-m5-general-purpose-instance.jpg" class="img-responsive" alt="AWS Has Launched a New General Purpose Instance Family, M5">
+                            <img src="http://www.indalit.com/img/blog/aws-vpc-span.jpg" class="img-responsive" alt="AWS VPC To Span Across AZs">
                           
                         </a>
                     </div>
                     <div class="name same-height-always">
-                        <h5><a href="http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/">AWS Has Launched a New General Purpose Instance Family, M5</a></h5>
+                        <h5><a href="http://www.indalit.com/blog/2018/02/15/aws-vpc-span/">AWS VPC To Span Across AZs</a></h5>
                     </div>
                 </div>
                 
@@ -785,7 +829,7 @@ For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2
 <br>46015 Valencia
 <strong>Spain</strong>
 <br>
-<br>+34 619 466 892
+<br>+34 699 184 246
 <br>
 
 
@@ -844,7 +888,7 @@ Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from 
 <script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
 
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCSC6pldLflbgRPnKU6ESAoUUyrAL51rKI&v=3.exp"></script>
+<script src="//maps.googleapis.com/maps/api/js?v=3.exp"></script>
 
 <script src="http://www.indalit.com/js/hpneo.gmaps.js"></script>
 <script src="http://www.indalit.com/js/gmaps.init.js"></script>
