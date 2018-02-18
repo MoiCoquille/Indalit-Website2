@@ -1,0 +1,36 @@
+diff --git a/themes/hugo-universal-theme/static/css/style.red.css b/themes/hugo-universal-theme/static/css/style.red.css
+index d659af4..1c2c7b3 100644
+--- a/themes/hugo-universal-theme/static/css/style.red.css
++++ b/themes/hugo-universal-theme/static/css/style.red.css
+@@ -2036,7 +2036,6 @@ margin: auto;
+ @media (max-width: 767px) {
+   #blog-listing-big .post .image img.img-responsive,
+   #blog-homepage .post .image img.img-responsive {
+-    min-width: 100%;
+   }
+ }
+ #blog-listing-big .post .video,
+@@ -2120,6 +2119,7 @@ margin: auto;
+ #blog-listing-medium .post .navbar-header:after {
+   clear: both;
+ }
++
+ #blog-listing-medium .post .image {
+   margin-bottom: 10px;
+   overflow: hidden;
+@@ -2134,6 +2134,7 @@ margin: auto;
+     min-width: 100%;
+   }
+ }
++
+ #blog-listing-medium .post .video {
+   margin-bottom: 10px;
+ }
+@@ -2253,7 +2254,6 @@ margin: auto;
+ }
+ @media (max-width: 767px) {
+   .product .image img.img-responsive {
+-    min-width: 100%;
+   }
+ }
+ .product .text {
