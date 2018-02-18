@@ -1,6 +1,6 @@
 +++
 title = "AWS VPC To Span Across AZs"
-date = "2017-09-20T21:49:20+02:00"
+date = "2018-02-15T21:49:20+02:00"
 tags = ["Configuration", "IP", "VPC" ]
 categories = ["AWS", "Did You Know?", "Networking & Content Delivery"]
 banner = "img/blog/aws-vpc-span.jpg"

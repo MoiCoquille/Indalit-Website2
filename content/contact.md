@@ -10,6 +10,6 @@ Are you curious about something? Do you need more information about our company 
 Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.
 
 
-<img style="float" src="/img/contact/telephone.png" width="40" alt="Telephone"> +34 619 466 892 
+<img style="float" src="/img/contact/telephone.png" width="40" alt="Telephone"> +34 699 184 246
 
 <img style="float" src="/img/contact/email.png" width="40" alt="Email"> <a href="mailto:v@indalit.com">v@indalit.com</a>

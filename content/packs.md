@@ -48,8 +48,8 @@ Need all the theory about a specific AWS service?  An in depth technical present
 <li>1 AWS service chosen by you</li>
 <li>Questionaire to test your newly acquired knowledge</li>
 <li>Questions and Answers at the end</li>
-<li>Guidelines on how to become an expert at this one subject</li>
 <li>Slides and Cheat Sheet provided</li>
+<li>Guidelines on how to become an expert at this one subject</li>
 </ul>
 <h2 class="packprice01">€109</h2>
 
