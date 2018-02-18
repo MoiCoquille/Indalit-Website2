@@ -6,15 +6,12 @@ description:  >
  </p>
  <br />
   <p>
-    <ul style="list-style: none;">
+    <ul style="list-style: none;" class=" aws-consulting">
       <li><i class="fa fa-long-arrow-right"></i>  Understand the project, the technical aspects of solution to implement, who is involved, how much time will it take and document this</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Initiate the project</li>
       <li><i class="fa fa-long-arrow-right"></i>  Define the objectives, what are we aiming at?</li>
       <li><i class="fa fa-long-arrow-right"></i>  Build the project file and start planning</li>
       <li><i class="fa fa-long-arrow-right"></i>  Track the project step by step</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Provide status</li>
       <li><i class="fa fa-long-arrow-right"></i>  Control the progress and take corrective action when necessary</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Close the project</li>
     </ul>
   </p>
 
