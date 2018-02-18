@@ -6,10 +6,19 @@
     <description>Recent content in Creating My Company on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Feb 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/tags/creating-my-company/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debugging www.indalit.com</title>
+      <link>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
+      <description>On my previous post I was working on www.indalit.com. First of all, I, innocent me, actually thought I was finished. But then, I made the mistake at looking at the page with my mobile phone!!! And then making my browser screen smaller!!! Wow, horrible. So, it turns out working with CSS and positioning correctly DIVs is just not a beginners thing. Took me hours of work. Now it works great, but my associate has decided it needs to be centered.</description>
+    </item>
     
     <item>
       <title>Creating the Packs Web Page</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 13 Feb 2018 00:49:20 +0200</pubDate>
       
       <guid>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
-      <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base, after that you have alot of modifications to do.</description>
+      <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base and after that you have a lot of modifications to do.</description>
     </item>
     
     <item>
