@@ -6,10 +6,21 @@
     <description>Recent content in Ec2 Instances on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon EBS Volumes Delete on Instance Termination</title>
+      <link>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
+You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
+    </item>
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>

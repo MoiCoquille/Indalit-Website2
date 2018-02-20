@@ -30,5 +30,16 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
     </item>
     
+    <item>
+      <title>AWS Launches Fargate, Containers without EC2 Instances</title>
+      <link>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
+      <description>Did you know Amazon launched AWS Fargate?
+The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
+Read on this subject for more information on AWS Fargate.</description>
+    </item>
+    
   </channel>
 </rss>

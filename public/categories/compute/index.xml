@@ -6,10 +6,21 @@
     <description>Recent content in Compute on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="http://www.indalit.com/categories/compute/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Amazon EBS Volumes Delete on Instance Termination</title>
+      <link>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
+You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
+    </item>
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
@@ -19,6 +30,17 @@
       <guid>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
       <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
 For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Fargate, Containers without EC2 Instances</title>
+      <link>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
+      <description>Did you know Amazon launched AWS Fargate?
+The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
+Read on this subject for more information on AWS Fargate.</description>
     </item>
     
     <item>
