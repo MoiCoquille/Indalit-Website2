@@ -1,5 +1,6 @@
 /* your styles go here */
 
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -67,7 +68,7 @@
     text-align: left !important;
     background-color: #ffffff !important;
     border-radius: 0px 0px 25px 25px;
-	padding: 5px;
+	padding: 5px 0px 0px 5px;
 }
 
 .cell-01 {
