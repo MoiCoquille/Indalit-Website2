@@ -18,6 +18,7 @@ id = "packs"
       <div class="row">
         <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-04 cellgroup-02">
 
+<h4 class="font02">
 Need to quickly understand AWS, it's most important services and the pricing?  An introductory presentation is what you need.  Given by a certified Solutions Architect who can guide you and answer your questions.
 
 <ul>
@@ -28,6 +29,8 @@ Need to quickly understand AWS, it's most important services and the pricing?  A
 <li>Slides provided</li>
 <li>1 hour follow-up call</li>
 </ul>
+
+</h4>
 
 <h2 class="packprice01">€239</h2>
 
@@ -41,6 +44,9 @@ Need to quickly understand AWS, it's most important services and the pricing?  A
     <h3>AWS Training Pack</h3>
     <div class="row">
       <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-05 cellgroup-02">
+
+<h4 class="font02">
+
 Need all the theory about a specific AWS service?  An in depth technical presentation of your choice.
 <ul>
 <li>Online video conferencing</li>
@@ -51,6 +57,9 @@ Need all the theory about a specific AWS service?  An in depth technical present
 <li>Slides and Cheat Sheet provided</li>
 <li>Guidelines on how to become an expert at this one subject</li>
 </ul>
+
+</h4>
+
 <h2 class="packprice01">€109</h2>
 
 <div class="packimg01"><img class="packimg02" style="float: right" src="/img/packs/training.png" alt="Receiving a Reward"></div>
@@ -63,6 +72,9 @@ Need all the theory about a specific AWS service?  An in depth technical present
     <h3>AWS Solution Pack</h3>
     <div class="row">
       <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-06 cellgroup-02">
+
+<h4 class="font02">
+
 Finally decided to look into AWS seriously?  Have a project and want a solution to build it on AWS?  Need a personalized proposal?
 <ul>
 <li>Investigation with you teams to understand the requirements</li>
@@ -71,6 +83,9 @@ Finally decided to look into AWS seriously?  Have a project and want a solution 
 <li>Understand how to move forward</li>
 <li>Present the solution to you</li>
 </ul>
+
+</h4>
+
 <h2 class="packprice01">€449</h2>
 
 <div class="packimg01"><img class="packimg02" style="float: right" src="/img/packs/solution.png" alt="Providing a Solution"></div>
@@ -85,6 +100,9 @@ Finally decided to look into AWS seriously?  Have a project and want a solution 
     <h3>AWS Pricing Pack</h3>
     <div class="row">
       <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-10 cellgroup-02">
+
+<h4 class="font02">
+
 Why a pricing pack?  Because AWS pricing is not straight forward.  If you want a good estimate, then it's going to take some time to do it.  Often requires alot of work with your teams.
 <ul>
 <li>Includes 4 to 6 hours of work</li>
@@ -92,6 +110,9 @@ Why a pricing pack?  Because AWS pricing is not straight forward.  If you want a
 <li>First estimate presented and Questions & Answers session</li>
 <li>Second estimate included if first is not approved within your company</li>
 </ul>
+
+</h4>
+
 <h2 class="packprice01">€109</h2>
 
 <div class="packimg01"><img class="packimg02" style="float: right" src="/img/packs/pricing.png" alt="Providing AWS Pricing"></div>
@@ -106,6 +127,9 @@ Why a pricing pack?  Because AWS pricing is not straight forward.  If you want a
     <h3>AWS Project Pack</h3>
     <div class="row">
       <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-11 cellgroup-02">
+
+<h4 class="font02">
+
 Sometime ignored, but having a project manager makes everything better.
 <ul>
 <li>Document the objectives and goals, create and maintain the project document</li>
@@ -113,8 +137,10 @@ Sometime ignored, but having a project manager makes everything better.
 <li>Organize one meeting a week for project review</li>
 <li>Participate in meetings planned by you</li>
 <li>Includes 4 to 6 hours a week</li>
-<li>Done by Solutions Architect </li>
 </ul>
+
+</h4>
+
 <h2 class="packprice01">€299</h2>
 
 <div class="packimg01"><img class="packimg02" style="float: right" src="/img/packs/project.png" alt="Project Management"></div>
@@ -132,6 +158,9 @@ Sometime ignored, but having a project manager makes everything better.
     <h3>AWS Better Pack</h3>
     <div class="row">
       <div style="background-color:white; text-align:left; width:100%" class="col-sm-3 cell-12 cellgroup-02">
+
+<h4 class="font02">
+
 You already have an AWS infrastructure, but you need to make it better.  Handle more load, get better pricing, learnt lessons and more.
 <ul>
 <li>One subjet to "better" is chosen by you (billing, more load, ...)</li>
@@ -140,6 +169,9 @@ You already have an AWS infrastructure, but you need to make it better.  Handle 
 <li>Best solution in presented on a video conference call</li> 
 <li>How to move forward?</li>
 </ul>
+
+</h4>
+
 <h2 class="packprice01">€109</h2>
 
 <div class="packimg01"><img class="packimg02" style="float: right;" src="/img/packs/better.png" alt="Doing a Better Job"></div>
@@ -150,3 +182,4 @@ You already have an AWS infrastructure, but you need to make it better.  Handle 
 </div>
 
 </section>
+

@@ -6,15 +6,12 @@ description:  >
  </p>
  <br />
  <p>
- <ul style="list-style: none;" class=" aws-consulting">
- <li><i class="fa fa-long-arrow-right"></i>  Understand your requirements, what do you want?</li>
- <li><i class="fa fa-long-arrow-right"></i>  Design and propose your new infrastructure, what you will have?</li>
- <li><i class="fa fa-long-arrow-right"></i>  Implement the solution</li>
- <li><i class="fa fa-long-arrow-right"></i>  Document, train & hand-over to the support team, what do you need to know?</li>
- <li><i class="fa fa-long-arrow-right"></i>  Troubleshooting current problems</li>
- <li><i class="fa fa-long-arrow-right"></i>  Upgrade a current infrastructure</li>
- <li><i class="fa fa-long-arrow-right"></i>  Audit your infrastructure, an AWS infrastructure or billing to see if you could pay less</li>
+ <ul class="carousel-01">
+ <li><i class="fa fa-long-arrow-right"></i>  Design</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Implement</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Troubleshoot</li>
  </ul>
  </p>
+
 image: "img/carousel/aws-consulting.png"
 alt: "AWS and DevOps Consulting and Project Management"

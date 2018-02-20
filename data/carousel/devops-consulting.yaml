@@ -2,18 +2,14 @@ weight: 2
 title: "DevOps Consulting"
 description: >
    <p>
-    <strong>"UNix is basically a simple operating system, but you have to be a genius to understand its simplicity"</strong> 
+    <strong>"UNiX is basically a simple operating system, but you have to be a genius to understand its simplicity"</strong> 
    </p>
    <br />
    <p>
-    <ul style="list-style: none;">
-      <li><i class="fa fa-long-arrow-right"></i>  Understand your requirements, what do you want?</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Review your current solution, what do you have?</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Propose a solution, what you will have?</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Implement the solution</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Document, train & hand-over to the support team, what do you need to know?</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Troubleshoot current problems</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Audit your infrastructure</li>
+    <ul style="list-style: none;" class="carousel-01">
+      <li><i class="fa fa-long-arrow-right"></i>  Design</li>
+      <li><i class="fa fa-long-arrow-right"></i>  Implement</li>
+      <li><i class="fa fa-long-arrow-right"></i>  Troubleshoot</li>
      </ul>
    </p>
 

@@ -172,7 +172,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "The Founders"
-    subtitle = "Both founders come from a skilled background with much experience in each their field.  Founding a company was just the next logical step."
+    subtitle = "Both founders are highly skilled in their expertise with much experience in their field.  Together they make a winning team with what it takes to build a technical consulting company."
 
 [params.see_more]
     enable = true

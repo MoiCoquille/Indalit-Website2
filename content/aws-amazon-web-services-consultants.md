@@ -8,12 +8,12 @@ type = "page"
 
 
 <div class="row">
-<div class="col-md-6 header01">
+<div class="col-md-6">
 <h3 class="font01">
 <img style="float" src="/img/aws/quote.png" alt="Quote">  Friends don't let friends build datacenters -- Charles E. Philips
 </h3>
 </div>
-<div class="col-md-6 header01">
+<div class="col-md-6">
 <img style="float: center; margin: 0px 0px 0px 0px;" src="/img/aws/aws-new.jpg" width="300" alt="Quote">
 </div>
 </div>
@@ -50,12 +50,12 @@ You might have your project in mind:
 <br />
 
 <p>
-Every one of these requests hasan adequate and progressive answer. No need for disruption, we have managed the most complex use cases without a second of downtime.
+Every one of these requests has an adequate and progressive answer. No need for disruption, we have managed the most complex use cases without a second of downtime.
 </p>
 <br />
 
 <p>
-Be reassured, you won't be on your own.  Get the <a href="http://www.indalit.com/packs/">Project Management Pack</a> to make sure everyone is on track.
+Be reassured, you won't be on your own.  Get the <a href="http://www.indalit.com/packs/">Project Management Pack</a> to make sure the project is on track.
 </p>
 <br />
 
