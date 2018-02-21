@@ -1,4 +1,4 @@
-/* your styles go here */
+/* your styles go here  */
 
 
 .box-image-text .image {
@@ -24,6 +24,37 @@
     font-size: 16px;
 }
 
+.font03 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: grey;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.font04 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: black;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 5px;
+
+}
+
+.font05 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: #fdd351;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 5px;
+}
+
+
+.whole-table {
+	background-color: #fbf1d4;
+	width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+
 .texture-packs {
   background: url('../img/packs/background-grey.jpeg') center center repeat;
 }
@@ -47,14 +78,17 @@
     top: 270px;
 }
 
-.packimg01 {
-	position: absolute;
-	bottom: 15px;
-	width: 100%;
-}
 
 .packimg02 {
     margin: 0px 20px 0px 0px;
+}
+
+.h1-01 {
+	color: #fdd351;	
+}
+
+.br-01 {
+	line-height: 1%;
 }
 
 .cellgroup-01 {
