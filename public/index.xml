@@ -2,21 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/</link>
+    <link>https://www.indalit.com/</link>
     <description>Recent content on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?
+If you are curious about this feature, then go read more information on Amazon Aurora Multi Master.</description>
+    </item>
+    
+    <item>
+      <title>How Things Change</title>
+      <link>https://www.indalit.com/blog/2018/02/21/veronique-web-developer/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/21/veronique-web-developer/</guid>
+      <description>It’s time for another update. I’m still a web developer for now, it’s taking much more time than planned. The good news is yesterday I sat down and started to write HTML with nested DIVS and formatting all over the place without any hesitation, just came out like I’ve been doing it for some time. I know this won’t last, when I’m done, it will go away as fast as it came, but I’m proud of myself.</description>
+    </item>
+    
+    <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
 You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
@@ -24,75 +43,75 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
     
     <item>
       <title>Debugging www.indalit.com</title>
-      <link>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
       <description>On my previous post I was working on www.indalit.com. First of all, I, innocent me, actually thought I was finished. But then, I made the mistake at looking at the page with my mobile phone!!! And then making my browser screen smaller!!! Wow, horrible. So, it turns out working with CSS and positioning correctly DIVs is just not a beginners thing. Took me hours of work. Now it works great, but my associate has decided it needs to be centered.</description>
     </item>
     
     <item>
       <title>Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent</title>
-      <link>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</guid>
       <description>Environment  Hugo Static Website Generator version v0.36 Hugo Universal Theme Hosted on AWS S3 in http only Image size as per examples : 1000 x 750 .js and .css files have not been modified  What should be happening When going on the BLOG page, a list of most recent blog post will appear one after the other with the associated image on the left.
 What is happening  When going on the BLOG page, a list of most recent blog post will appear one after the other with or without the image on the left.</description>
     </item>
     
     <item>
       <title>AWS VPC To Span Across AZs</title>
-      <link>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <link>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
       <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
     </item>
     
     <item>
       <title>Creating the Packs Web Page</title>
-      <link>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</link>
+      <link>https://www.indalit.com/blog/2018/02/13/veronique-packs-page/</link>
       <pubDate>Tue, 13 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
       <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base and after that you have a lot of modifications to do.</description>
     </item>
     
     <item>
       <title>AWS Storage Gateway Cheat Sheet</title>
-      <link>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
+      <link>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
       <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <guid>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
       <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
     </item>
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
-      <link>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
       <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
 For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
     </item>
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
-      <link>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
     </item>
     
     <item>
       <title>AWS Launches Fargate, Containers without EC2 Instances</title>
-      <link>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
       <description>Did you know Amazon launched AWS Fargate?
 The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
 Read on this subject for more information on AWS Fargate.</description>
@@ -100,192 +119,176 @@ Read on this subject for more information on AWS Fargate.</description>
     
     <item>
       <title>A Sort of Personal Blog</title>
-      <link>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</link>
+      <link>https://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</link>
       <pubDate>Sun, 01 Oct 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</guid>
+      <guid>https://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</guid>
       <description>Yes, it&amp;rsquo;s official, we are starting the process of creating our company. I assume this will take a few months, but I am not in a hurry. At this stage roles are not clear, so I go with the flow. For now, I seem responsible for the design/creation and configuration of our website Indalit.com and it&amp;rsquo;s content. So, I decided on having a blog. Inicially thinking it will look professional, be a good place to publish what I write about AWS and help with SEO.</description>
     </item>
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     
     <item>
       <title>AWS S3 Encryption SSE-C</title>
-      <link>http://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <link>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
       <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys? For more information on Amazon S3 Encryption see: https://aws.amazon.com/s3/faqs/</description>
     </item>
     
     <item>
       <title>AWS Deleting the Queue After 30 Days</title>
-      <link>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
+      <link>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
       <description>Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue? For more information on Amazon Web Services SQS Queues and what AWS can do with them see: https://cloudacademy.com/quiz/study/411880/</description>
     </item>
     
     <item>
       <title>AWS RDS Multi Availability Zone Deployment</title>
-      <link>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
+      <link>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
       <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
       <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
     </item>
     
     <item>
       <title>AWS EC2 Ephemeral Storage</title>
-      <link>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <link>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
       <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
       <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
     </item>
     
     <item>
       <title>AWS RDS Database Read Replicas</title>
-      <link>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
+      <link>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
       <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
       <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances T2 VPC</title>
-      <link>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <link>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
       <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC. For more information on Amazon EC2 T2 instance family type see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite</title>
-      <link>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
+      <link>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
       <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
       <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes? For more information on Amazon Glacier Expedite Option see: http://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Public IP</title>
-      <link>http://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
+      <link>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
       <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped. For more information on Amazon EC2 Instances IP addressing see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html</description>
     </item>
     
     <item>
       <title>AWS EC2 Intances Metadata</title>
-      <link>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <link>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
       <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
 For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
     </item>
     
     <item>
       <title>AWS Glacier Minimum Pricing</title>
-      <link>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <link>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
       <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it? For more information on Amazon Glacier pricing see: https://aws.amazon.com/glacier/pricing/</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Cooldown Period</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
       <description>Did you know the default AWS Auto Scaling cooldown period is 300 seconds? When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Termination Policy</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
       <description>Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</description>
     </item>
     
     <item>
-      <title>AWS</title>
-      <link>http://www.indalit.com/aws-amazon-web-services-consultants/</link>
+      <title>Amazon Web Service (AWS)</title>
+      <link>https://www.indalit.com/aws-amazon-web-services-consultants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.indalit.com/aws-amazon-web-services-consultants/</guid>
+      <guid>https://www.indalit.com/aws-amazon-web-services-consultants/</guid>
       <description>Friends don&#39;t let friends build datacenters -- Charles E. Philips       Amazon Web Services is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.  AWS is composed of hundreds of services that can be plugged together, leading to thousands of possible combinations!</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://www.indalit.com/contact/</link>
+      <title>Contact Us</title>
+      <link>https://www.indalit.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.indalit.com/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you need more information about our company , our services and our packs? Or maybe you are in looking for a professional expertise in AWS Cloud Technologies, the DevOps realm or Project Management? Then don&#39;t hesitate, we are here to help. Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM. +34 699 184 246 v@indalit.</description>
+      <guid>https://www.indalit.com/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you need more information about our company , our services and our packs? Or maybe you are in looking for a professional expertise in AWS Cloud Technologies, the DevOps realm or Project Management? Then don&#39;t hesitate, we are here to help. Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM. +34 963 684 585 v@indalit.</description>
     </item>
     
     <item>
-      <title>DevOps</title>
-      <link>http://www.indalit.com/devops-consultants/</link>
+      <title>DevOps (development and operations)</title>
+      <link>https://www.indalit.com/devops-consultants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.indalit.com/devops-consultants/</guid>
+      <guid>https://www.indalit.com/devops-consultants/</guid>
       <description>UNIX is not so much an operating system as a way of thinking!       What is DevOps? Long story short, DevOps means R.O.I., the days of the mutable infrastructure are gone. With cloud infrastructure and moreover ephemeral instances, immutable platforms are the new norm. Get ready to put aside chaos and enter the world of predictivity.  Yet, continuous integration is not as easy as a git pull, there must be strategy, knowledge and control.</description>
     </item>
     
     <item>
-      <title>PACKS</title>
-      <link>http://www.indalit.com/backpacks/</link>
+      <title>Good Value Packages</title>
+      <link>https://www.indalit.com/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.indalit.com/backpacks/</guid>
-      <description>Discover Our Packs
-AWS Presentation Pack   Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call  €239       AWS Training Pack Test   Need all the theory about a specific AWS service?</description>
+      <guid>https://www.indalit.com/packs/</guid>
+      <description>Choose A Packages     
+    
+
+ AWS Presentation Package ... What is the AWS Presentation Package?  The AWS Presentation Package provides you with a complete presentation of AWS and it&#39;s most important services. This is not really a technical presentation, but you do need to understand the basics of IT. Included will be the addition of a pre-defined topic that you especially want to cover.</description>
     </item>
     
     <item>
       <title>PACKS</title>
-      <link>http://www.indalit.com/backup-packs/</link>
+      <link>https://www.indalit.com/backup-packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.indalit.com/backup-packs/</guid>
-      <description>Discover Our Packages AWS Presentation Pack Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call   €239     AWS Training Pack Need all the theory about a specific AWS service?</description>
-    </item>
-    
-    <item>
-      <title>PACKS</title>
-      <link>http://www.indalit.com/cleanup-packs-but/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.indalit.com/cleanup-packs-but/</guid>
-      <description>Discover Our Packages AWS Presentation Pack Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call  €239    AWS Training Pack Need all the theory about a specific AWS service?</description>
-    </item>
-    
-    <item>
-      <title>PACKS</title>
-      <link>http://www.indalit.com/packs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.indalit.com/packs/</guid>
+      <guid>https://www.indalit.com/backup-packs/</guid>
       <description>Discover Our Packages AWS Presentation Pack Need to quickly understand AWS, it&#39;s most important services and the pricing? An introductory presentation is what you need. Given by a certified Solutions Architect who can guide you and answer your questions.  Online video conferencing 2 to 4 hours depending on your need 1 pre-defined topic can be added Questions and Answers at the end Slides provided 1 hour follow-up call   €239     AWS Training Pack Need all the theory about a specific AWS service?</description>
     </item>
     

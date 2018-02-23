@@ -3,7 +3,7 @@ title = "Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermitten
 date = "2018-02-18T00:00:00+02:00"
 tags = ["Configuration", "Web Development"]
 categories = ["Bug Report"]
-banner = "img/blog/bug-report-hugo-image-loading.png"
+banner = "img/blog/bug-report-aws-cloudfront-https.png"
 alt = "Hugo Universal Theme Bug Report on Images in Blog"
 author = "Veronique Robitaille"
 +++

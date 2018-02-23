@@ -1,7 +1,7 @@
 +++
 title = "Title"
-date = "2015-10-02T21:49:20+02:00"
-tags = ["Configuration", "Auto Scaling", "Storage Gateway", "Glacier", "Pricing", "EC2 Instances", "IP", "EBS", "OS", "VPC", "EC2-Classic", "RDS", "S3", "Encryption", "SQS", "Web Development", "Creating My Company", "Guard Duty", "Fargate"]
+date = "2015-10-02T00:49:20+02:00"
+tags = ["Configuration", "Auto Scaling", "Storage Gateway", "Glacier", "Pricing", "EC2 Instances", "IP", "EBS", "OS", "VPC", "EC2-Classic", "RDS", "S3", "Encryption", "SQS", "Web Development", "Creating My Company", "Guard Duty", "Fargate", "Redundancy", "Availability Zone", "DynamoDB", "Aurora", "CloudFront"]
 categories = ["AWS", "Did You Know", "CheatSheet", "Compute", "Storage", "Database", "Networking & Content Delivery", "Migration", "Developer Tools", "Management Tools", "Security, Identity & Compliance", "Analytics", "Artificial Intelligence", "Internet of Things", "Contact Center", "Game Development", "Mobile Services", "Messaging", "Business Productivity", "Desktop & App Streaming", "Veronique Diary", "Bug Report", "New AWS Service"]
 banner = "img/blog/image.png"
 alt = "Text"
@@ -39,6 +39,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 4. And another item.
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+<a href="https://en.wikipedia.org/wiki/Content_delivery_network" target="_blank">Content Delivery Network</a>
 
 [You can use numbers for reference-style link definitions][1]
 

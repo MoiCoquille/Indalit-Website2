@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Networking  Content Delivery on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/categories/networking--content-delivery/</link>
+    <link>https://www.indalit.com/categories/networking--content-delivery/</link>
     <description>Recent content in Networking  Content Delivery on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/categories/networking--content-delivery/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/categories/networking--content-delivery/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS VPC To Span Across AZs</title>
-      <link>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <link>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
       <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
     </item>
     

@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "Contact Us"
 id = "contact"
 +++
 
@@ -18,7 +18,7 @@ Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.
 
 <br /><br />
 
-<img style="float" src="/img/contact/telephone.png" width="40" alt="Telephone"> +34 699 184 246
+<img style="float" src="/img/contact/telephone.png" width="40" alt="Telephone"> +34 963 684 585
 
 <br /><br />
 

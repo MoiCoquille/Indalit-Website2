@@ -1,0 +1,4 @@
+weight: 6
+name: "AWS Enhanced Package"
+icon: "fa fa-plus"
+description: "This is where things get fun.  Let's look at what you have and see how it can be done better.  We start with an audit of your AWS service or pricing and see if there is a way to augment it. [Get more information on this offering.](/packs/index.html#awsenhanced)"

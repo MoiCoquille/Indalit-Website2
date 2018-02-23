@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pricing on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/tags/pricing/</link>
+    <link>https://www.indalit.com/tags/pricing/</link>
     <description>Recent content in Pricing on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Jun 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Glacier Minimum Pricing</title>
-      <link>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <link>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
       <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it? For more information on Amazon Glacier pricing see: https://aws.amazon.com/glacier/pricing/</description>
     </item>
     

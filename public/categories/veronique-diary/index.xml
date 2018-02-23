@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veronique Diary on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/categories/veronique-diary/</link>
+    <link>https://www.indalit.com/categories/veronique-diary/</link>
     <description>Recent content in Veronique Diary on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 00:00:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/categories/veronique-diary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/categories/veronique-diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>How Things Change</title>
+      <link>https://www.indalit.com/blog/2018/02/21/veronique-web-developer/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/21/veronique-web-developer/</guid>
+      <description>It’s time for another update. I’m still a web developer for now, it’s taking much more time than planned. The good news is yesterday I sat down and started to write HTML with nested DIVS and formatting all over the place without any hesitation, just came out like I’ve been doing it for some time. I know this won’t last, when I’m done, it will go away as fast as it came, but I’m proud of myself.</description>
+    </item>
+    
+    <item>
       <title>Debugging www.indalit.com</title>
-      <link>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/veronique-debugging-website/</guid>
       <description>On my previous post I was working on www.indalit.com. First of all, I, innocent me, actually thought I was finished. But then, I made the mistake at looking at the page with my mobile phone!!! And then making my browser screen smaller!!! Wow, horrible. So, it turns out working with CSS and positioning correctly DIVs is just not a beginners thing. Took me hours of work. Now it works great, but my associate has decided it needs to be centered.</description>
     </item>
     
     <item>
       <title>Creating the Packs Web Page</title>
-      <link>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</link>
+      <link>https://www.indalit.com/blog/2018/02/13/veronique-packs-page/</link>
       <pubDate>Tue, 13 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/13/veronique-packs-page/</guid>
       <description>As you probably don&#39;t know, I am creating/making/writing/configuring www.indalit.com using an open source static site generator called Hugo. I&#39;ve chosen a theme and moved forward from that. The small glitch is I&#39;m am NOT a web developer at all. I&#39;ve learned Python for fun and mostly forgot since I haven&#39;t been practicing, but that&#39;s all my experience in the development world. So working on this site has been a great challenge for me; Hugo provides a theme, but that&#39;s just the base and after that you have a lot of modifications to do.</description>
     </item>
     
     <item>
       <title>A Sort of Personal Blog</title>
-      <link>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</link>
+      <link>https://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</link>
       <pubDate>Sun, 01 Oct 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</guid>
+      <guid>https://www.indalit.com/blog/2017/10/01/veronique-personal-blog/</guid>
       <description>Yes, it&amp;rsquo;s official, we are starting the process of creating our company. I assume this will take a few months, but I am not in a hurry. At this stage roles are not clear, so I go with the flow. For now, I seem responsible for the design/creation and configuration of our website Indalit.com and it&amp;rsquo;s content. So, I decided on having a blog. Inicially thinking it will look professional, be a good place to publish what I write about AWS and help with SEO.</description>
     </item>
     

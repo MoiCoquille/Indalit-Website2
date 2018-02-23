@@ -1,5 +1,5 @@
 +++
-title = "AWS"
+title = "Amazon Web Service (AWS)"
 id = "aws"
 type = "page"
 +++

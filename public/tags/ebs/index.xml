@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ebs on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/tags/ebs/</link>
+    <link>https://www.indalit.com/tags/ebs/</link>
     <description>Recent content in Ebs on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/tags/ebs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/tags/ebs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
 You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
@@ -24,10 +24,10 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     

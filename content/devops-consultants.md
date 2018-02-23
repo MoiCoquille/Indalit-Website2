@@ -1,5 +1,5 @@
 +++
-title = "DevOps"
+title = "DevOps (development and operations)"
 id = "devops"
 +++
 

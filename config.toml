@@ -1,5 +1,5 @@
-baseurl = "http://www.indalit.com/"
-absurl = "http://www.indalit.com"
+baseurl = "https://www.indalit.com/"
+absurl = "https://www.indalit.com"
 title = "Indalit Cloud Consulting"
 theme = "hugo-universal-theme"
 themesDir = "themes"
@@ -118,8 +118,8 @@ PaginatePath = "page"
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>We are a great team.  Our objective is to keep our employes happy and extremely well trained.  This way we work in a healthy positive environment with the technical elite of the market place.  Priority is on competence and knowledge.  We believe this is what is required to provide a high-quality service to our customers.</p>"
-    copyright = "Copyright (c) 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
+    about_us = "<p>We are a great team.  Our objective is to keep our people satisfied and well trained.  This way we work in a healthy positive environment with the elite of the sector.  Priority is on competence and knowledge.  We believe this is what makes the difference in the services we provide to our customers.</p>"
+    copyright = "Copyright &#169 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -131,7 +131,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
 <br>46015 Valencia
 <strong>Spain</strong>
 <br>
-<br>+34 699 184 246
+<br>+34 963 684 585
 <br>
 </p>
 """
@@ -180,7 +180,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     title = "Do you want to know more?"
     subtitle = "Visit the rest of the site to get more in depth information on the subjects we've just barely touched."
     link_url = "/packs/"
-    link_text = "More on the Packs"
+    link_text = "More on the AWS Packages"
 
 [params.clients]
     enable = false

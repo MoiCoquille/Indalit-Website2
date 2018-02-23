@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/categories/database/</link>
+    <link>https://www.indalit.com/categories/database/</link>
     <description>Recent content in Database on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/categories/database/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/categories/database/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?
+If you are curious about this feature, then go read more information on Amazon Aurora Multi Master.</description>
+    </item>
+    
+    <item>
       <title>AWS RDS Multi Availability Zone Deployment</title>
-      <link>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
+      <link>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
       <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
       <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
     </item>
     
     <item>
       <title>AWS RDS Database Read Replicas</title>
-      <link>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
+      <link>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
       <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
       <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
     </item>
     

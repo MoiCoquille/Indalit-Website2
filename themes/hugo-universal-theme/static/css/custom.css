@@ -10,6 +10,19 @@
   min-height: 230px;
 }
 
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
+}
+
+.img01 {
+  display: flex;
+  justify-content: center;
+}
+
+
 .font01 {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     color: grey;
@@ -56,6 +69,29 @@
     line-height: 5px;
 }
 
+.font07 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: #1ca138;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 5px;
+}
+
+.font08 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: #2196f3;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 5px;
+}
+
+.font09 {
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    color: #d84315;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 5px;
+}
 
 .whole-table {
 	background-color: #fbf1d4;
@@ -69,6 +105,23 @@
     padding: 10px 10px 10px 10px;
 }
 
+.whole-table03 {
+    background-color: #cde5d2;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+
+.whole-table04 {
+    background-color: #bee2fd;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+}
+
+.whole-table05 {
+    background-color: #ffe5dd;
+    width: 100%;
+    padding: 10px 10px 10px 10px;
+}
 
 .texture-packs {
   background: url('../img/packs/background-grey.jpeg') center center repeat;
@@ -104,6 +157,18 @@
 
 .h1-02 {
 	color: #d84315;	
+}
+
+.h1-03 {
+    color: #1ca138;
+}
+
+.h1-04 {
+    color: #2196f3;
+}
+
+.h1-05 {
+    color: #d84315;
 }
 
 .br-01 {

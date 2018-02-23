@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auto Scaling on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/tags/auto-scaling/</link>
+    <link>https://www.indalit.com/tags/auto-scaling/</link>
     <description>Recent content in Auto Scaling on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Jun 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/tags/auto-scaling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/tags/auto-scaling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Auto Scaling Cooldown Period</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
       <description>Did you know the default AWS Auto Scaling cooldown period is 300 seconds? When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Termination Policy</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
       <description>Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</description>
     </item>
     

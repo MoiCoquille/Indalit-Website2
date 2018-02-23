@@ -2,21 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Configuration on Indalit Cloud Consulting</title>
-    <link>http://www.indalit.com/tags/configuration/</link>
+    <link>https://www.indalit.com/tags/configuration/</link>
     <description>Recent content in Configuration on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="http://www.indalit.com/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.indalit.com/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?
+If you are curious about this feature, then go read more information on Amazon Aurora Multi Master.</description>
+    </item>
+    
+    <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
 You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
@@ -24,66 +34,66 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
     
     <item>
       <title>Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent</title>
-      <link>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</link>
+      <link>https://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</link>
       <pubDate>Sun, 18 Feb 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/18/bug-report-hugo-load-images-blog/</guid>
       <description>Environment  Hugo Static Website Generator version v0.36 Hugo Universal Theme Hosted on AWS S3 in http only Image size as per examples : 1000 x 750 .js and .css files have not been modified  What should be happening When going on the BLOG page, a list of most recent blog post will appear one after the other with the associated image on the left.
 What is happening  When going on the BLOG page, a list of most recent blog post will appear one after the other with or without the image on the left.</description>
     </item>
     
     <item>
       <title>AWS VPC To Span Across AZs</title>
-      <link>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <link>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
       <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
     </item>
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite</title>
-      <link>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
+      <link>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
       <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
       <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes? For more information on Amazon Glacier Expedite Option see: http://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html</description>
     </item>
     
     <item>
       <title>AWS EC2 Intances Metadata</title>
-      <link>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <link>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
       <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
 For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Cooldown Period</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
       <description>Did you know the default AWS Auto Scaling cooldown period is 300 seconds? When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Termination Policy</title>
-      <link>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
+      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>http://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
+      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
       <description>Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</description>
     </item>
     

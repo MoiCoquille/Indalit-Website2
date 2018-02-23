@@ -1,0 +1,21 @@
+weight: 2
+title: "DevOps Consulting Services"
+description: >
+ <p>
+ <strong>"UNiX is basically a simple operating system, but you have to be a genius to understand its simplicity"</strong>
+ </p>
+ <br />
+ <p>
+ <ul class="carousel-01">
+ <li><i class="fa fa-long-arrow-right"></i>  Analysis & Assessment</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Design</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Migration & Implementation</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Troubleshoot</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Audit</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Documentation & Reporting</li>
+ <li><i class="fa fa-long-arrow-right"></i>  Training</li>
+ </ul>
+ </p>
+
+image: "img/carousel/devops-consulting.png"
+alt: "DevOps consulting services around UNIX and LINUX"
