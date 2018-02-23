@@ -22,6 +22,6 @@ Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.
 
 <br /><br />
 
-<img style="float" src="/img/contact/email.png" width="40" alt="Email"> <a href="mailto:v@indalit.com">v@indalit.com</a>
+<img style="float" src="/img/contact/email.png" width="40" alt="Email"> <a href="mailto:info@indalit.com">info@indalit.com</a>
 
 </h3>

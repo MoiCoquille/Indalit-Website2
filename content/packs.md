@@ -1,28 +1,39 @@
 +++
-title = "Good Value Packages"
+title = "Choose a Packages"
 id = "packs"
 +++
 
-
 <div class="container" role="main">
 
-<h2>Choose A Packages</h2>
 <div class="row">
-<div class="col-md-4 img01"><a href="#awspresentation"><img style="float" src="/img/packs/package_link-presentation.png" alt="AWS Presentation Flag"></a></div>
-<div class="col-md-4 img01"><a href="#awstraining"><img style="float" src="/img/packs/package_link-training.png" alt="AWS Training Flag"></a></div>
-<div class="col-md-4 img01"><a href="#awssolution"><img style="float" src="/img/packs/package_link-solution.png" alt="AWS Solution Flag"></a></div>
+<div class="col-md-4 back-yellow"><a href="#awspresentation" class="link01" style="color:white">AWS Presentation
+<br /><i class="i01 fa fa-file-powerpoint-o"></i>
+</a></div>
+<div class="col-md-4 back-red"><a href="#awstraining" class="link01" style="color:white">AWS Training
+<br /><i class="i01 fa fa-book"></i>
+</a></div>
+<div class="col-md-4 back-green"><a href="#awssolution" class="link01" style="color:white">AWS Solution
+<br /><i class="i01 fa fa-cloud"></i>
+</a></div>
 </div>
 
-<br />
 
 <div class="row">
-<div class="col-md-4 img01"><a href="#projectmanagement"><img style="float" src="/img/packs/package_link-project.png" alt="AWS Project Flag"></a></div>
-<div class="col-md-4 img01"><a href="#awspricing"><img style="float" src="/img/packs/package_link-pricing.png" alt="AWS Pricing Flag"></a></div>
-<div class="col-md-4 img01"><a href="#awsenhanced"><img style="float" src="/img/packs/package_link-enhanced.png" alt="AWS Enhanced Flag"></a></div>
+<div class="col-md-4 back-red"><a href="#projectmanagement" class="link01" style="color:white">Project Management
+<br /><i class="i01 fa fa-tasks"></i>
+</a></div>
+<div class="col-md-4 back-blue"><a href="#awspricing" class="link01" style="color:white">AWS Pricing
+<br /><i class="i01 fa fa-eur"></i>
+</a></div>
+<div class="col-md-4 back-yellow"><a href="#awsenhanced" class="link01" style="color:white">AWS Enhanced
+<br /><i class="i01 fa fa-plus"></i>
+</a></div>
 </div>
 
 <br />
 <a class="anchor" id="top" name="awspresentation"></a>
+
+<div class="row">
 
 <div class="whole-table">
 
@@ -36,7 +47,7 @@ What is the AWS Presentation Package?
 </h4>
 
 <h5 class="font03">
-The AWS Presentation Package provides you with a complete presentation of AWS and it's most important services.  This is not really a technical presentation, but you do need to understand the basics of IT.  Included will be the addition of a pre-defined topic that you especially want to cover.  It will be followed by a Questions & Answers session and a second follow-up session on the points that need to be cleared.
+The presentation is a package composed of the following: (1) Introduction to AWS and it's main services (2) Questions & Answers session (3) Follow-Up session.  It will not be technical but does require some basic IT knowledge.  You will also get to go into more details on a topic you choose from the presentation topics.
 </h5>
 
 <div class="br-01">
@@ -49,9 +60,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-This presentation will help you understand what is the AWS Cloud, what is their business model, how much does it cost, what are the most important services, and much more.  It will give
- you the confidence to move forward on an AWS project or the knowledge necessary to decide not to p
-ursue the AWS path.  In resume: What is AWS?  Is it for you?
+The presentation will give you the understanding of what is the AWS Cloud, who is AWS, what does AWS do, how much does AWS cost or at least a view on pricing per service, what are AWS main services and probably a bit more.  You will be confident enough to move forward on you AWS project or have enough knowledge to decide AWS is not for you.
 </h5>
 
 <div class="br-01">
@@ -64,39 +73,53 @@ What is included?
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font05">Video Conference</h4>
-<h4 class="font03">This presentation will be provided remotely with an AWS Certified Solutions Architect.</h4>
+<h4 class="font05">Presenter & Audiance</h4>
+<h4 class="font03">The presentation will be given by an AWS Certified Solutions Architect.  You can have a maximum of 10 participants.</h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font05">Duration</h4>
-<h4 class="font03">The presentation, Questions & Answers and follow up session will take 3 to 4 hours, that is what is included in this package.  They do not need to be consecutive, we can split into multiple sessions.</h4> 
+<h4 class="font05">Deeper on a Topic</h4>
+<h4 class="font03">If you have an idea of what your project is then you are most likely to want to go into more details on a specific subject.  We will provide a list that you can choose a topic from and go over it in more details during the presentation.</h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font05">Additional Topic</h4>
-<h4 class="font03">You can choose an additional topic to be covered.  We will provide you with a list.  You can also choose to go into more depth of a specific subject covered in the presentation.</h4>
+<h4 class="font05">Video Conference Call</h4>
+<h4 class="font03">We will do the presentation over a Video Conference Call.  We will send you a link to connect without installing any software or creating a user.  The slides will be viewable during the call.</h4>
 </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
 <h4 class="font05">Questions & Answers Session</h4>
-<h4 class="font03">We will go over all your questions we didn't cover during the presentation.  All unanswered questions will be reviewed during the follow-up session</h4>
+<h4 class="font03">Questions will be restricted to the end of the presentation.  They will be all covered during this Q&A session.  Unanswered Q&A questions will be reviewed during the Follow-Up session.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font05">Follow-Up Session</h4>
-<h4 class="font03">The presentation will more likely get you thinking for a few days.  Then you will have more interrogations.  We have planned for this and will provide a follow-up session to go over your questions and cover the unanswered questions from the presentation</h4>
+<h4 class="font03">During the days that follow the presentation, more interrogations will most likely arise.  We will cover them and the unanswered questions from the Q&A session.</h4>
 </div>
   <div class="col-md-4">
-<h4 class="font05">Be Prepared</h4>
-<h4 class="font03">Even though we will not cover all AWS services, they have more than 100, this presentation will be intense.  Their is a lot to cover.</h4>
+<h4 class="font05">Duration</h4>
+<h4 class="font03">We could go on for a long time on the subject of AWS.  For this package, a maximum of 4 hours is included.  The hours don't need to be consecutive.</h4>
+</div>
+</div>
 </div>
 </div>
 
 
-</div>
+
+
+
+
+
+
+
+
+
+
 
 <a class="anchor" id="top" name="awstraining"></a>
+
+<div class="row">
+
 <div class="whole-table02">
 
 <div><img class="packimg02" style="float: right" src="/img/packs/price-training.png" alt="Price of the AWS Training Package"></div>
@@ -110,7 +133,7 @@ What is the AWS Training Package?
 </h4>
 
 <h5 class="font03">
-This AWS Training Package is to provide you with a course in a specific AWS service.  You choose the service you are interested in a the class will be done by a Certified Solutions Architect.  A listof available classes will be given to you so you can pick the service you wish to explore.  This is a technical class, good knowledge in IT required.
+The AWS Training Package is composed of the following: (1) Technical course on an AWS service (2) Questions & Answers session (3) Follow-Up email.  Be prepared, it will be technical so knowledge of key concepts of IT technologies is required. 
 </h5>
 
 <div class="br-01">
@@ -123,7 +146,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-This training session will give you the knowledge required to understand fully an AWS Service.  You might not be an expert yet, but you will be comfortable with what you have learned.  If this is of interest to you, these training sessions bring you one step closer to becoming a Certified Solutions Architect.
+The AWS Training Package will give you a good understanding of the AWS service you have chosen to cover.  It will not be a hands on lab, but some configuration will be covered.  This class can bring you one step closer to an AWS Certification.
 </h5>
 
 <div class="br-01">
@@ -136,18 +159,18 @@ What is included?
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font06">Video Conference</h4>
-<h4 class="font03">This presentation will be provided remotely with an AWS Certified Solutions Architect.</h4>
+<h4 class="font06">Presenter & Audiance</h4>
+<h4 class="font03">The presentation will be given by an AWS Certified Solutions Architect.  You can have a maximum of 10 participants.</h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font06">Duration</h4>
-<h4 class="font03">The presentation and Questions & Answers session should take between 1 and 2 hours, this is what is included in the package.  
+<h4 class="font06">Choose Your AWS Service</h4>
+<h4 class="font03">Because AWS services don't all have the same complexity, you will choose from a list the AWS service you want for this training session.
 </h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font06">Choosing a Service</h4>
-<h4 class="font03">You choose the service you wish to receive a class on from a list we provide.  Many service fit within the timeframe allocated to this package.
+<h4 class="font06">Video Conference Call</h4>
+<h4 class="font03">We will do the presentation over a Video Conference Call.  We will send you a link to connect without installing any software or creating a user.  The slides will be viewable during the call.
 </h4>
 </div>
 </div>
@@ -155,27 +178,37 @@ What is included?
 <div class="row">
   <div class="col-md-4">
 <h4 class="font06">Questions & Answers Session</h4>
-<h4 class="font03">We will go over all your questions we didn't cover during the presentation.  All unanswered questions will be reviewed in a follow-up email.</h4>
+<h4 class="font03">Questions will be restricted to the end of the training session.  They will be all covered during this Q&A session.  Unanswered Q&A questions will be answered in the Follow-Up email.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font06">Follow-Up Email</h4>
-<h4 class="font03">Simply to go over any questions we might not had time to cover during the class or new ones that arise from taking some time to go over what you have learned.</h4>
+<h4 class="font03">Unanswered questions from the Q&A session will be covered in this email.</h4>
 </div>
   <div class="col-md-4">
-<h4 class="font06">What Next?</h4>
-<h4 class="font03">We will discuss the next possible steps in your learning process.  We will also go over the resources available on the internet to go deeped into your knowledge and comfort with the AWS service.
-</h4>
+<h4 class="font06">Duration</h4>
+<h4 class="font03">We can always go dig deeper in an AWS service.  For this package, a maximum of 2 hours is included. </h4>
+</div>
+</div>
 </div>
 </div>
 
 
-</div>
+
+
+
+
+
+
+
+
 
 
 
 
 
 <a class="anchor" id="top" name="awssolution"></a>
+
+<div class="row">
 
 <div class="whole-table03">
 
@@ -245,8 +278,7 @@ What is included?
 <h4 class="font03">We will also give you an idea of how to move forward with this project.  We will go over what we can provide to you and what needs to be done internally by your staff and externally.</h4>
 </div>
 </div>
-
-
+</div>
 </div>
 
 
@@ -256,6 +288,8 @@ What is included?
 
 
 <a class="anchor" id="top" name="awspricing"></a>
+
+<div class="row">
 
 <div class="whole-table04">
 
@@ -324,8 +358,7 @@ In this package 4 to 6 hours of work by a Certified Solutions Architect is inclu
 <h4 class="font03"></h4>
 </div>
 </div>
-
-
+</div>
 </div>
 
 
@@ -340,7 +373,9 @@ In this package 4 to 6 hours of work by a Certified Solutions Architect is inclu
 
 <a class="anchor" id="top" name="projectmanagement"></a>
 
-<div class="whole-table05">
+<div class="row">
+
+<div class="whole-table02">
 
 <div><img class="packimg02" style="float: right" src="/img/packs/price-projectmanagement.png" alt="Price of the AWS Project Management Package"></div>
 
@@ -407,8 +442,7 @@ What is included?
 <h4 class="font03"></h4>
 </div>
 </div>
-
-
+</div>
 </div>
 
 
@@ -421,6 +455,8 @@ What is included?
 
 
 <a class="anchor" id="top" name="awsenhanced"></a>
+
+<div class="row">
 
 <div class="whole-table">
 
@@ -497,17 +533,6 @@ We will also go over how you can move forward on this project.
 <h4 class="font03"></h4>
 </div>
 </div>
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
+</div>
 </div>

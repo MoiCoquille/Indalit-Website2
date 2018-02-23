@@ -6,10 +6,20 @@
     <description>Recent content in S3 on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jul 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/tags/s3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS CloudFront Migration to HTTPS with Errors</title>
+      <link>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</link>
+      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</guid>
+      <description>I need to start this by saying there is NO bug with AWS CloudFront, NO bug with AWS S3, NO bug with Hugo and NO bug with OWL Carousel javascript. This is a Veronique bug. I just wanted to document this in case someone has a similar problem. I was unable to find the solution on the internet with the search strings I used.
+Environment  Hugo Static Website Generator version v0.</description>
+    </item>
     
     <item>
       <title>AWS S3 Encryption SSE-C</title>

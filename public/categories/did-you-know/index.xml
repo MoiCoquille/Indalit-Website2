@@ -6,10 +6,20 @@
     <description>Recent content in Did You Know on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/categories/did-you-know/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS DynamoDB Replication</title>
+      <link>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</link>
+      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</guid>
+      <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.
+If you want more information the Amazon Web Services DynamoDB, then visit DynamoDB Global Tables.</description>
+    </item>
     
     <item>
       <title>AWS Aurora Multi Master Multi AZ</title>
@@ -60,6 +70,16 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <description>Did you know Amazon launched AWS Fargate?
 The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
 Read on this subject for more information on AWS Fargate.</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Relational Database in the Cloud</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?
+How about you find out more about this new AWS Aurora feature. AWS Aurora Serverless</description>
     </item>
     
     <item>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</loc>
     <lastmod>2018-02-21T21:49:20+02:00</lastmod>
   </url>
@@ -55,6 +65,11 @@
   <url>
     <loc>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</loc>
     <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
   </url>
   
   <url>
@@ -151,31 +166,41 @@
   
   <url>
     <loc>https://www.indalit.com/categories/aws/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/blog/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/categories/bug-report/</loc>
-    <lastmod>2018-02-18T00:00:00+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/categories/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/categories/cheatsheet/</loc>
     <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/packs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/tags/cloudfront/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +212,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/configuration/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -203,7 +228,7 @@
   
   <url>
     <loc>https://www.indalit.com/categories/database/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,7 +238,13 @@
   
   <url>
     <loc>https://www.indalit.com/categories/did-you-know/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/tags/dynamodb/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,7 +268,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/encryption/</loc>
-    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -254,10 +285,6 @@
   </url>
   
   <url>
-    <loc>https://www.indalit.com/packs/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.indalit.com/tags/guard-duty/</loc>
     <lastmod>2017-12-01T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -265,7 +292,7 @@
   
   <url>
     <loc>https://www.indalit.com/</loc>
-    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -282,8 +309,14 @@
   </url>
   
   <url>
+    <loc>https://www.indalit.com/categories/migration/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.indalit.com/categories/networking--content-delivery/</loc>
-    <lastmod>2018-02-15T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,10 +333,6 @@
   </url>
   
   <url>
-    <loc>https://www.indalit.com/backup-packs/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.indalit.com/tags/pricing/</loc>
     <lastmod>2017-06-15T21:49:20+02:00</lastmod>
     <priority>0</priority>
@@ -311,7 +340,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/rds/</loc>
-    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -323,7 +352,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/s3/</loc>
-    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -371,7 +400,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/web-development/</loc>
-    <lastmod>2018-02-18T00:00:00+02:00</lastmod>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   

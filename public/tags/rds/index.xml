@@ -6,10 +6,20 @@
     <description>Recent content in Rds on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jul 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/tags/rds/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Aurora Relational Database in the Cloud</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?
+How about you find out more about this new AWS Aurora feature. AWS Aurora Serverless</description>
+    </item>
     
     <item>
       <title>AWS RDS Multi Availability Zone Deployment</title>

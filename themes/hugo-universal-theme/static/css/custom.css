@@ -17,9 +17,45 @@ a.anchor {
     visibility: hidden;
 }
 
-.img01 {
+.i01 {
   display: flex;
   justify-content: center;
+}
+
+.back-yellow {
+  display: flex;
+  justify-content: center;
+	background: #fdd351;
+	border: 1px solid white;
+    padding: 20px 0px 20px 0px;
+}
+
+.back-red {
+  display: flex;
+  justify-content: center;
+    background: #d84315;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
+}
+
+.back-green {
+  display: flex;
+  justify-content: center;
+    background: #1ca138;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
+}
+
+.back-blue {
+  display: flex;
+  justify-content: center;
+    background: #2196f3;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
+}
+
+.link01 {
+    font-size: 25px;
 }
 
 
@@ -94,31 +130,25 @@ a.anchor {
 }
 
 .whole-table {
-	background-color: #fbf1d4;
+	background-color: #fcf9ed;
 	width: 100%;
     padding: 10px 10px 10px 10px;
 }
 
 .whole-table02 {
-    background-color: #ffe5dd;
+    background-color: #f8f0ee;
     width: 100%;
     padding: 10px 10px 10px 10px;
 }
 
 .whole-table03 {
-    background-color: #cde5d2;
+    background-color: #e5ece6;
     width: 100%;
     padding: 10px 10px 10px 10px;
 }
 
 .whole-table04 {
-    background-color: #bee2fd;
-    width: 100%;
-    padding: 10px 10px 10px 10px;
-}
-
-.whole-table05 {
-    background-color: #ffe5dd;
+    background-color: #ecf0f3;
     width: 100%;
     padding: 10px 10px 10px 10px;
 }
