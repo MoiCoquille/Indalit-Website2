@@ -17,9 +17,8 @@
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
-      <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
-This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
-You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
+      <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
     </item>
     
     <item>
@@ -46,7 +45,7 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
-      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys? For more information on Amazon S3 Encryption see: https://aws.amazon.com/s3/faqs/</description>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     
     <item>
@@ -64,7 +63,7 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
       <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
-      <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes? For more information on Amazon Glacier Expedite Option see: http://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html</description>
+      <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes?</description>
     </item>
     
     <item>
@@ -73,7 +72,7 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
-      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it? For more information on Amazon Glacier pricing see: https://aws.amazon.com/glacier/pricing/</description>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
     </item>
     
   </channel>

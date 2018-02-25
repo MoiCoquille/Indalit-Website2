@@ -17,8 +17,7 @@
       <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
-      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?
-If you are curious about this feature, then go read more information on Amazon Aurora Multi Master.</description>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
     </item>
     
     <item>
@@ -27,9 +26,8 @@ If you are curious about this feature, then go read more information on Amazon A
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
-      <description>Did you know that by default Amazon EBS root device volumes are automatically deleted when the instance terminates?
-This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.
-You can find more information on this AWS EBS feature at What happens to an EBS volume when the instance is terminated?</description>
+      <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
     </item>
     
     <item>
@@ -38,8 +36,16 @@ You can find more information on this AWS EBS feature at What happens to an EBS 
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
-      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
-For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS Introduces Spread Placement Groups</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</guid>
+      <description>Did you know AWS introduced Spread Placement Groups? This means EC2 Instances within a Placement Group will be on distinct hardware.</description>
     </item>
     
     <item>
@@ -57,7 +63,7 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
-      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC. For more information on Amazon EC2 T2 instance family type see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html</description>
+      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
     <item>
@@ -66,7 +72,7 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
-      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped. For more information on Amazon EC2 Instances IP addressing see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html</description>
+      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
@@ -75,8 +81,8 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
-      <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
-For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
+      <description>Did you know that viewing the following link on an AWS EC2 instance will give you the metadata of your instance?
+http://169.254.169.254/latest/meta-data/  </description>
     </item>
     
   </channel>

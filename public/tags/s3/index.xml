@@ -27,7 +27,7 @@ Environment  Hugo Static Website Generator version v0.</description>
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
-      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys? For more information on Amazon S3 Encryption see: https://aws.amazon.com/s3/faqs/</description>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     
   </channel>

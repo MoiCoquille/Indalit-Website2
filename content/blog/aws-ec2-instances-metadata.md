@@ -6,9 +6,12 @@ categories = ["AWS", "Did You Know", "Compute"]
 banner = "img/blog/aws-ec2-instances-metadata.jpg"
 alt = "Text"
 author = "Veronique Robitaille"
+dyn_more = """
+For more information on AWS EC2 Instances see: <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html" target="_blank">Amazon EC2 Instance Metadata</a>.
+"""
 +++
-<p>
-Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?  
-</p>
-<br />
-For more information on AWS EC2 Instances see: <http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html>
+Did you know that viewing the following link on an AWS EC2 instance will give you the metadata of your instance? 
+
+```
+http://169.254.169.254/latest/meta-data/
+```

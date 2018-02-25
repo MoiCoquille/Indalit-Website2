@@ -27,7 +27,25 @@ Environment  Hugo Static Website Generator version v0.</description>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
-      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
+    </item>
+    
+    <item>
+      <title>AWS Cross Region VPC Peering</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <description>Did you know AWS now allows VPC Peering across different regions?</description>
+    </item>
+    
+    <item>
+      <title>AWS Lightsail Launches Load Balancing Support</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
     </item>
     
   </channel>

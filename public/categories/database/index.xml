@@ -17,8 +17,7 @@
       <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</guid>
-      <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.
-If you want more information the Amazon Web Services DynamoDB, then visit DynamoDB Global Tables.</description>
+      <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.</description>
     </item>
     
     <item>
@@ -27,8 +26,7 @@ If you want more information the Amazon Web Services DynamoDB, then visit Dynamo
       <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
-      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?
-If you are curious about this feature, then go read more information on Amazon Aurora Multi Master.</description>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
     </item>
     
     <item>
@@ -37,8 +35,7 @@ If you are curious about this feature, then go read more information on Amazon A
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
-      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?
-How about you find out more about this new AWS Aurora feature. AWS Aurora Serverless</description>
+      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?</description>
     </item>
     
     <item>

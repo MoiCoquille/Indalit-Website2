@@ -17,7 +17,7 @@
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
-      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     
   </channel>

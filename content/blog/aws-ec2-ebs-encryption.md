@@ -6,6 +6,9 @@ categories = ["AWS", "Did You Know", "Compute", "Storage"]
 banner = "img/blog/aws-ec2-ebs-encryption.jpg"
 alt = "The Security behing Encrypting a Hard Disk"
 author = "Veronique Robitaille"
+dyn_more = """
+For more information, see: <a href="https://aws.amazon.com/blogs/aws/new-encrypted-ebs-boot-volumes/" target="_blank">Amazon EC2 EBS Encrypted Boot Volume</a>.
+"""
 +++
 
 Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?

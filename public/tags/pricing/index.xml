@@ -17,7 +17,7 @@
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
-      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it? For more information on Amazon Glacier pricing see: https://aws.amazon.com/glacier/pricing/</description>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
     </item>
     
   </channel>

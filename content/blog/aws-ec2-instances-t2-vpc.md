@@ -6,8 +6,8 @@ categories = ["AWS", "Did You Know", "Compute"]
 banner = "img/blog/aws-ec2-instances-t2-vpc.jpg"
 alt = "AWS T2 Instances within a VPC or EC2-Classic"
 author = "Veronique Robitaille"
+dyn_more = """
+For more information on Amazon EC2 T2 instance family type see: <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html" target="_blank">AWS EC2 Instances</a>.
+"""
 +++
-
 Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform?  You must launch it in a VPC.
-<br /><br />
-For more information on Amazon EC2 T2 instance family type see: <http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html>

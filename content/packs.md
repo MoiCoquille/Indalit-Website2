@@ -82,7 +82,7 @@ What is included?
 <h4 class="font03">If you have an idea of what your project is then you are most likely to want to go into more details on a specific subject.  We will provide a list that you can choose a topic from and go over it in more details during the presentation.</h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font05">Video Conference Call</h4>
+<h4 class="font05">Presentation Session</h4>
 <h4 class="font03">We will do the presentation over a Video Conference Call.  We will send you a link to connect without installing any software or creating a user.  The slides will be viewable during the call.</h4>
 </div>
 </div>
@@ -169,7 +169,7 @@ What is included?
 </h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font06">Video Conference Call</h4>
+<h4 class="font06">Training Session Presentation</h4>
 <h4 class="font03">We will do the presentation over a Video Conference Call.  We will send you a link to connect without installing any software or creating a user.  The slides will be viewable during the call.
 </h4>
 </div>
@@ -178,7 +178,7 @@ What is included?
 <div class="row">
   <div class="col-md-4">
 <h4 class="font06">Questions & Answers Session</h4>
-<h4 class="font03">Questions will be restricted to the end of the training session.  They will be all covered during this Q&A session.  Unanswered Q&A questions will be answered in the Follow-Up email.</h4>
+<h4 class="font03">Questions will be restricted to the end of the training session.  They will be all covered during this Q&A session.  Unanswered Q&A questions will be answered in a Follow-Up email.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font06">Follow-Up Email</h4>
@@ -191,7 +191,6 @@ What is included?
 </div>
 </div>
 </div>
-
 
 
 
@@ -223,7 +222,7 @@ What is the AWS Solution Package?
 </h4>
 
 <h5 class="font03">
-For this package we will need to work together.  We are looking to design your infrastructure completely based on your needs and requirements and not into a vanilla template architecture designed for the mass.
+This Solution Package is intended for small infrastructures using a mix of the most popular AWS services.  We will work with your teams to design a solution based on your requirements.  The package is composed of the following: (1) An Assessment (2) A Design phase (3) Presentation of the Solution (4) A Network Design and supporting documentation will be provided.
 </h5>
 
 <div class="br-01">
@@ -236,7 +235,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-With this AWS Solution Package, we will give you a network architecture diagram to get you started in the world of AWS.  With this diagram, you can start to consider its implementation.
+The Solution Package will provide a Network Diagram and Supporting Document.  With it, you can confidently move forward on your project, plan implementation & migration and finally calculate the cost.
 </h5>
 
 <div class="br-01">
@@ -249,37 +248,65 @@ What is included?
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font07">Network Diagram & Document</h4>
-<h4 class="font03">A scheme of the architecture proposed will be provided along with a support document explaining the chosen solution.
+<h4 class="font07">Your Architect</h4>
+<h4 class="font03">The design of your solution will be done by an AWS Certified Solutions Architect.
 </h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font07">Duration</h4>
-<h4 class="font03">This package includes 8 hours of work provided by an AWS Certified Solutions Architect who will use this time to investigate, design, document and propose a final solution.
+<h4 class="font07">Assessment</h4>
+<h4 class="font03">Working with your teams is mandatory.  We need to understand what is your current infrastructure and what you are looking to achieve.
 </h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font07">Investigate</h4>
-<h4 class="font03">Working with your teams is mandatory.  We will need to understand what you curretly have as a solution, what you are looking for and the technologies required to achieve the expected result.</h4>
+<h4 class="font07">Design</h4>
+<h4 class="font03">Your AWS Solutions Architect will design your solution based on the data from the assessment and will follow AWS best practices.  We will provide a list of AWS services included in this package.</h4>
 </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font07">Present the Solution</h4>
-<h4 class="font03">We will organise a Video Conference Call to go over the proposed solution.  We will present it to you.</h4>
+<h4 class="font07">Network Diagram & Documentation</h4>
+<h4 class="font03">A diagram of the proposed architecture will be provided along with the supporting documentation.</h4>
 </div>
   <div class="col-md-4">
-<h4 class="font07">Questions & Answers Session</h4><h4 class="font03">Once we have presented to you the final solution or more than one proposed solution, we will have a Q&A session to go over any interrogations you might have.</h4>
+<h4 class="font07">Presentation of the Solution</h4><h4 class="font03">We will organize a Video Conference Call to present your solution.  We will send you a link to connect without installing any software or creating a user.  The documentation will be presented on the call.</h4>
+</div>
+  <div class="col-md-4">
+<h4 class="font07">Questions & Answers Session</h4>
+<h4 class="font03">Questions will be restricted to the end of the presentation.  They will be all covered during this Q&A session.  Unanswered Q&A questions will be answered in a Follow-Up email.</h4>
+</div>
+</div>
+
+<div class="row">
+  <div class="col-md-4">
+<h4 class="font07">Follow-Up Email</h4>
+<h4 class="font03">Unanswered questions from the Q&A session will be covered in this email.</h4>
+</div>
+  <div class="col-md-4">
+<h4 class="font07">Duration</h4><h4 class="font03">We could go on and on analyzing and discussing the solution, exploring the possibilities.  But this package is limited to 8 hours maximum.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font07">Moving Forward</h4>
-<h4 class="font03">We will also give you an idea of how to move forward with this project.  We will go over what we can provide to you and what needs to be done internally by your staff and externally.</h4>
+<h4 class="font03">We will go over what the next steps should be.  Give you an idea of what to expect and how to move forward.</h4>
 </div>
 </div>
+
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -304,7 +331,7 @@ What is the AWS Pricing Package?
 </h4>
 
 <h5 class="font03">
-The world of AWS is amazing, we won't go over that right not.  But understanding pricing is not as simple as one may have thought.  So a solution has been presented to you by us or someone else and you now need to know how much it cost?  We calculate the price of your solution.
+The world of AWS is amazing, high quality services, almost too many to choose from,...  But understanding pricing is not as simple as one may think.  You have a already designed solution by us or not.  We calculate the price.  The package is composed of the following: (1) An Investigation (2) Presentation of the first estimate (3) Presentation of the second estimate.
 </h5>
 
 <div class="br-01">
@@ -317,7 +344,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-First of all peace of mind, if you where to do it yourself, you'd be surprised by the complexity.  A sort of quote you may require internally.  And an overall appreciation of the cost reduction you will make with AWS.
+First of all peace of mind, if you where to do it yourself, you'd be surprised by the complexity and time required.  You will get an unofficial quote of one-of charges and monthly recurring charges.  With this you will have an overall appreciation of the cost reduction you will make with AWS.
 </h5>
 
 <div class="br-01">
@@ -331,27 +358,28 @@ What is included?
 <div class="row">
   <div class="col-md-4">
 <h4 class="font08">Investigation</h4>
-<h4 class="font03">To price correctly, we will need to know a lot of little details about your expected usage.  We will work with your teams to gather this data.</h4>
+<h4 class="font03">To price correctly, we need to know a lot of details about your expected usage.  This can only be provided by you.  We will work with your teams to gather this data.</h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font08">Duration</h4>
-In this package 4 to 6 hours of work by a Certified Solutions Architect is included.  It may seem like a lot of hours just to price a solution, but it actually takes quite a bit of time.
+<h4 class="font08">First Estimate Presentation</h4>
+<h4 class="font03">Through a Video Conference Call we will present the estimation an explain the details.  At this stage you might be surprised and wish to make some modifications to fit your budget.</h4>
 </div>
-  <div class="col-md-4">
-<h4 class="font08">First Estimate</h4>
-<h4 class="font03">Through a Video Conference Call, we will present the estimate and explain it in details.  At this stage you might be surprised and wish to make modifications to fit within a budget.</h4>
+
+<div class="col-md-4">
+<h4 class="font08">Second Estimate Presentation</h4>
+<h4 class="font03">We often get over excited when building a solution but when it comes time to price it, we calm down rapidly.  This second estimate might be required to get a better price or to be able to compare.  Do note this is not a second solution that is priced, but the initial one with minor modifications.</h4>
 </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font08">Second Estimate</h4>
-<h4 class="font03">We often get over excited when building a solution but when it comes time to price it, we calm down rapidely.  This second estimate might be required to get a better price or to be able to compare.  Do note this is not a second solution that is priced, but the inicial one with minor modifications.</h4>
+<h4 class="font08">Duration</h4>
+<h4 class="font03">This packages includes a maximum of 4 hours.  It is only for small infrastructures with the primary AWS services.  We can provide a list.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font08">Caveats</h4>
-<h4 class="font03">Pricing is provided based on AWS website.  We have no tool or application that allows us to have the most accurate prices.  Also good thing to note is we do not work for AWS and receive no commission from them, so no point in trying to negotiate.  Pricing is stricktly provided based on usage predictions given by your teams.  These numbers may not represent the reality.</h4>
+<h4 class="font03">Pricing is provided based on AWS website.  We have no tool or application that allows us to have the most accurate prices.  Also good thing to note is we do not work for AWS and receive no commission from them, so no point in trying to negotiate.  Pricing is strictly provided based on usage predictions given by your teams.  These numbers may not represent the reality.</h4>
 </div>
   <div class="col-md-4">
 <h4 class="font08"></h4>
@@ -360,10 +388,6 @@ In this package 4 to 6 hours of work by a Certified Solutions Architect is inclu
 </div>
 </div>
 </div>
-
-
-
-
 
 
 
@@ -388,7 +412,7 @@ What is the Project Management Package?
 </h4>
 
 <h5 class="font03">
-The Project Management Package offers you the services of an experience project manager in order for you to have your project under control.  In the case of an AWS project, it will be done by a Certified Solutions Architect who will understand the technologies behind it and be more accurate.
+The Project Management Package offers you the services of an experience project manager in order for you to have your project under control.  The package is composed of the following: (1) Assessment (2) Build Project (3) Manage Project (4) Documentation & Reporting.
 </h5>
 
 <div class="br-01">
@@ -401,7 +425,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-Project management is often discarded, especially for smaller project.  But the reality is it makes a big difference in the project lifetime.  You have someone to plan, organise, document, report but especially keep the people close to each other, this is where a project manager exells.
+Project management is often discarded, especially for smaller projects.  But the reality is it makes a big difference in the outcome of your project.  You have someone to plan, organize, document, report but especially keep the people close to each other, this is what makes the difference.
 </h5>
 
 <div class="br-01">
@@ -414,17 +438,17 @@ What is included?
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font09">Investigate</h4>
-<h4 class="font03">We will need to undertand your organization, speak to the staff that is part of the project, work with the externals of this project, grasp the technical solution expected and take into account managements expectations. </h4>
+<h4 class="font09">Assessment</h4>
+<h4 class="font03">We will need to understand your organization, work with you teams, grasp the technical solution expected and take into account managements expectations.  The project manager will be an AWS Certified Solutions Architect if the project is an AWS one.</h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font09">Duration</h4>
-<h4 class="font03">This package is provided on a weekly bases of maximum 6 hours.  They do not need to be consecutive.  The price is per week and expected to last the whole duration of the project.</h4> 
+<h4 class="font09">Build Project</h4>
+<h4 class="font03">Prepare documentation, follow-up template, contacts/positions/roles in project,...  Once this is done, then we will present the project to you via a Video Conference Call.</h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font09">Document</h4>
-<h4 class="font03">Yes we know, nobody likes to read them, but it is the role of a project manager to document the initial requirements, a weekly status, all main tasks and objectives with the daily updates,...</h4>
+<h4 class="font09">Manage Project</h4>
+<h4 class="font03">Work with your teams to follow the schedule or adapt rapidly to changes or problems.  Plan weekly follow-up meetings, stay close to the people involved & report weekly.</h4>
 </div>
 </div>
 
@@ -434,16 +458,17 @@ What is included?
 <h4 class="font03">We will participate in your project meetings and will organize a weekly meeting to review the state of the project.</h4>
 </div>
   <div class="col-md-4">
-<h4 class="font09"></h4>
-<h4 class="font03"></h4>
+<h4 class="font09">Documentation & Reporting</h4>
+<h4 class="font03">Yes we know, nobody likes to read them, but it is the role of a project manager to document the initial requirements, a weekly status, all main tasks and objectives with the regular updates,...</h4>
 </div>
   <div class="col-md-4">
-<h4 class="font09"></h4>
-<h4 class="font03"></h4>
+<h4 class="font09">Duration</h4>
+<h4 class="font03">This package is provided on a weekly bases of maximum 6 hours.  They do not need to be consecutive.  The price is per week and expected to last the whole duration of the project</h4>
 </div>
 </div>
 </div>
 </div>
+
 
 
 
@@ -471,7 +496,7 @@ What is the AWS Enhanced Package?
 </h4>
 
 <h5 class="font03">
-The AWS Enhanced Package has been put together to offer an easy and quick review of your current AWS infrastructure to see if it is possible to make it better.  Subjects can be around most AWS Services, pricing & security.
+The AWS Enhanced Package is an audit of your current AWS service and the analysis on how to make the configuration, the billing and the security around it better.  The package is composed of the following: (1) Audit (2) Presentation of the possible enhancements (3) Questions & Answers Session.  The package does not include troubleshooting an existing problem, the AWS service chosen must be up and running correctly.
 </h5>
 
 <div class="br-01">
@@ -484,7 +509,7 @@ What will it bring to you?
 </h4>
 
 <h5 class="font03">
-This package will give you a visibility on what can be done to improve what you current have in place.  You could say it's a audit.  
+The audit will give you an in depth view of how your AWS service was implemented and how it can work better in production.  We verify billing and propose security enhancements related to AWS service.
 </h5>
 
 <div class="br-01">
@@ -497,20 +522,20 @@ What is included?
 
 <div class="row">
   <div class="col-md-4">
-<h4 class="font05">Choose a Subject</h4>
-<h4 class="font03">You can choose most AWS Services.  You can also choose to review billing.  This is to be considered because you often pay more than you should.  We can also review the security of the AWS components.</h4>
+<h4 class="font05">Choose Your AWS Service</h4>
+<h4 class="font03">You need to choose the AWS service you wish to audit and enhance.  A list of services included in this package will be provided.</h4>
 </div>
 
 <div class="col-md-4">
-<h4 class="font05">Duration</h4>
+<h4 class="font05">Audit</h4>
 <h4 class="font03">
-This package includes a maximum of 4 hours to audit and propose possible enhancements.
+The audit will be done by an AWS Certified Solutions Architect.  We audit the configuration, how the service appears to be running, the billing and the security.
 </h4> 
 </div>
   <div class="col-md-4">
-<h4 class="font05">Presentation</h4>
+<h4 class="font05">Presenting The Results</h4>
 <h4 class="font03">
-A Video Conference Call will be organized to present the findings of this audit and go over what can be done better.
+A Video Conference Call will be organized to present the findings of this audit and go over what can be done better.  It will include a Q&A session at the end of the presentation and we will look at how you can move forward.  Supporting documentation will be provided.
 </h4>
 </div>
 </div>
@@ -519,18 +544,18 @@ A Video Conference Call will be organized to present the findings of this audit 
   <div class="col-md-4">
 <h4 class="font05">Questions & Answers Session</h4>
 <h4 class="font03">
-As one might expect, we will have a Q&A session at the end of the presentation.  
+Questions will be restricted to the end of the presentation. They will be all covered during this Q&A session. Unanswered Q&A questions will be answered in a Follow-Up email.  
 </h4>
 </div>
   <div class="col-md-4">
-<h4 class="font05">Moving Forward</h4>
+<h4 class="font05">Duration</h4>
 <h4 class="font03">
-We will also go over how you can move forward on this project.  
+The package includes a maximum of 3 hours to cover all the subject presented here.  
 </h4>
 </div>
   <div class="col-md-4">
-<h4 class="font05"></h4>
-<h4 class="font03"></h4>
+<h4 class="font05">Extras</h4>
+<h4 class="font03">It might be interesting to have a network topology done, a complete audit of your infrastructure, a security audit or even a complete review of the billing.</h4>
 </div>
 </div>
 </div>

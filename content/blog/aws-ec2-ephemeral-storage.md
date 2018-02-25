@@ -6,7 +6,9 @@ categories = ["AWS", "Did You Know", "Compute", "Storage"]
 banner = "img/blog/aws-ec2-ephemeral-storage.jpg"
 alt = "AWS EC2 Lost Data on Ephemeral Storage"
 author = "Veronique Robitaille"
+dyn_more = """
+You can find more information on this AWS EBS feature at <a href="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html" target="_blank">Amazon EC2 Ephemeral Storage</a>.
+"""
 +++
 
 Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?
-

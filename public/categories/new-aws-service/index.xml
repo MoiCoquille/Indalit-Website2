@@ -17,8 +17,7 @@
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
-      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.
-For more information on Amazon Web Services General Purpose Instance Family M5 see: https://aws.amazon.com/about-aws/whats-new/2017/11/introducing-amazon-ec2-m5-instances/</description>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
-      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more. For more information on Amazon Web Services GuardDuty see: https://aws.amazon.com/about-aws/whats-new/2017/11/announcing-amazon-guardduty-intelligent-threat-detection/</description>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     
     <item>
@@ -37,8 +36,16 @@ For more information on Amazon Web Services General Purpose Instance Family M5 s
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
       <description>Did you know Amazon launched AWS Fargate?
-The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
-Read on this subject for more information on AWS Fargate.</description>
+The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.</description>
+    </item>
+    
+    <item>
+      <title>AWS Lightsail Launches Load Balancing Support</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
     </item>
     
   </channel>

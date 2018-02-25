@@ -17,6 +17,27 @@ a.anchor {
     visibility: hidden;
 }
 
+.bkg-texture {
+	padding: 20px 20px 50px 20px;
+	background-color: #f2f2f2;
+}
+
+.dyn-text {
+	text-align: center;
+	margin: 30px 0px 30px 0px;
+	font-size: 40px;
+	color: #393939;
+}
+
+.dyn-statement {
+    background-color: white;
+    text-align: left;
+	padding: 20px 10px 20px 10px;
+    border-style: solid;
+    border-width: 1px;
+	border-color: #999999;
+}
+
 .i01 {
   display: flex;
   justify-content: center;
@@ -154,7 +175,7 @@ a.anchor {
 }
 
 .texture-packs {
-  background: url('../img/packs/background-grey.jpeg') center center repeat;
+  background: url('img/blog/background-grey.jpeg') center center repeat;
 }
 
 .col-sm-3 {

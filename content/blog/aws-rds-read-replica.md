@@ -6,8 +6,9 @@ categories = ["AWS", "Did You Know", "Database"]
 banner = "img/blog/aws-rds-read-replica.png"
 alt = "AWS RDS Read Replicas"
 author = "Veronique Robitaille"
+dyn_more = """
+For more information on Amazon Web Services RDS see: <a href="https://aws.amazon.com/rds/details/read-replicas/" target="_blank">AWS RDS Read Replicas</a>.
+"""
 +++
 
 Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them?  This reduces the load on the master.
-
-

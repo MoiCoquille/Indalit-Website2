@@ -17,7 +17,16 @@
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
-      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
+    </item>
+    
+    <item>
+      <title>AWS Cross Region VPC Peering</title>
+      <link>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <description>Did you know AWS now allows VPC Peering across different regions?</description>
     </item>
     
     <item>
@@ -26,7 +35,7 @@
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
-      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC. For more information on Amazon EC2 T2 instance family type see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/t2-instances.html</description>
+      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
   </channel>

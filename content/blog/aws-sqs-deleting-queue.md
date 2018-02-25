@@ -6,9 +6,8 @@ categories = ["AWS", "Did You Know", "Messaging"]
 banner = "img/blog/aws-sqs-deleting-queue.jpg"
 alt = "AWS can delete a SQS queue after 30 days"
 author = "Veronique Robitaille"
+dyn_more = """
+For more information on Amazon Web Services SQS Queues and what AWS can do with them see: <a href="https://cloudacademy.com/quiz/study/411880/" target="_blank">AWS SQS Queues</a>.  You need an account but it's worth while to get one.
+"""
 +++
-
 Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?
-<br /><br />
-For more information on Amazon Web Services SQS Queues and what AWS can do with them see: <https://cloudacademy.com/quiz/study/411880/>
-

@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.indalit.com/blog/2018/02/25/veronique-the-end/</loc>
+    <lastmod>2018-02-25T01:00:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2018/02/25/indalit-news-new-logo/</loc>
+    <lastmod>2018-02-25T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2018/02/23/aws-service-list/</loc>
+    <lastmod>2018-02-23T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</loc>
     <lastmod>2018-02-22T00:49:20+02:00</lastmod>
   </url>
@@ -69,6 +84,21 @@
   
   <url>
     <loc>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</loc>
     <lastmod>2017-12-01T00:49:20+02:00</lastmod>
   </url>
   
@@ -166,13 +196,13 @@
   
   <url>
     <loc>https://www.indalit.com/categories/aws/</loc>
-    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <lastmod>2018-02-23T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/blog/</loc>
-    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <lastmod>2018-02-25T01:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,7 +214,7 @@
   
   <url>
     <loc>https://www.indalit.com/categories/</loc>
-    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <lastmod>2018-02-23T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -222,7 +252,7 @@
   
   <url>
     <loc>https://www.indalit.com/tags/creating-my-company/</loc>
-    <lastmod>2018-02-21T00:00:20+02:00</lastmod>
+    <lastmod>2018-02-25T01:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -292,13 +322,31 @@
   
   <url>
     <loc>https://www.indalit.com/</loc>
-    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <lastmod>2018-02-25T01:00:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/categories/indalit-news/</loc>
+    <lastmod>2018-02-25T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.indalit.com/tags/ip/</loc>
     <lastmod>2018-02-15T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/tags/lightsail/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/tags/load-balancing/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,6 +365,12 @@
   <url>
     <loc>https://www.indalit.com/categories/networking--content-delivery/</loc>
     <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.indalit.com/categories/new-aws-feature/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -388,7 +442,7 @@
   
   <url>
     <loc>https://www.indalit.com/categories/veronique-diary/</loc>
-    <lastmod>2018-02-21T00:00:20+02:00</lastmod>
+    <lastmod>2018-02-25T01:00:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   

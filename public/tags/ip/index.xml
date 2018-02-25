@@ -17,7 +17,7 @@
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
-      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can? For more information on AWS VPC Configuration see: http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html</description>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
-      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped. For more information on Amazon EC2 Instances IP addressing see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Stop_Start.html</description>
+      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
@@ -35,8 +35,8 @@
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
-      <description>Did you know that viewing on an AWS instance http://169.254.169.254/latest/meta-data/ will give you the metadata of your instance?
-For more information on AWS EC2 Instances see: http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html</description>
+      <description>Did you know that viewing the following link on an AWS EC2 instance will give you the metadata of your instance?
+http://169.254.169.254/latest/meta-data/  </description>
     </item>
     
   </channel>

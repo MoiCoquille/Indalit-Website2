@@ -17,5 +17,5 @@ description: >
  </ul>
  </p>
 
-image: "img/carousel/devops-consulting.png"
+image: "/img/carousel/devops-consulting.png"
 alt: "DevOps consulting services around UNIX and LINUX"

@@ -1,5 +1,5 @@
 +++
-title = "Bug Report - Hugo - Universal Theme - in BLOG Image Loading Intermittent"
+title = "Bug Report - Hugo(Universal Theme) - in BLOG Image Loading Intermittent"
 date = "2018-02-18T00:00:00+02:00"
 tags = ["Configuration", "Web Development"]
 categories = ["Bug Report"]
@@ -37,8 +37,8 @@ When going on the [BLOG](http://www.indalit.com/blog/) page, a list of most rece
 
 ### Online Support
 
-* Theme GIT repository, Issues section has not been answered for the last 3 months
-* [Hugo Community](https://discourse.gohugo.io/) discarded the issue and marked it as closed saying it was a .js problem .
+* See the GIT repository on this issue [Hugo Universal Theme](https://github.com/devcows/hugo-universal-theme/issues/142#issuecomment-368169990). 
+* [Hugo Community](https://discourse.gohugo.io/) discarded the issue and marked it as closed saying it was a .js problem.
 * This is the odd part, nobody on the internet has had the same problem!
 * Post on [Stackoverflow](https://stackoverflow.com/) didn't attract any capable of resolving the issue.
 
@@ -62,4 +62,16 @@ When going on the [BLOG](http://www.indalit.com/blog/) page, a list of most rece
 * Works on all devices.
 * Wonder what will happen if the actual size of the image to display is less than 196px.
 
+### Update on Solution
 
+[Kulak](https://github.com/Kulak) might have identified the source of the problem in js/front.js.
+
+```
+/* picture zoom */
+function pictureZoom () {
+  $('.product .image, .post .image, .photostream div').each(function () {
+    var imgHeight = $(this).find('img').height()
+    $(this).height(imgHeight)
+  })
+}
+```
