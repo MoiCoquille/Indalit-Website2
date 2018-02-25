@@ -1,0 +1,15 @@
+<!-- did you know -->
+<div class="bkg-texture">
+    <div class="dyn-text">
+        Did You Know <img class="packimg02" style="float: center" src="/img/blog/interrogation-point.png" alt="Did you know this?">
+    </div>
+    <div class="dyn-statement">
+        {{ .Content }}
+    </div>
+    <div class="dyn-text">
+        Want more information <img class="packimg02" style="float: center" src="/img/blog/interrogation-point.png" alt="Did you know this?">
+    </div>
+    <div class="dyn-statement">
+        {{ .Params.dyn_more | safeHTML }}
+    </div>
+</div>
