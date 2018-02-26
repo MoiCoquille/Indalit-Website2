@@ -18,8 +18,8 @@ debe haber estrategia, conocimiento y control.
 ¿ Cómo le puede ayudar _Indalit_?
 
 * ¿ Tienes una infraestructura en mente y necesitas la ayuda de un **profesional experimentado** para que suceda ?
-* *Su plataforma está lista y funcionando, pero necesitaría una **auditoría** para asegurar su viabilidad o necesita un ojo externo para averiguar qué está causando esas ralentizaciones?
-* *Lo construisteis todo vosotros mismos,
+* Su plataforma está lista y funcionando, pero necesitaría una **auditoría** para asegurar su viabilidad o necesita un ojo externo para averiguar qué está causando esas ralentizaciones?
+* Lo construisteis todo vosotros mismos,
   pero de una manera antigua, pieza por pieza no pensando realmente en la **industrialización**?
 * ¿ **Depurar** un script existante, un programa, componentes o mecanismos de desarollo ?
 * ¿ A la mejor necesita **entrenamiento** con estas nuevas tecnologías que que quiere utilizar
