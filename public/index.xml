@@ -32,6 +32,15 @@ While we are on the subjet, let us explain the meaning of our logo. It actually 
     </item>
     
     <item>
+      <title>How To Make A Template for BLOG Posts</title>
+      <link>https://www.indalit.com/blog/2018/02/25/how-to-hugo-template-blog-post/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/02/25/how-to-hugo-template-blog-post/</guid>
+      <description>How Does It Work Now? When you create a BLOG post, you can use a template file you have created with all the possible TAGS and CATEGORIES (for example), there might be a better way to handle this with Hugo, but I haven&amp;rsquo;t even looked. This post is not about creating a template for all BLOG posts, but only for a certain type of BLOG posts. If you want a specific HTML formatting for only specific types of BLOG posts, then you need to add it to your template file.</description>
+    </item>
+    
+    <item>
       <title>AWS Services List</title>
       <link>https://www.indalit.com/blog/2018/02/23/aws-service-list/</link>
       <pubDate>Fri, 23 Feb 2018 00:49:20 +0200</pubDate>

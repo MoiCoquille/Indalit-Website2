@@ -3,64 +3,50 @@ title = "Amazon Web Service (AWS)"
 id = "aws"
 type = "page"
 +++
+> _Los amigos no dejan a los amigos construir centros de datos_
+> --Charles E. Phillips
 
-<div class="container" role="main">
+[Amazon Web Services] [1] es la plataforma de Cloud más conocida y poderosa
+y como usted sabe "_con gran poder vienen grandes responsabilidades_!"
+Hay muchas maneras de diseñar una infraestructura _AWS_, de la más simple a la
+innecesariamente complicada.  Nuestra misión: **satisfacer sus necesidades**.
 
+_AWS_ se compone de cientos de servicios que se pueden conectar juntos, lo
+que lleva a **miles** de posibles combinaciones! De las instancias básicas a
+las plataformas [EC2 Container Service (ECS)][2], servicios [Serverless][3]
+que utilizan [Amazon Lambda][4] y la [API Gateway][5], o incluso tratamientos
+de "big data"  utilizando [S3 Athena][6], podemos ayudarle a escoger la
+herramienta que necesita.
 
-<div class="row">
-<div class="col-md-6">
-<h3 class="font01">
-<img style="float" src="/img/aws/quote.png" alt="Quote">  Friends don't let friends build datacenters -- Charles E. Philips
-</h3>
-</div>
-<div class="col-md-6">
-<img style="float: center; margin: 0px 0px 0px 0px;" src="/img/aws/aws-new.jpg" width="300" alt="Quote">
-</div>
-</div>
-<br />
-<div>
-<h4 class="font01">
+A lo mejor tiene pensado uno de estos proyectos :
 
-blabla
-
-<p>
-<a href="https://aws.amazon.com">Amazon Web Services</a> is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.
-</p>
-
-<br />
-
-<p>
-AWS is composed of hundreds of services that can be plugged together, leading to thousands of possible combinations! From basic instances to <a href="https://aws.amazon.com/ecs/">EC2 Container Service</a> (ECS), <a href="https://serverless.com/">Serverless</a> platforms using <a href="https://aws.amazon.com/lambda/">Amazon Lambda</a> and the <a href="https://aws.amazon.com/api-gateway/">API Gateway</a> or even massive big data workloads using <a href="https://aws.amazon.com/athena/">Amazon Athena</a>, we can help you pick the tool you need.
-</p>
-<br />
-
-<p>
-You might have your project in mind:
-</p>
-<br />
-<ul style="color:#d84315">
-	<li><span style="color:grey">Migrate your physical infrastructure to AWS Cloud?</li>
-	<li><span style="color:grey">Extend your existing infrastructure to AWS Cloud?</li>
-	<li><span style="color:grey">Start a brand new project?</li>
-	<li><span style="color:grey">Prepared for new traffic or massive load?</li>
-	<li><span style="color:grey">Not sure what you have, need an audit?</li>
-	<li><span style="color:grey">Need to learn about AWS and it's services?</li>
-    <li><span style="color:grey">Understand pricing?</li>
-    <li><span style="color:grey">You have a solution, what's next?</li>
+<ul class="fa-ul skillsitems awsskills">
+  <li><i class="fa-li fa fa-truck"></i>¿Migrar su infraestructura física a
+  la Nube?</li>
+  <li><i class="fa-li fa fa-code-fork"></i>¿**Extender** / **hibridizar** su
+  infraestructura existente con la Nube?</li>
+  <li><i class="fa-li fa fa-star"></i>¿Iniciar un proyecto **nuevo**?</li>
+  <li><i class="fa-li fa fa-rocket"></i>¿Preparar sus componentes _AWS_
+  existentes para un crecimiento masivo de tráfico?</li>
+  <li><i class="fa-li fa fa-stethoscope"></i>¿**Auditar** una infraestructura
+  existente?</li>
+  <li><i class="fa-li fa fa-graduation-cap"></i>¿**Entrenar** a sus
+  equipos?</li>
 </ul>
 
-<br />
+Cada una de estas solicitudes tiene una respuesta adecuada y progresiva. No
+hay necesidad de interrupción, hemos manejado los casos de uso más complejos
+sin un segundo de tiempo de inactividad.
 
-<p>
-Every one of these requests has an adequate and progressive answer. No need for disruption, we have managed the most complex use cases without a second of downtime.
-</p>
-<br />
+Estén tranquilizados, no estarán solos, no solo seguiremos su proyecto, sino
+que se explicará, escribirá y enseñará al equipo encargado un profundo
+conocimiento de las metodologías y técnicas utilizadas para la configuración
+de su proyecto.
 
-<p>
-Be reassured, you won't be on your own.  Get the <a href="http://www.indalit.com/packs/">Project Management Pack</a> to make sure the project is on track.
-</p>
-<br />
+[1]: https://aws.amazon.com/
+[2]: https://aws.amazon.com/ecs/
+[3]: https://serverless.com/
+[4]: https://aws.amazon.com/lambda/
+[5]: https://aws.amazon.com/api-gateway/
+[6]: https://aws.amazon.com/athena/
 
-</h4>
-</div>
-</div>

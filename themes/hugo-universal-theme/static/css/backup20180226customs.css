@@ -46,28 +46,33 @@ a.anchor {
 .back-yellow {
   display: flex;
   justify-content: center;
-#	background: #fdd351;
-#	border: 1px solid white;
-    padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
+	background: #fdd351;
+	border: 1px solid white;
+    padding: 20px 0px 20px 0px;
 }
 
 .back-red {
   display: flex;
   justify-content: center;
-#    background: #d84315;
-#    border: 1px solid white;
-    padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
+    background: #d84315;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
 }
 
-.back-grey {
+.back-green {
   display: flex;
   justify-content: center;
-#    background: #dcdcdc;
-#    border: 1px solid white;
-    padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
+    background: #1ca138;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
+}
+
+.back-blue {
+  display: flex;
+  justify-content: center;
+    background: #2196f3;
+    border: 1px solid white;
+    padding: 20px 0px 20px 0px;
 }
 
 .link01 {
@@ -91,7 +96,7 @@ a.anchor {
 
 .font03 {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
-    color: #a8a8a8;
+    color: grey;
     font-weight: normal;
     font-size: 16px;
 }
@@ -123,7 +128,7 @@ a.anchor {
 
 .font07 {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
-    color: #808080;
+    color: #1ca138;
     font-weight: bold;
     font-size: 18px;
     line-height: 5px;
@@ -145,46 +150,28 @@ a.anchor {
     line-height: 5px;
 }
 
-.ul-01 {
-	color: #fdd351; 
-#	line-height: 20px;
-}
-
-.ul-02 {
-    color: #d84315;
-}
-
-.ul-03 {
-    color: #808080;
-}
-
 .whole-table {
-    background-color: #fcf7de;
+	background-color: #fcf9ed;
 	width: 100%;
     padding: 10px 10px 10px 10px;
-#    border: 5px solid #fdd351;
-	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table02 {
     background-color: #f8f0ee;
     width: 100%;
     padding: 10px 10px 10px 10px;
-    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table03 {
-    background-color: #f5f5f5;
+    background-color: #e5ece6;
     width: 100%;
     padding: 10px 10px 10px 10px;
-    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table04 {
     background-color: #ecf0f3;
     width: 100%;
     padding: 10px 10px 10px 10px;
-    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .texture-packs {
@@ -224,7 +211,7 @@ a.anchor {
 }
 
 .h1-03 {
-    color: #808080;
+    color: #1ca138;
 }
 
 .h1-04 {

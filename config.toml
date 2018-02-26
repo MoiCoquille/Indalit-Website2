@@ -88,6 +88,12 @@ PaginatePath = "page"
     url = "https://www.linkedin.com/company/indalit-cloud-consulting/"
     pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
+[[menu.topbar]]
+    weight = 5
+    name = "Meetup"
+    url = "https://www.meetup.com/AWS-Valencia/"
+    pre = "<i class='fa fa-2x fa-meetup'></i>"
+
 [params]
     viewMorePostLink = "/blog/"
 #    author = "DevCows"
