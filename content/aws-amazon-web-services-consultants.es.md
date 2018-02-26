@@ -1,8 +1,10 @@
 +++
 title = "Amazon Web Service (AWS)"
-id = "aws"
+id = "subjects"
 type = "page"
 +++
+<img style="float: right; margin-right: 100px;" src="/img/aws/aws-new.jpg">
+
 > _Los amigos no dejan a los amigos construir centros de datos_
 > --Charles E. Phillips
 
@@ -20,19 +22,12 @@ herramienta que necesita.
 
 A lo mejor tiene pensado uno de estos proyectos :
 
-<ul class="fa-ul skillsitems awsskills">
-  <li><i class="fa-li fa fa-truck"></i>¿Migrar su infraestructura física a
-  la Nube?</li>
-  <li><i class="fa-li fa fa-code-fork"></i>¿**Extender** / **hibridizar** su
-  infraestructura existente con la Nube?</li>
-  <li><i class="fa-li fa fa-star"></i>¿Iniciar un proyecto **nuevo**?</li>
-  <li><i class="fa-li fa fa-rocket"></i>¿Preparar sus componentes _AWS_
-  existentes para un crecimiento masivo de tráfico?</li>
-  <li><i class="fa-li fa fa-stethoscope"></i>¿**Auditar** una infraestructura
-  existente?</li>
-  <li><i class="fa-li fa fa-graduation-cap"></i>¿**Entrenar** a sus
-  equipos?</li>
-</ul>
+* ¿ Migrar su infraestructura física a la Nube ?
+* ¿ **Extender** / **hibridizar** su infraestructura existente con la Nube ?
+* ¿ Iniciar un proyecto **nuevo** ?
+* ¿ Preparar sus componentes _AWS_ existentes para un crecimiento masivo de tráfico ?
+* ¿ **Auditar** una infraestructura existente ?
+* ¿ **Entrenar** a sus equipos ?
 
 Cada una de estas solicitudes tiene una respuesta adecuada y progresiva. No
 hay necesidad de interrupción, hemos manejado los casos de uso más complejos
