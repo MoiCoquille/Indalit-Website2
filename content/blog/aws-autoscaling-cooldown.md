@@ -11,4 +11,4 @@ If you are curious about this feature, then go read more information on <a href=
 """
 +++
 
-Did you know the default AWS Auto Scaling cooldown period is 300 seconds?  When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.
+Did you know the default <i>AWS Auto Scaling</i> cooldown period is 300 seconds?  When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.

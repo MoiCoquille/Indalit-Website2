@@ -11,6 +11,6 @@ Read on this subject for more information on <a href="https://aws.amazon.com/abo
 """
 
 +++
-Did you know [Amazon](https://aws.amazon.com/) launched AWS Fargate? 
+Did you know [Amazon](https://aws.amazon.com/) launched <i>AWS Fargate</i>? 
 
-The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.
+The new <i>AWS Fagate</i> service allows for deployment and management of containers without having to build a cluster of EC2 Instances.

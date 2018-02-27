@@ -11,4 +11,4 @@ For more information, see: <a href="https://aws.amazon.com/blogs/aws/new-encrypt
 """
 +++
 
-Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?
+Did you know the <i>Amazon Elastic Block Store (EBS)</i> boot volume can be encrypted?

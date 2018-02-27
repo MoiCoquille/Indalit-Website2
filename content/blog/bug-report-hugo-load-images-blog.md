@@ -26,7 +26,7 @@ When going on the [BLOG](http://www.indalit.com/blog/) page, a list of most rece
 * After verification the images all load, they are just not all displayed.
 * With some tools, you can see that the pixels set to the image are 0.
 * All devices, all browsers.
-* Dev environment server and AWS S3 hosting both have the same problem.
+* Dev environment server and <i>AWS S3</i> hosting both have the same problem.
 
 ### Debugging
 

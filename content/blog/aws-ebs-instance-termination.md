@@ -6,7 +6,7 @@ categories = ["AWS", "Did You Know", "Compute", "Storage"]
 banner = "img/blog/aws-ebs-delete-termination.png"
 alt = "EBS Data Erased on Instance Termination"
 author = "Veronique Robitaille"
-dyn_more = """You can find more information on this AWS EBS feature at <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html" target="_blank">Amazon EBS Volume Deletion</a>.
+dyn_more = """You can find more information on this <i>AWS EBS</i> feature at <a href="http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/terminating-instances.html" target="_blank">Amazon EBS Volume Deletion</a>.
 """
 +++
 

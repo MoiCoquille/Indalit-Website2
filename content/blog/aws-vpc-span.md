@@ -7,7 +7,7 @@ banner = "img/blog/aws-vpc-span.jpg"
 alt = "Span Across many AZs a VPC"
 author = "Veronique Robitaille"
 dyn_more = """
-For more information on AWS VPC Configuration see: <a href="http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html" target="_blank">AWS VPC</a>.
+For more information on <i>AWS VPC</i> Configuration see: <a href="http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html" target="_blank">AWS VPC</a>.
 """
 +++
-Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?
+Did you know that a subnet cannot span multiple <i>AWS Availability Zones</i> while a VPC can?

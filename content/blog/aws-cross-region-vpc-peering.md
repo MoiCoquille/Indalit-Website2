@@ -11,5 +11,5 @@ For more information on this new feature, read <a href="https://aws.amazon.com/a
 """
 +++
 
-Did you know AWS now allows VPC Peering across different regions?
+Did you know AWS now allows <i>VPC Peering</i> across different regions?
 
