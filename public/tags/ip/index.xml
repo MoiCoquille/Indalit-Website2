@@ -26,7 +26,7 @@
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
-      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
+      <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
-      <description>Did you know that viewing the following link on an AWS EC2 instance will give you the metadata of your instance?
+      <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
 http://169.254.169.254/latest/meta-data/  </description>
     </item>
     

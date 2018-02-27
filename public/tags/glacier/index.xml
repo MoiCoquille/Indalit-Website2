@@ -6,10 +6,19 @@
     <description>Recent content in Glacier on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/tags/glacier/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Glacier Expedite Retrieval Options</title>
+      <link>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
+    </item>
     
     <item>
       <title>AWS Glacier Expedite</title>

@@ -235,8 +235,8 @@ ul.list-style-none {
   }
 }
 #top {
-#  background: #2196f3;
-	background: #d0d8d8;
+	background: #2196f3;
+#	background: #d0d8d8;
 #	background: #555555;
 #	background: #d84315;
 #	background: #da4d4d;
@@ -1194,10 +1194,11 @@ margin: auto;
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
- color: #fcd308;
+	color: #fcd308;
 #	color: #dbdbdb;
 #	color: #555555;
 #	color: #2196f3;
+#	color: #d84315;
 }
 .home-carousel h1 {
   font-weight: 700;

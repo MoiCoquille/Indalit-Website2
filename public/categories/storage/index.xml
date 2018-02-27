@@ -31,6 +31,15 @@ This is also the case with ephemeral storage (instance store volumes). Other non
     </item>
     
     <item>
+      <title>AWS Glacier Expedite Retrieval Options</title>
+      <link>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
+    </item>
+    
+    <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
       <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>

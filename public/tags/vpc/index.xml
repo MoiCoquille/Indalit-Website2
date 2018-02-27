@@ -35,7 +35,7 @@
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
-      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC.</description>
+      <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
   </channel>

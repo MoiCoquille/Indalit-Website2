@@ -227,7 +227,7 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</guid>
-      <description>Did you know AWS introduced Spread Placement Groups? This means EC2 Instances within a Placement Group will be on distinct hardware.</description>
+      <description>Did you know AWS introduced Spread Placement Groups? This means AWS EC2 Instances within a Placement Group will be on distinct hardware.</description>
     </item>
     
     <item>
@@ -237,6 +237,24 @@ The new AWS Fagate service allows for deployment and management of containers wi
       
       <guid>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
       <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite Retrieval Options</title>
+      <link>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
+    </item>
+    
+    <item>
+      <title>AWS New Compute Optimized Instance Family - C5</title>
+      <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
+      <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
     </item>
     
     <item>
@@ -272,7 +290,7 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
-      <description>Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+      <description>Did you know if an AWS SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
     </item>
     
     <item>
@@ -308,7 +326,7 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
-      <description>Did you know you cannot launch an AWS T2 instance type in an EC2-Classic platform? You must launch it in a VPC.</description>
+      <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
     <item>
@@ -326,7 +344,7 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
-      <description>Did you know an Amazon EC2 instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
+      <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
@@ -335,7 +353,7 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
-      <description>Did you know that viewing the following link on an AWS EC2 instance will give you the metadata of your instance?
+      <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
 http://169.254.169.254/latest/meta-data/  </description>
     </item>
     
@@ -417,7 +435,7 @@ http://169.254.169.254/latest/meta-data/  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/aws-amazon-web-services-consultants/</guid>
-      <description>Friends don&#39;t let friends build datacenters -- Charles E. Philips       Amazon Web Services is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.  AWS is composed of hundreds of services that can be plugged together, leading to thousands of possible combinations!</description>
+      <description>Friends don&#39;t let friends build datacenters -- Charles E. Philips       Amazon Web Services is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs. Here is what we can do for you:  Analysis &amp; Assessment Design Migration &amp; Implementation Troubleshoot Audit Cost Evaluation Documentation &amp; Reporting Training   AWS is composed of hundreds of services that can be plugged together, leading to thousands of possible combinations!</description>
     </item>
     
     <item>
@@ -444,7 +462,7 @@ http://169.254.169.254/latest/meta-data/  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/devops-consultants/</guid>
-      <description>UNIX is not so much an operating system as a way of thinking!       What is DevOps? Long story short, DevOps means R.O.I., the days of the mutable infrastructure are gone. With cloud infrastructure and moreover ephemeral instances, immutable platforms are the new norm. Get ready to put aside chaos and enter the world of predictivity.  Yet, continuous integration is not as easy as a git pull, there must be strategy, knowledge and control.</description>
+      <description>UNIX is not so much an operating system as a way of thinking!       What is DevOps? Long story short, DevOps means R.O.I., the days of the mutable infrastructure are gone. With cloud infrastructure and moreover ephemeral instances, immutable platforms are the new norm. Get ready to put aside chaos and enter the world of predictivity. Here is what we can do for you:  Analysis &amp; Assessment Design Migration &amp; Implementation Troubleshoot Audit Documentation &amp; Reporting Training   Yet, continuous integration is not as easy as a git pull, there must be strategy, knowledge and control.</description>
     </item>
     
     <item>

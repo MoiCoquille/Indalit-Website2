@@ -22,8 +22,23 @@ type = "page"
 <h4 class="font01">
 
 <p>
-<a href="https://aws.amazon.com">Amazon Web Services</a> is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.
+<a href="https://aws.amazon.com">Amazon Web Services</a> is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs.  Here is what we can do for you:
 </p>
+<br />
+<p>
+ <ul style="color:#d84315">
+ <li><span style="color:grey">Analysis & Assessment</li>
+ <li><span style="color:grey">Design</li>
+ <li><span style="color:grey">Migration & Implementation</li>
+ <li><span style="color:grey">Troubleshoot</li>
+ <li><span style="color:grey">Audit</li>
+ <li><span style="color:grey">Cost Evaluation</li>
+ <li><span style="color:grey">Documentation & Reporting</li>
+ <li><span style="color:grey">Training</li>
+ </ul>
+ </p>
+
+
 
 <br />
 
@@ -55,7 +70,7 @@ Every one of these requests has an adequate and progressive answer. No need for 
 <br />
 
 <p>
-Be reassured, you won't be on your own.  Get the <a href="http://www.indalit.com/packs/">Project Management Pack</a> to make sure the project is on track.
+Be reassured, you won't be on your own.  Get the <a href="/project-management-pack/">Project Management Pack</a> to make sure the project is on track.
 </p>
 <br />
 

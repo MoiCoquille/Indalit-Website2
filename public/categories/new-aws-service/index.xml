@@ -48,5 +48,14 @@ The new AWS Fagate service allows for deployment and management of containers wi
       <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
     </item>
     
+    <item>
+      <title>AWS New Compute Optimized Instance Family - C5</title>
+      <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
+      <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
+    </item>
+    
   </channel>
 </rss>

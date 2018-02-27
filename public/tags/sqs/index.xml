@@ -17,7 +17,7 @@
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
-      <description>Did you know if an #AWS #SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+      <description>Did you know if an AWS SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
     </item>
     
   </channel>
