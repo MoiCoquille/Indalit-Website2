@@ -235,7 +235,11 @@ ul.list-style-none {
   }
 }
 #top {
-  background: #2196f3;
+#  background: #2196f3;
+	background: #d0d8d8;
+#	background: #555555;
+#	background: #d84315;
+#	background: #da4d4d;
   color: #eeeeee;
   padding: 10px 0;
 }
@@ -1156,7 +1160,9 @@ margin: auto;
   left: 0;
   width: 100%;
   height: 100%;
-  background: #da4d4d;
+#  background: #da4d4d;
+	background: #808080;
+#	background: #dcdcdc;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -1188,7 +1194,10 @@ margin: auto;
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-  color: #fcd308;
+ color: #fcd308;
+#	color: #dbdbdb;
+#	color: #555555;
+#	color: #2196f3;
 }
 .home-carousel h1 {
   font-weight: 700;
