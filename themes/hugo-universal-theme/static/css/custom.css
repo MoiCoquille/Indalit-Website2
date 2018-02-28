@@ -23,6 +23,38 @@ a.anchor {
 	background-color: #f2f2f2;
 }
 
+.bkg-02 {
+	background: white;
+	width: 75%;
+	margin: 50px 50px 50px 50px;
+	padding: 25px 0px 25px 0px;
+	margin: auto;
+#    float: none;
+}
+
+.bkg-03 {
+	background: #e6e6e6;
+	width: 100%;
+	hight: 100%;
+	padding: 75px 0px 75px 0px;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+    text-align: center;
+    background-color: #ccc;
+    border: 1px solid #ddd;
+}
+
+.row-centered {
+    text-align:center;
+}
+
 .dyn-text {
 	text-align: center;
 	margin: 30px 0px 30px 0px;
@@ -45,11 +77,21 @@ a.anchor {
 }
 
 .back-yellow-01 {
-  display: flex;
-  justify-content: center;
+#  display: flex;
+#  justify-content: center;
 	background: #fdd351;
-	border: 1px solid white;
+#	border: 1px solid white;
     padding: 20px 0px 20px 0px;
+	margin: 20px 20px 20px 20px;
+#	width: 25%;
+    text-align: center;
+#    float: none;
+#	position: absolute;
+#	right: 10px;
+#	margin: auto;
+#    margin-left:auto;
+#    margin-right:auto;
+	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .back-red-01 {
@@ -386,4 +428,8 @@ a.anchor {
     color: red;
     font-size: 10px;
     margin-right: 1em;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page span {
+    background-color: #222;
 }

@@ -32,7 +32,7 @@ PaginatePath = "page"
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 6
+    weight = 5
 
 #[[menu.main]]
 #    name = "FAQ"
@@ -43,7 +43,7 @@ PaginatePath = "page"
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name  = "Packs"
@@ -57,11 +57,13 @@ PaginatePath = "page"
     weight  = 3
     identifier = "aws"
 
-[[menu.main]]
-    name  = "DevOps"
-    url  = "/devops-consultants/"
-    weight  = 4
-    identifier = "devops"
+#[[menu.main]]
+#    name  = "DevOps"
+#   url  = "/devops-consultants/"
+#    weight  = 4
+#    identifier = "devops"
+
+
 # Top bar social links menu
 
 [[menu.topbar]]

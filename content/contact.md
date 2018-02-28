@@ -10,7 +10,7 @@ Are you curious about something?
  
 <br /><br />
 
-Do you need more information about our company , our services and our packs?  Or maybe you are in looking for a professional expertise in AWS Cloud Technologies, the DevOps realm or Project Management?  Then don't hesitate, we are here to help.
+Do you need more information about our company , our services and our packs?  Or maybe you are in looking for a professional expertise in AWS Cloud Technologies and Project Management of your AWS project?  Then don't hesitate, we are here to help.
 
 <br /><br />
 
