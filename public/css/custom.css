@@ -39,6 +39,22 @@ a.anchor {
 	padding: 75px 0px 75px 0px;
 }
 
+.bkg-04 {
+    background: #fcd308;
+	width: 300px;
+	padding: 20px 20px 20px 20px;
+	text-align: center;
+}
+
+.bkg-05 {
+	text-align: left;
+}
+
+.bkg-06 {
+	width: 25%;
+	text-align: center;
+}
+
 .col-centered {
     display:inline-block;
     float:none;
