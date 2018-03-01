@@ -37,7 +37,7 @@ id = "packs"
 					</div>
 				<div class="row row-centered">
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/project-management-pack/" class="link01" style="color:white">
+						<a href="/amazon-web-services-project-management-pack/" class="link01" style="color:white">
 						AWS Project
 						<br />
 						Manager

@@ -457,27 +457,12 @@ http://169.254.169.254/latest/meta-data/  </description>
     </item>
     
     <item>
-      <title>Bloggers</title>
-      <link>https://www.indalit.com/bloggers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.indalit.com/bloggers/</guid>
-      <description>Veronique Robitaille   I always have alot to write, but time has become an issue. I have ideas of articles, cheat sheets, bug reports, how tos, and much more. I wish I had more time to write, there are so many technologies out there to talk about. And, this blog is not only about technical posts, there is a whole realm of things to write about when you open and run a business.</description>
-    </item>
-    
-    <item>
       <title>Choose a Packages</title>
       <link>https://www.indalit.com/packs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/packs/</guid>
-      <description>AWS
-Presentation   AWS
-Training   AWS
-Solution    AWS Project
-Manager   AWS
-Pricing   AWS
-Enhanced        </description>
+      <description>AWS Presentation    AWS Training    AWS Solution    AWS Project Manager    AWS Pricing    AWS Enhanced         </description>
     </item>
     
     <item>
@@ -496,6 +481,15 @@ Enhanced        </description>
       
       <guid>https://www.indalit.com/devops-consultants/</guid>
       <description>UNIX is not so much an operating system as a way of thinking!       What is DevOps? Long story short, DevOps means R.O.I., the days of the mutable infrastructure are gone. With cloud infrastructure and moreover ephemeral instances, immutable platforms are the new norm. Get ready to put aside chaos and enter the world of predictivity. Here is what we can do for you:  Analysis &amp; Assessment Design Migration &amp; Implementation Troubleshoot Audit Documentation &amp; Reporting Training   Yet, continuous integration is not as easy as a git pull, there must be strategy, knowledge and control.</description>
+    </item>
+    
+    <item>
+      <title>Our Writers</title>
+      <link>https://www.indalit.com/bloggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.indalit.com/bloggers/</guid>
+      <description>Veronique Robitaille   I always have alot to write, but time has become an issue. I have ideas of articles, cheat sheets, bug reports, how tos, and much more. I wish I had more time to write, there are so many technologies out there to talk about. And, this blog is not only about technical posts, there is a whole realm of things to write about when you open and run a business.</description>
     </item>
     
     <item>

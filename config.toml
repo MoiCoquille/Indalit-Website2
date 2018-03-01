@@ -47,7 +47,7 @@ PaginatePath = "page"
 
 [[menu.main]]
     name  = "Packs"
-    url  = "/packs/"
+    url  = "/packs/aws-consulting-services/"
     weight  = 2
     identifier = "packs"
 

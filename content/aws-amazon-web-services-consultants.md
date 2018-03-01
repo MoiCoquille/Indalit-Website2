@@ -60,7 +60,7 @@ type = "page"
 		</p>
 		<br />
 		<p>
-			Be reassured, you won't be on your own.  Get the <a href="/project-management-pack/">AWS Project Management Package</a> to make sure the project is on track.
+			Be reassured, you won't be on your own.  Get the <a href="/aws-consulting-services/amazon-web-services-project-management-pack/">AWS Project Management Package</a> to make sure the project is on track.
 		</p>
 		<br />
 		</h4>
