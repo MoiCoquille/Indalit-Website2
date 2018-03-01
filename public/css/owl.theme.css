@@ -30,7 +30,7 @@
 	zoom: 1;
 	*display: inline;/*IE7 life-saver */
 }
-.owl-theme .owl-controls .owl-page span{
+.owl-theme .owl-controls .owl-page spani {
 	display: block;
 	width: 12px;
 	height: 12px;
@@ -41,7 +41,6 @@
 	-moz-border-radius: 20px;
 	border-radius: 20px;
 	background: #869791;
-#	background: #d84315;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
@@ -66,5 +65,4 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(AjaxLoader.gif) no-repeat center center
 }
