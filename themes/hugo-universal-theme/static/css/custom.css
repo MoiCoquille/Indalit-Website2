@@ -39,6 +39,10 @@ a.anchor {
 	padding: 75px 0px 75px 0px;
 }
 
+.bkg-04 {
+    background: #e6e6e6;
+}
+
 .col-centered {
     display:inline-block;
     float:none;
