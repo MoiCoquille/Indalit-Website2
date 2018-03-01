@@ -1,6 +1,6 @@
 +++
 title = "AWS Project Management"
-id = "aws"
+id = "pm"
 type = "page"
 +++
 
@@ -9,11 +9,11 @@ type = "page"
 		<div class="col-md-6">
 			<h3 class="font01">
 			<img style="float" src="/img/aws/quote.png" alt="Quote">  
-			Friends don't let friends build datacenters -- Charles E. Philips
+			What is not on paper has not been said. -- Someone
 			</h3>
 		</div>
 		<div class="col-md-6">
-			<img style="float: center; margin: 0px 0px 0px 0px;" src="/img/aws/aws-new.jpg" width="300" alt="Quote">
+			<img style="float: center; margin: 0px 0px 0px 0px;" src="/img/project-management/aws-project-manager.jpg" width="300" alt="AWS Project Manager">
 		</div>
 	</div>
 	<br />

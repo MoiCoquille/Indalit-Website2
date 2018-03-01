@@ -13,7 +13,7 @@ type = "page"
 			</h3>
 		</div>
 		<div class="col-md-6">
-			<img style="float: center; margin: 0px 0px 0px 0px;" src="/img/aws/aws-new.jpg" width="300" alt="Quote">
+			<img style="float: center; margin: 0px 0px 0px 0px;" src="/img/aws/aws-new.jpg" width="300" alt="AWS Consultant">
 		</div>
 	</div>
 	<br />
