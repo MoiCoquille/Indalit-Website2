@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>AWS EC2 Instances Per Second Billing</title>
+      <link>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
+      <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
+    </item>
+    
+    <item>
       <title>AWS EC2 Instances Public IP</title>
       <link>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>

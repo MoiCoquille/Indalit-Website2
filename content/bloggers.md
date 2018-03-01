@@ -3,7 +3,7 @@ title = "Bloggers"
 id = "blank"
 +++
 
-<div class="row bkg-04">
+<div class="row">
 
 	<div class="col-sm-2">
 		<img style="float" src="/img/veronique_business.jpg" alt="Picture of Veronique">

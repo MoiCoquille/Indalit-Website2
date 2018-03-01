@@ -249,12 +249,30 @@ The new AWS Fagate service allows for deployment and management of containers wi
     </item>
     
     <item>
+      <title>AWS Spot Intances Bid Duration</title>
+      <link>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
+      <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
+    </item>
+    
+    <item>
       <title>AWS New Compute Optimized Instance Family - C5</title>
       <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
       <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
       
       <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
       <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Per Second Billing</title>
+      <link>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
+      <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
     </item>
     
     <item>
@@ -436,6 +454,15 @@ http://169.254.169.254/latest/meta-data/  </description>
       
       <guid>https://www.indalit.com/aws-amazon-web-services-consultants/</guid>
       <description>Friends don&#39;t let friends build datacenters -- Charles E. Philips       Amazon Web Services is the most known and powerful Cloud platform around, and you know that with great power comes great responsibilities! There are many ways of designing an AWS infrastructure, from the simplest to the unnecessarily complicated. Our mission: to fit your needs. Here is what we can do for you:  Analysis &amp; Assessment Design Migration &amp; Implementation Troubleshoot Audit Cost Evaluation Documentation &amp; Reporting Training   AWS is composed of hundreds of services that can be plugged together, leading to thousands of possible combinations!</description>
+    </item>
+    
+    <item>
+      <title>Bloggers</title>
+      <link>https://www.indalit.com/bloggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.indalit.com/bloggers/</guid>
+      <description>Veronique Robitaille   Much to say, little time to say it.</description>
     </item>
     
     <item>

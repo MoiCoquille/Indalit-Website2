@@ -1,7 +1,7 @@
 +++
 title = "AWS Spot Intances Bid Duration"
 date = "2017-11-10T00:49:20+02:00"
-tags = ["Pricing", "EC2 Instances]"
+tags = ["Pricing", "EC2 Instances"]
 categories = ["AWS", "Did You Know", "Compute"]
 banner = "img/blog/aws-spot-instances-bid-duration.jpg"
 alt = "Bid Duration of SPOT Instances"
