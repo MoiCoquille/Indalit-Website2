@@ -23,7 +23,7 @@ id = "packs"
 
 
 <div class="row row-centered">
-<div class="col-xs-3 back-yellow-01 col-centered"><a href="/project-management-pack/" class="link01" style="color:white">Project<br />Management
+<div class="col-xs-3 back-yellow-01 col-centered"><a href="/project-management-pack/" class="link01" style="color:white">AWS Project<br />Manager
 <br /><i class="i01 fa fa-tasks"></i>
 </a></div>
 <div class="col-xs-3 back-yellow-01 col-centered"><a href="/amazon-web-services-pricing-pack/" class="link01" style="color:white">AWS<br />Pricing
