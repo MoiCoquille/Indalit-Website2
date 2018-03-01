@@ -29,13 +29,11 @@ a.anchor {
 	margin: 50px 50px 50px 50px;
 	padding: 25px 0px 25px 0px;
 	margin: auto;
-#    float: none;
 }
 
 .bkg-03 {
 	background: #e6e6e6;
 	width: 100%;
-	hight: 100%;
 	padding: 75px 0px 75px 0px;
 }
 
@@ -88,20 +86,10 @@ a.anchor {
 }
 
 .back-yellow-01 {
-#  display: flex;
-#  justify-content: center;
 	background: #fdd351;
-#	border: 1px solid white;
     padding: 20px 0px 20px 0px;
 	margin: 20px 20px 20px 20px;
-#	width: 25%;
     text-align: center;
-#    float: none;
-#	position: absolute;
-#	right: 10px;
-#	margin: auto;
-#    margin-left:auto;
-#    margin-right:auto;
 	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
@@ -134,28 +122,19 @@ a.anchor {
 .back-yellow {
   display: flex;
   justify-content: center;
-#	background: #fdd351;
-#	border: 1px solid white;
     padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
 }
 
 .back-red {
   display: flex;
   justify-content: center;
-#    background: #d84315;
-#    border: 1px solid white;
     padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
 }
 
 .back-grey {
   display: flex;
   justify-content: center;
-#    background: #dcdcdc;
-#    border: 1px solid white;
     padding: 10px 0px 10px 0px;
-#    border-radius: 90px 90px 90px 90px;
 }
 
 .link01 {
@@ -235,7 +214,6 @@ a.anchor {
 
 .ul-01 {
 	color: #fdd351; 
-#	line-height: 20px;
 }
 
 .ul-02 {
@@ -250,33 +228,24 @@ a.anchor {
     background-color: #fcf7de;
 	width: 100%;
     padding: 10px 10px 10px 10px;
-#    border: 5px solid #fdd351;
-#	box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table02 {
     background-color: #f8f0ee;
     width: 100%;
     padding: 10px 10px 10px 10px;
-#   box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table03 {
     background-color: #f5f5f5;
     width: 100%;
     padding: 10px 10px 10px 10px;
-#    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .whole-table04 {
     background-color: #ecf0f3;
     width: 100%;
     padding: 10px 10px 10px 10px;
-#    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-}
-
-.texture-packs {
-  background: url('img/blog/background-grey.jpeg') center center repeat;
 }
 
 .col-sm-3 {

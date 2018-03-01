@@ -9,7 +9,7 @@ id = "packs"
 			<div class="bkg-02">
 				<div class="row row-centered">
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-presentation-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-presentation-pack/" class="link01" style="color:white">
 						AWS
 						<br />
 						Presentation
@@ -18,7 +18,7 @@ id = "packs"
 						</a>
 					</div>
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-training-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-training-pack/" class="link01" style="color:white">
 						AWS
 						<br />
 						Training
@@ -27,7 +27,7 @@ id = "packs"
 						</a>
 					</div>
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-solution-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-solution-pack/" class="link01" style="color:white">
 						AWS
 						<br />
 						Solution
@@ -37,7 +37,7 @@ id = "packs"
 					</div>
 				<div class="row row-centered">
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-project-management-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-project-management-pack/" class="link01" style="color:white">
 						AWS Project
 						<br />
 						Manager
@@ -46,7 +46,7 @@ id = "packs"
 						</a>
 					</div>
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-pricing-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-pricing-pack/" class="link01" style="color:white">
 						AWS
 						<br />
 						Pricing
@@ -55,7 +55,7 @@ id = "packs"
 						</a>
 					</div>
 					<div class="col-xs-3 back-yellow-01 col-centered">
-						<a href="/amazon-web-services-enhanced-pack/" class="link01" style="color:white">
+						<a href="/aws-consulting-services/amazon-web-services-enhanced-pack/" class="link01" style="color:white">
 						AWS
 						<br />
 						Enhanced

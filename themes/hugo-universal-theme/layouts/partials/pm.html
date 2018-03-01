@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+
+  <body>
+
+    <div id="all">
+
+    <section>
+
+                {{ .Content }}
+
+                {{ if isset .Site.Params "email" }}
+
+                {{ end }}
+
+            </section>
+
+
+
+
+
+
+
+
+
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
