@@ -447,8 +447,8 @@ http://169.254.169.254/latest/meta-data/  </description>
       <description>AWS
 Presentation   AWS
 Training   AWS
-Solution    Project
-Management   AWS
+Solution    AWS Project
+Manager   AWS
 Pricing   AWS
 Enhanced        </description>
     </item>
@@ -459,7 +459,7 @@ Enhanced        </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/contact/</guid>
-      <description>We are here to help you Are you curious about something? Do you need more information about our company , our services and our packs? Or maybe you are in looking for a professional expertise in AWS Cloud Technologies and Project Management of your AWS project? Then don&#39;t hesitate, we are here to help. Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM.</description>
+      <description>We are here to help you Are you curious about something? Do you need more information about our company , our services and our packs? Or maybe you are in looking for a professional expertise in AWS Cloud Technologies and Project Management of your AWS project? Then don&#39;t hesitate, we are here to help. Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM &#34;</description>
     </item>
     
     <item>
@@ -472,21 +472,12 @@ Enhanced        </description>
     </item>
     
     <item>
-      <title>Project Management</title>
-      <link>https://www.indalit.com/project-management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.indalit.com/project-management/</guid>
-      <description>Projects are usually undertaken to either solve a problem or take advantage of an opportunity. The probability that the project - even if precisely executed - will complete on time, on budget, and on performance is typically small. Project management is utilized to increase this probability. So in a sense, project management is risk management. -- Bruce Pittman       What is DevOps? Long story short, DevOps means R.</description>
-    </item>
-    
-    <item>
       <title>Project Management Package</title>
       <link>https://www.indalit.com/project-management-pack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/project-management-pack/</guid>
-      <description>Project Management Package ... What is the Project Management Package?  The Project Management Package offers you the services of an experience project manager in order for you to have your project under control. The package is composed of the following: Assessment Build Project Manage Project Documentation &amp; Reporting    What will you get from it?  Project management is often discarded, especially for smaller projects. But the reality is it makes a big difference in the outcome of your project.</description>
+      <description>AWS Project Management Package ... What is the Project Management Package?  The AWS Project Management Package offers you the services of an experience project manager in order for you to have your project under control. The package is composed of the following: Assessment Build Project Manage Project Documentation &amp; Reporting    What will you get from it?  Project management is often discarded, especially for smaller projects.</description>
     </item>
     
   </channel>
