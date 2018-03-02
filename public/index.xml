@@ -6,10 +6,19 @@
     <description>Recent content on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Security Groups Associated to Network Interfaces</title>
+      <link>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
+    </item>
     
     <item>
       <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
@@ -444,7 +453,7 @@ http://169.254.169.254/latest/meta-data/  </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.indalit.com/aws-amazon-web-services-project-manager/</guid>
-      <description>What is not on paper has not been said. -- Someone       Amazon Web Services provides amazing services that work together creating hundreds, thousands of possible solutions which make the implementation phase complex. An AWS project is composed of AWS experts, some of your key staff member and maybe external consultants and suppliers. The complexity of the technical solution and the various people involved demonstrate the need for Project Management.</description>
+      <description>What is not on paper has not been said. -- Someone       Amazon Web Services provides amazing services that work together creating hundreds, thousands of possible solutions. For this reason, it makes the implementation phase complex. An AWS Project is composed of AWS Engineer, your technical staff members and maybe external contractors and suppliers. The complexity of the technical solution and the various people involved demonstrate the need for Project Management.</description>
     </item>
     
     <item>

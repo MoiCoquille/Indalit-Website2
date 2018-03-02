@@ -6,10 +6,19 @@
     <description>Recent content in Configuration on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Mar 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/tags/configuration/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Security Groups Associated to Network Interfaces</title>
+      <link>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
+    </item>
     
     <item>
       <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
