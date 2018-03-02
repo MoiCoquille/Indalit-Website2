@@ -6,10 +6,19 @@
     <description>Recent content in Security Identity  Compliance on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 01 Mar 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/categories/security-identity--compliance/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
+      <link>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</link>
+      <pubDate>Thu, 01 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</guid>
+      <description>Did you know AWS Security Groups are stateful for outbound AND inbound traffic?</description>
+    </item>
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
