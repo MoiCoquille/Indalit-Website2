@@ -20,7 +20,7 @@ type = "page"
 	<div>
 		<h4 class="font01">
 		<p>
-		<a href="https://aws.amazon.com">Amazon Web Services</a> provides amazing services that work together creating hundreds, thousands of possible solutions which make the implementation phase complex.  An <i>AWS</i> project is composed of <i>AWS</i> experts, some of your key staff member and maybe external consultants and suppliers.  The complexity of the technical solution and the various people involved demonstrate the need for Project Management.  You may have this resource internally, but if you don't, we can provide a Project Manager specialized in <i>AWS</i> projects.  The primary skills required by a competent Project Manager are the following:
+		<a href="https://aws.amazon.com">Amazon Web Services</a> provides amazing services that work together creating hundreds, thousands of possible solutions.  For this reason, it makes the implementation phase complex.  An <i>AWS</i> Project is composed of <i>AWS</i> Engineer, your technical staff members and maybe external contractors and suppliers.  The complexity of the technical solution and the various people involved demonstrate the need for Project Management.  You may have this resource internally, but if you don't, we can provide a Project Manager specialized in <i>AWS</i> Projects.  The primary skills required by a competent Project Manager are the following:
 		</p>
 		<br />
 		<p>
@@ -39,18 +39,18 @@ type = "page"
 		</p>
 		<br />
 		<ul style="color:#d84315">
-            <li><span style="color:grey">Investigate/understand current & expected solution</li>
-			<li><span style="color:grey">Document everything</li>
+            <li><span style="color:grey">Investigate/Understand Current & Expected Infrastructure</li>
+			<li><span style="color:grey">Document Everything</li>
 			<li><span style="color:grey">Build the Project Plan</li>
-			<li><span style="color:grey">Handle issues before they escalate</li>
-			<li><span style="color:grey">Manage/monitor the project</li>
-			<li><span style="color:grey">Handle communication between all parties</li>
-			<li><span style="color:grey">Resolve conflicts</li>
-    		<li><span style="color:grey">Present/report progress to stakeholders</li>
+			<li><span style="color:grey">Handle Issues Before they Escalate</li>
+			<li><span style="color:grey">Manage/Monitor the Project</li>
+			<li><span style="color:grey">Handle Communication Between all Parties</li>
+			<li><span style="color:grey">Resolve Conflicts</li>
+    		<li><span style="color:grey">Present/Report Progress to Stakeholders</li>
 		</ul>
 		<br />
 		<p>
-			We've created a project methodology adapted to <i>AWS</i> Services.  Our Project Managers have a technical background, so they can understand the overall goal and manage better the technical participants of the project.  With us, the project will be a success no matter the complexity and the number of people involved.   
+			We've created a project methodology adapted to <i>AWS Services</i>.  Our Project Managers have a technical background, so they can understand the overall goal and manage better the technical members of the project.  With us, the project will be a success no matter the complexity and the number of people involved.   
 		</p>
 	</div>
 </div>
