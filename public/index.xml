@@ -6,10 +6,19 @@
     <description>Recent content on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Mar 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 00:00:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business Plan</title>
+      <link>https://www.indalit.com/blog/2018/03/04/veronique-business-plan-directions/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/03/04/veronique-business-plan-directions/</guid>
+      <description>My Business Plan Like any serious future business owner, one does a business plan. This may seem like a small thing, but it&amp;rsquo;s a crazy document to complete, which makes you write a bunch of other documents/excel sheets. You also need to do a market research which I honestly have been ignoring. But if you do all that correctly, then your business is sure to thrive. Once you have finished the business plan, all you need to do is push &amp;ldquo;PLAY&amp;rdquo; and it all happens because everything is ready to go.</description>
+    </item>
     
     <item>
       <title>AWS Security Groups Associated to Network Interfaces</title>
