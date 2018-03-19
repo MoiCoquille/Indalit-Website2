@@ -6,10 +6,19 @@
     <description>Recent content in Ec2 Instances on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Mar 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="https://www.indalit.com/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Dedicated Instances versus Dedicated Hosts</title>
+      <link>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</link>
+      <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</guid>
+      <description>Did you know AWS Dedicated Instances and Dedicated Hosts are two different services offered by AWS?</description>
+    </item>
     
     <item>
       <title>AWS Aurora Multi Master Multi AZ</title>
