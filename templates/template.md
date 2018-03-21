@@ -7,8 +7,10 @@ banner = "img/blog/image.png"
 alt = "Text"
 author = "Veronique Robitaille"
 dyn_more = """
-           Ici les lignes de content
-           """
+For more information on <i>AWS VPC</i> Configuration see: <a href="http://docs.a
+ws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Subnets.html" target="_blank">AWS V
+PC</a>.           
+"""
 +++
 
 
