@@ -180,12 +180,12 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "The Founders"
-    subtitle = "Both founders are highly skilled in their expertise with much experience in their field.  Together they make a winning team with what it takes to build a technical consulting company."
+    title = "The Team"
+    subtitle = "We present here the extended team, everyone who participates in our success.  Together we will shine and surpass ourselves and that's exactly what it takes to build and manage an IT consulting company."
 
 [params.see_more]
     enable = true

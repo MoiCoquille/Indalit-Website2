@@ -2,7 +2,7 @@
 title = "A Sort of Personal Blog"
 date = "2017-10-01T21:49:20+02:00"
 tags = ["Creating My Company"]
-categories = ["Veronique Diary"]
+categories = ["Diary"]
 banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Why write a sort of personal blog"
 author = "Veronique Robitaille"

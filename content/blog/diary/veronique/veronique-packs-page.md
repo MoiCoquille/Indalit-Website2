@@ -2,7 +2,7 @@
 title = "Creating the Packs Web Page"
 date = "2018-02-13T00:49:20+02:00"
 tags = ["Creating My Company"]
-categories = ["Veronique Diary"]
+categories = ["Diary"]
 banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Veronique Super Women Creating the Packs Page"
 author = "Veronique Robitaille"

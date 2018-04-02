@@ -2,7 +2,7 @@
 title = "Can't Imagine the Goal"
 date = "2018-02-25T01:00:20+02:00"
 tags = ["Creating My Company"]
-categories = ["Veronique Diary"]
+categories = ["Diary"]
 banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Veronique Wonder Woman Changing"
 author = "Veronique Robitaille"

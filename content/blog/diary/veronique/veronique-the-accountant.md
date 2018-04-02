@@ -2,7 +2,7 @@
 title = "I am an Accountant Now"
 date = "2018-03-23T01:00:20+02:00"
 tags = ["Creating My Company"]
-categories = ["Veronique Diary"]
+categories = ["Diary"]
 banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Veronique Wonder Woman"
 author = "Veronique Robitaille"

@@ -2,7 +2,7 @@
 title = "How Things Change"
 date = "2018-02-21T00:00:20+02:00"
 tags = ["Creating My Company"]
-categories = ["Veronique Diary"]
+categories = ["Diary"]
 banner = "img/blog/veronique-wonderwoman.jpg"
 alt = "Veronique Wonder Woman Changing"
 author = "Veronique Robitaille"
