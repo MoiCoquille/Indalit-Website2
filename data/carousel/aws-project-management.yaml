@@ -1,19 +1,12 @@
 weight: 1
 title: "AWS Project Management"
 description:  >
+ <br />
+ <br />
  <p>
- <strong>"Simple and straightforward, fully adapted to Cloud Services.  Let's get it done."</strong>
+ <strong>"From Simple and Straightforward to Complex Project Management Plans to choose from, fully adapted to AWS New Implementations and Migrations."</strong>
  </p>
  <br />
-  <p>
-    <ul class="carousel-01">
-      <li><i class="fa fa-long-arrow-right"></i>  Assess</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Plan</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Implement</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Intergrate</li>
-      <li><i class="fa fa-long-arrow-right"></i>  Finalize</li>
-    </ul>
-  </p>
 
-image: "/img/carousel/aws-devops-project-management.png"
-alt: "Time, Cost and Quality Triangle in Project Management"
+image: "/img/carousel/project-managers-for-you.png"
+alt: "Many Project Managers to Manage Your Projects"

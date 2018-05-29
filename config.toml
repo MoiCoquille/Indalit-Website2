@@ -45,15 +45,15 @@ PaginatePath = "page"
     url  = "/contact/"
     weight = 5
 
-[[menu.main]]
-    name  = "Packs"
-    url  = "/packs/"
-    weight  = 2
-    identifier = "packs"
+#[[menu.main]]
+#    name  = "Packs"
+#    url  = "/packs/"
+#    weight  = 2
+#    identifier = "packs"
 
 [[menu.main]]
     name  = "AWS"
-    url  = "/aws-amazon-web-services-consultants/"
+    url  = "/aws-amazon-web-services/"
     weight  = 3
     identifier = "aws"
 
@@ -107,8 +107,8 @@ PaginatePath = "page"
 #    defaultKeywords = ["devows", "hugo", "go"]
 #    defaultDescription = "Site template made by devcows using hugo"
 	author = "Veronique Robitaille"
-	defaultKeywords = ["AWS", "Amazon Web Services", "Consultant"]
-	defaultDescription = "AWS Consultants & Project Managers"
+	defaultKeywords = ["AWS", "Amazon Web Services", "Project Manager"]
+	defaultDescription = "AWS Project Managers"
     # Google Maps API key (if not set will default to not passing a key.)
     # googleMapsApiKey = "AIzaSyCSC6pldLflbgRPnKU6ESAoUUyrAL51rKI"
     googleMapsApiKey = ""
@@ -140,11 +140,11 @@ PaginatePath = "page"
     logo = "img/logo.png"
 
 address = """<p><strong>Indalit Cloud Consulting</strong>
-<br>Calle Reina Violante
-<br>46015 Valencia
-<strong>Spain</strong>
 <br>
 <br>+34 963 684 585
+<br>
+<a href="mailto:info@indalit.com">info@indalit.com</a>
+<br>
 <br>
 </p>
 """
@@ -185,7 +185,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "The Team"
-    subtitle = "We present here the extended team, everyone who participates in our success.  Together we will shine and surpass ourselves and that's exactly what it takes to build and manage an IT consulting company."
+    subtitle = ""
 
 [params.see_more]
     enable = true
@@ -200,7 +200,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
+    title = "Our Clients and Partners"
     subtitle = ""
 
 [params.recent_posts]
