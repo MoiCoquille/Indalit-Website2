@@ -1,6 +1,6 @@
 +++
 title = "AWS Project Management"
-id = "pm"
+id = "blank"
 type = "page"
 +++
 

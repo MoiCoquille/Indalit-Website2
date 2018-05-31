@@ -28,6 +28,33 @@ PaginatePath = "page"
     url  = "/"
     weight = 1
 
+[[menu.main]]
+    name = "Us"
+    url  = "/about-us/"
+    identifier = "us-menu"
+    weight = 5
+
+[[menu.main]]
+    name = "About Us"
+    url = "/about-us/"
+    parent = "us-menu"
+    identifier = "us-menu-2"
+    weight = 1
+
+[[menu.main]]
+    name = "Methodology"
+    url = "/project-management-methodology/"
+    parent = "us-menu"
+    identifier = "us-menu-1"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    parent = "us-menu"
+    identifier = "us-menu-3"
+    weight = 3
+
 
 [[menu.main]]
     name = "Blog"
@@ -39,11 +66,6 @@ PaginatePath = "page"
 #    identifier = "faq"
 #    url  = "/faq/"
 #    weight = 3
-
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 5
 
 #[[menu.main]]
 #    name  = "Packs"
@@ -191,9 +213,9 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     enable = true
     icon = "fa fa-file-code-o"
     title = "Do you want to know more?"
-    subtitle = "Visit the rest of the site to get more in depth information on the subjects we've just barely touched."
-    link_url = "/packs/"
-    link_text = "More on the AWS Packages"
+    subtitle = "There is a lot more to know about our offering.  We have put together services that will be more than useful to you.  We go beyond our role of Project Managers and provide a real guidance in your projects.  Read the rest of the site, and the Blog for more information.  And don't hesitate to call us."
+    link_url = "/aws/"
+    link_text = "This week more on AWS"
 
 [params.clients]
     enable = false

@@ -259,7 +259,7 @@ ul.list-style-none {
   vertical-align: bottom;
 }
 #top .social a:hover {
-  color: #fcd308;
+  color: #f33022;
 }
 #top .social a:hover.facebook {
   background-color: #4460ae;
@@ -1156,7 +1156,7 @@ margin: auto;
   left: 0;
   width: 100%;
   height: 100%;
-	background: #808080;
+	background: #f35b50;
   opacity: 0.9;
   filter: alpha(opacity=90);
 }
@@ -1188,7 +1188,7 @@ margin: auto;
 .home-carousel h3,
 .home-carousel p,
 .home-carousel ul {
-	color: #fcd308;
+	color: #bed62f;
 }
 .home-carousel h1 {
   font-weight: 700;

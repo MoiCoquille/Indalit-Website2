@@ -146,7 +146,7 @@ a.anchor {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     color: grey;
 	font-weight: normal;
-	font-size: 18px;
+	font-size: 16px;
 }
 
 .font02 {
@@ -222,6 +222,28 @@ a.anchor {
 
 .ul-03 {
     color: #808080;
+}
+
+.basic-trtd-01 {
+     border-style: solid;
+     padding-top: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     border-width: 1px;
+     border-color: #e0e0e0;
+     width: 20%;
+}
+
+.basic-trtd-02 {
+     border-style: solid;
+     padding-top: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     border-width: 1px;
+     border-color: #e0e0e0;
+     width: 80%;
 }
 
 .whole-table {
@@ -411,5 +433,5 @@ a.anchor {
 }
 
 .home-carousel .owl-theme .owl-controls .owl-page span {
-    background-color: #da4d4d;
+    background-color: #222;
 }

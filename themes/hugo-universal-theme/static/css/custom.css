@@ -224,6 +224,28 @@ a.anchor {
     color: #808080;
 }
 
+.basic-trtd-01 {
+     border-style: solid;
+     padding-top: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     border-width: 1px;
+     border-color: #e0e0e0;
+     width: 20%;
+}
+
+.basic-trtd-02 {
+     border-style: solid;
+     padding-top: 10px;
+     padding-right: 10px;
+     padding-bottom: 10px;
+     padding-left: 10px;
+     border-width: 1px;
+     border-color: #e0e0e0;
+     width: 80%;
+}
+
 .whole-table {
     background-color: #fcf7de;
 	width: 100%;
