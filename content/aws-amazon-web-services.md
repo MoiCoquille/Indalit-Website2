@@ -1,6 +1,6 @@
 +++
 title = "Amazon Web Service (AWS)"
-id = "aws"
+id = "blank"
 type = "page"
 +++
 

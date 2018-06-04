@@ -8,7 +8,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 
 [languages.en]
-[languages.es]
+#[languages.es]
 
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "devcows"
@@ -26,40 +26,52 @@ PaginatePath = "page"
 [[menu.main]]
     name = "home"
     url  = "/"
-    weight = 1
+    weight = 100
+
+[[menu.main]]
+    name = "Our Services"
+    url = "/project-management-services/"
+    identifier = "services-menu"
+    weight = 200
+
+[[menu.main]]
+    name = "Plans"
+    url = "/project-management-services/"
+    parent = "services-menu"
+    identifier = "services-menu-1"
+    weight = 100
+
+[[menu.main]]
+    name = "Custom"
+    url = "/project-management-services/"
+    parent = "services-menu"
+    identifier = "services-menu-2"
+    weight = 200
 
 [[menu.main]]
     name = "Us"
     url  = "/about-us/"
     identifier = "us-menu"
-    weight = 5
+    weight = 500
 
-[[menu.main]]
-    name = "About Us"
-    url = "/about-us/"
-    parent = "us-menu"
-    identifier = "us-menu-2"
-    weight = 1
-
-[[menu.main]]
-    name = "Methodology"
-    url = "/project-management-methodology/"
-    parent = "us-menu"
-    identifier = "us-menu-1"
-    weight = 2
+#[[menu.main]]
+#    name = "About Us"
+#    url = "/about-us/"
+#    parent = "us-menu"
+#    identifier = "us-menu-2"
+#    weight = 1
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
     parent = "us-menu"
-    identifier = "us-menu-3"
-    weight = 3
-
+    identifier = "contact"
+    weight = 30
 
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 6
+    weight = 600
 
 #[[menu.main]]
 #    name = "FAQ"
@@ -76,7 +88,8 @@ PaginatePath = "page"
 [[menu.main]]
     name  = "AWS"
     url  = "/aws-amazon-web-services/"
-    weight  = 3
+    weight  = 30
+    parent = "projectmanagement"
     identifier = "aws"
 
 #[[menu.main]]
@@ -87,9 +100,16 @@ PaginatePath = "page"
 
 [[menu.main]]
     name  = "Project Management"
-    url  = "/aws-amazon-web-services-project-manager/"
-    weight  = 4
-    identifier = "pm"
+    url  = "/services-project-manager/"
+    weight  = 400
+    identifier = "projectmanagement"
+
+[[menu.main]]
+    name = "Methodology"
+    url = "/project-management-methodology/"
+    parent = "projectmanagement"
+    identifier = "pm-menu-1"
+    weight = 20
 
 # Top bar social links menu
 
