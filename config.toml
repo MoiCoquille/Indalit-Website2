@@ -36,17 +36,25 @@ PaginatePath = "page"
 
 [[menu.main]]
     name = "Plans"
-    url = "/project-management-services/"
+    url = "/project-management-services/project-management-plans/"
     parent = "services-menu"
     identifier = "services-menu-1"
     weight = 100
 
 [[menu.main]]
     name = "Custom"
-    url = "/project-management-services/"
+    url = "/project-management-services/project-management-custom-options/"
     parent = "services-menu"
     identifier = "services-menu-2"
     weight = 200
+
+[[menu.main]]
+    name = "Value Added Services"
+    url = "/project-management-services/project-management-value-added-services/"
+    parent = "services-menu"
+    identifier = "services-menu-3"
+    weight = 300
+
 
 [[menu.main]]
     name = "Us"
@@ -54,19 +62,19 @@ PaginatePath = "page"
     identifier = "us-menu"
     weight = 500
 
-#[[menu.main]]
-#    name = "About Us"
-#    url = "/about-us/"
-#    parent = "us-menu"
-#    identifier = "us-menu-2"
-#    weight = 1
+[[menu.main]]
+    name = "About Us"
+    url = "/about-us/about/"
+    parent = "us-menu"
+    identifier = "us-menu-2"
+    weight = 25
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
     parent = "us-menu"
     identifier = "contact"
-    weight = 30
+    weight = 130
 
 [[menu.main]]
     name = "Blog"
@@ -100,7 +108,7 @@ PaginatePath = "page"
 
 [[menu.main]]
     name  = "Project Management"
-    url  = "/services-project-manager/"
+    url  = "/project-management/"
     weight  = 400
     identifier = "projectmanagement"
 
@@ -173,7 +181,7 @@ PaginatePath = "page"
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>We are a great team.  We work together to offer the best service and make your project a success.  We will even refuse a project if we know it will fail.  Customer and employee statisfaction is the goal, nothing else matters.  We designed a project management methodology adapted to AWS Cloud Services using industry standards like Agile, Prince2, Lean and more.  We took the best from each to provide efficient and flexible project management.</p>"
+    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.  <br />With the CPM (Cloud Solutions Project Management Methodology) adapted to Cloud Services using industry standards like Agile, Prince2, Lean and more, you know your project will be a success.</p>"
     copyright = "Copyright &#169; 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
