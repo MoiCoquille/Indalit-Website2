@@ -49,9 +49,9 @@
           <h4>{{ i18n "contactTitle" }}</h4>
 
             {{ .Site.Params.address | markdownify }}
-
+<!--
             <a href="/contact" class="btn btn-small btn-template-main">{{ i18n "contactGoTo" }}</a>
-
+-->
             <hr class="hidden-md hidden-lg hidden-sm">
 
         </div>
@@ -74,8 +74,10 @@ _________________________________________________________ -->
         <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
             <p class="pull-left">{{ .Site.Params.copyright | safeHTML }}
+<!--
 <br />
 <a href="/legal/">Legal</a>
+-->
 	    </p>
             {{ end }}
             <p class="pull-right">

@@ -6,6 +6,7 @@ themesDir = "themes"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
+canonifyurls = true
 
 [languages.en]
 #[languages.es]
@@ -23,63 +24,68 @@ PaginatePath = "page"
 
 # Main menu
 
-[[menu.main]]
-    name = "home"
-    url  = "/"
-    weight = 100
+#[[menu.main]]
+#    name = "home"
+#    url  = "/"
+#    weight = 100
 
-[[menu.main]]
-    name = "Our Services"
-    url = "/project-management-services/"
-    identifier = "services-menu"
-    weight = 200
+#[[menu.main]]
+#    name = "Our Services"
+#    url = "/project-management-services/"
+#    identifier = "services-menu"
+#    weight = 200
 
-[[menu.main]]
-    name = "Plans"
-    url = "/project-management-services/project-management-plans/"
-    parent = "services-menu"
-    identifier = "services-menu-1"
-    weight = 100
+#[[menu.main]]
+#    name = "Plans"
+#    url = "/project-management-services/project-management-plans/"
+#    parent = "services-menu"
+#    identifier = "services-menu-1"
+#    weight = 100
 
-[[menu.main]]
-    name = "Custom"
-    url = "/project-management-services/project-management-custom-options/"
-    parent = "services-menu"
-    identifier = "services-menu-2"
-    weight = 200
+#[[menu.main]]
+#    name = "Custom"
+#    url = "/project-management-services/project-management-custom-options/"
+#    parent = "services-menu"
+#    identifier = "services-menu-2"
+#    weight = 200
 
-[[menu.main]]
-    name = "Value Added Services"
-    url = "/project-management-services/project-management-value-added-services/"
-    parent = "services-menu"
-    identifier = "services-menu-3"
-    weight = 300
+#[[menu.main]]
+#    name = "Value Added Services"
+#    url = "/project-management-services/project-management-value-added-services/"
+#    parent = "services-menu"
+#    identifier = "services-menu-3"
+#    weight = 300
 
 
-[[menu.main]]
-    name = "Us"
-    url  = "/about-us/"
-    identifier = "us-menu"
-    weight = 500
+#[[menu.main]]
+#    name = "Us"
+#    url  = "/about-us/"
+#    identifier = "us-menu"
+#    weight = 500
 
-[[menu.main]]
-    name = "About Us"
-    url = "/about-us/about/"
-    parent = "us-menu"
-    identifier = "us-menu-2"
-    weight = 25
+#[[menu.main]]
+#    name = "About Us"
+#    url = "/about-us/about/"
+#    parent = "us-menu"
+#    identifier = "us-menu-2"
+#    weight = 25
 
-[[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    parent = "us-menu"
-    identifier = "contact"
-    weight = 130
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/contact/"
+#    parent = "us-menu"
+#    identifier = "contact"
+#    weight = 130
 
-[[menu.main]]
-    name = "Blog"
-    url  = "/blog/"
-    weight = 600
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 600
+
+#[[menu.main]]
+#    name = "Vero"
+#    url  = "/moo/"
+#    weight = 608
 
 #[[menu.main]]
 #    name = "FAQ"
@@ -93,12 +99,12 @@ PaginatePath = "page"
 #    weight  = 2
 #    identifier = "packs"
 
-[[menu.main]]
-    name  = "AWS"
-    url  = "/aws-amazon-web-services/"
-    weight  = 30
-    parent = "projectmanagement"
-    identifier = "aws"
+#[[menu.main]]
+#    name  = "AWS"
+#    url  = "/aws-amazon-web-services/"
+#    weight  = 30
+#    parent = "projectmanagement"
+#    identifier = "aws"
 
 #[[menu.main]]
 #    name  = "DevOps"
@@ -106,18 +112,27 @@ PaginatePath = "page"
 #    weight  = 4
 #    identifier = "devops"
 
-[[menu.main]]
-    name  = "Project Management"
-    url  = "/project-management/"
-    weight  = 400
-    identifier = "projectmanagement"
+#[[menu.main]]
+#    name  = "Project Management"
+#    url  = "/project-management/"
+#    weight  = 400
+#    identifier = "projectmanagement"
 
-[[menu.main]]
-    name = "Methodology"
-    url = "/project-management-methodology/"
-    parent = "projectmanagement"
-    identifier = "pm-menu-1"
-    weight = 20
+#[[menu.main]]
+#    name = "Methodology"
+#    url = "/project-management-methodology/"
+#    parent = "projectmanagement"
+#    identifier = "pm-menu-1"
+#    weight = 20
+
+#[[menu.main]]
+#    name = "Glossary"
+#    url = "/project-management-glossary/"
+#    parent = "projectmanagement"
+#    identifier = "pm-menu-3"
+#    weight = 100
+
+
 
 # Top bar social links menu
 
@@ -157,14 +172,14 @@ PaginatePath = "page"
 #    defaultKeywords = ["devows", "hugo", "go"]
 #    defaultDescription = "Site template made by devcows using hugo"
 	author = "Veronique Robitaille"
-	defaultKeywords = ["AWS", "Amazon Web Services", "Project Manager"]
-	defaultDescription = "AWS Project Managers"
+	defaultKeywords = ["AWS", "Project Management", "Project Manager"]
+	defaultDescription = "Find your Project Managers"
     # Google Maps API key (if not set will default to not passing a key.)
     # googleMapsApiKey = "AIzaSyCSC6pldLflbgRPnKU6ESAoUUyrAL51rKI"
     googleMapsApiKey = ""
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "red"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -181,7 +196,7 @@ PaginatePath = "page"
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.  <br />With the CPM (Cloud Solutions Project Management Methodology) adapted to Cloud Services using industry standards like Agile, Prince2, Lean and more, you know your project will be a success.</p>"
+    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.  <br />With the CPM (Cloud Project Methodology) adapted to Cloud Services using industry standards like Agile, Prince2, Lean and more, you can "Enjoy The Ride" and know your project will be a success.</p>"
     copyright = "Copyright &#169; 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -230,7 +245,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
@@ -238,7 +253,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     subtitle = ""
 
 [params.see_more]
-    enable = true
+    enable = false
     icon = "fa fa-file-code-o"
     title = "Do you want to know more?"
     subtitle = "There is a lot more to know about our offering.  We have put together services that will be more than useful to you.  We go beyond our role of Project Managers and provide a real guidance in your projects.  Read the rest of the site, and the Blog for more information.  And don't hesitate to call us."
@@ -254,6 +269,6 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "Keeping up to date with the technologies and sharing this knowledge is important to us.  The open source model mindset applies perfectly to what we aim to be as a company.  To build you must actually do things, talk is simply not enough."

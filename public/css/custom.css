@@ -144,7 +144,7 @@ a.anchor {
 
 .font01 {
     font-family: "Roboto", Helvetica, Arial, sans-serif;
-    color: grey;
+    color: black;
 	font-weight: normal;
 	font-size: 16px;
 }
@@ -435,3 +435,124 @@ a.anchor {
 .home-carousel .owl-theme .owl-controls .owl-page span {
     background-color: #222;
 }
+
+#heading-breadcrumbs h1 {
+#    color: blue;
+#}
+
+#content h1 {
+#    font-family: Roboto;
+#    font-size: 20px;
+    color: #555555;
+        margin-top: 30px;
+        margin-bottom: 15px;
+}
+
+#content h2 {
+#    font-family: Helvetica;
+    font-size: 22px;
+    color: #555555;
+	margin-top: 30px;
+    	margin-bottom: 15px;
+	text-transform: capitalize;
+}
+
+#content h3 {
+#    font-family: Arial;
+	text-transform: uppercase;
+    font-size: 18px;
+    color: #555555;
+        margin-top: 30px;
+        margin-bottom: 15px;
+}
+
+#content h4 {
+#    font-family: Arial;
+        text-transform: uppercase;
+    font-size: 18px;
+    color: #da4a4d; 
+        margin-top: 30px;
+        margin-bottom: 15px;
+}
+
+
+#content p {
+#    font-family: Sans;
+    font-size: 15px;
+	line-height: 1.6;
+    color: #999999;
+}
+
+#content ul {
+	color: #da4a4d;
+	line-height: 1.6;
+	font-size: 15px;
+}
+
+#content ol {
+        color: #da4a4d;
+        line-height: 1.6;
+	font-size: 15px;
+	margin-top: 20px;
+}
+
+#content li span {
+	color: #999999;
+}
+
+#li-pages {
+#	color:#999999;
+#}
+
+#content th {
+	font-weight: bold;
+	padding: 15px;
+        text-align: center;	
+}
+
+#content td {
+	padding: 15px;
+}
+
+#content tbody {
+        color: #999999;
+        font-size: 15px;
+        line-height: 1.6;
+}
+
+#content .th-glossary {
+	color: #BED62F;
+        font-weight: normal;
+	text-align: left;
+	font-size: 20px;
+}
+
+#.tbody-pages {
+#	color: #999999;
+#	font-size: 15px;
+#	line-height: 1.6;
+#}
+
+#content thead {
+        color: white;
+        padding: 15px;
+        text-transform: uppercase;
+        font-size: 20px;
+        background: #999999;
+        letter-spacing: 2px;
+        text-align: center;
+#       font-family: Helvetica Neue;
+}
+
+
+#.thead-pages {
+#        color: white;
+#	padding: 15px;
+#	text-transform: uppercase;
+#	font-size: 20px;
+#	background: #999999;
+#	letter-spacing: 2px;
+#	text-align: center;
+#	font-family: Helvetica Neue;
+#}
+
