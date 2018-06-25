@@ -1,0 +1,277 @@
+baseurl = "https://www.indalit.com/"
+absurl = "https://www.indalit.com"
+title = "Indalit Cloud Consulting"
+theme = "hugo-universal-theme"
+themesDir = "themes"
+languageCode = "en-us"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+canonifyurls = true
+
+[languages.en]
+#[languages.es]
+
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "devcows"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-114523366-1"
+
+# Define the number of posts per page
+paginate = 10
+PaginatePath = "page"
+
+[menu]
+
+# Main menu
+
+#[[menu.main]]
+#    name = "home"
+#    url  = "/"
+#    weight = 100
+
+#[[menu.main]]
+#    name = "Our Services"
+#    url = "/project-management-services/"
+#    identifier = "services-menu"
+#    weight = 200
+
+#[[menu.main]]
+#    name = "Plans"
+#    url = "/project-management-services/project-management-plans/"
+#    parent = "services-menu"
+#    identifier = "services-menu-1"
+#    weight = 100
+
+#[[menu.main]]
+#    name = "Custom"
+#    url = "/project-management-services/project-management-custom-options/"
+#    parent = "services-menu"
+#    identifier = "services-menu-2"
+#    weight = 200
+
+#[[menu.main]]
+#    name = "Value Added Services"
+#    url = "/project-management-services/project-management-value-added-services/"
+#    parent = "services-menu"
+#    identifier = "services-menu-3"
+#    weight = 300
+
+
+#[[menu.main]]
+#    name = "Us"
+#    url  = "/about-us/"
+#    identifier = "us-menu"
+#    weight = 500
+
+#[[menu.main]]
+#    name = "About Us"
+#    url = "/about-us/about/"
+#    parent = "us-menu"
+#    identifier = "us-menu-2"
+#    weight = 25
+
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/contact/"
+#    parent = "us-menu"
+#    identifier = "contact"
+#    weight = 130
+
+#[[menu.main]]
+#    name = "Blog"
+#    url  = "/blog/"
+#    weight = 600
+
+#[[menu.main]]
+#    name = "Vero"
+#    url  = "/moo/"
+#    weight = 608
+
+#[[menu.main]]
+#    name = "FAQ"
+#    identifier = "faq"
+#    url  = "/faq/"
+#    weight = 3
+
+#[[menu.main]]
+#    name  = "Packs"
+#    url  = "/packs/"
+#    weight  = 2
+#    identifier = "packs"
+
+#[[menu.main]]
+#    name  = "AWS"
+#    url  = "/aws-amazon-web-services/"
+#    weight  = 30
+#    parent = "projectmanagement"
+#    identifier = "aws"
+
+#[[menu.main]]
+#    name  = "DevOps"
+#   url  = "/devops-consultants/"
+#    weight  = 4
+#    identifier = "devops"
+
+#[[menu.main]]
+#    name  = "Project Management"
+#    url  = "/project-management/"
+#    weight  = 400
+#    identifier = "projectmanagement"
+
+#[[menu.main]]
+#    name = "Methodology"
+#    url = "/project-management-methodology/"
+#    parent = "projectmanagement"
+#    identifier = "pm-menu-1"
+#    weight = 20
+
+#[[menu.main]]
+#    name = "Glossary"
+#    url = "/project-management-glossary/"
+#    parent = "projectmanagement"
+#    identifier = "pm-menu-3"
+#    weight = 100
+
+
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "GitHub"
+    url = "https://github.com/MoiCoquille"
+    pre = "<i class='fa fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Twitter"
+    url = "https://twitter.com/indalitcloud"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:info@indalit.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/company/indalit-cloud-consulting/"
+    pre = "<i class='fa fa-2x fa-linkedin'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Meetup"
+    url = "https://www.meetup.com/AWS-Valencia/"
+    pre = "<i class='fa fa-2x fa-meetup'></i>"
+
+[params]
+    viewMorePostLink = "/blog/"
+#    author = "DevCows"
+#    defaultKeywords = ["devows", "hugo", "go"]
+#    defaultDescription = "Site template made by devcows using hugo"
+	author = "Veronique Robitaille"
+	defaultKeywords = ["AWS", "Project Management", "Project Manager"]
+	defaultDescription = "Find your Project Managers"
+    # Google Maps API key (if not set will default to not passing a key.)
+    # googleMapsApiKey = "AIzaSyCSC6pldLflbgRPnKU6ESAoUUyrAL51rKI"
+    googleMapsApiKey = ""
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "default"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = ""
+
+    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.  
+<br />
+Our moto, Enjoy The Ride, no need to stress, we will make it happen.  Your project will be a success.
+</p>"
+    copyright = "Copyright &#169; 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    logo = "img/logo.png"
+
+address = """<p><strong>Indalit Cloud Consulting</strong>
+<br>
+<br>+34 963 684 585
+<br>
+<a href="mailto:info@indalit.com">info@indalit.com</a>
+<br>
+<br>
+</p>
+"""
+
+    latitude = "39.484992999999996"
+    longitude = "-0.402362900000071"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = true
+    search = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = true
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "The Team"
+    subtitle = ""
+
+[params.see_more]
+    enable = false
+    icon = "fa fa-file-code-o"
+    title = "Do you want to know more?"
+    subtitle = "There is a lot more to know about our offering.  We have put together services that will be more than useful to you.  We go beyond our role of Project Managers and provide a real guidance in your projects.  Read the rest of the site, and the Blog for more information.  And don't hesitate to call us."
+    link_url = "/aws/"
+    link_text = "This week more on AWS"
+
+[params.clients]
+    enable = false
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "Our Clients and Partners"
+    subtitle = ""
+
+[params.recent_posts]
+    enable = false
+    title = "From our blog"
+    subtitle = "Keeping up to date with the technologies and sharing this knowledge is important to us.  The open source model mindset applies perfectly to what we aim to be as a company.  To build you must actually do things, talk is simply not enough."
