@@ -1118,6 +1118,7 @@ fieldset[disabled] .btn-template-primary.active {
 .owl-carousel .owl-controls.clickable .owl-page:hover span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
   background: #38a7bb;
+#   background: #9f9f9f;
 }
 .owl-carousel .owl-controls .owl-buttons,
 .owl-theme .owl-controls .owl-buttons {

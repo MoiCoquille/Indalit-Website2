@@ -196,7 +196,7 @@ PaginatePath = "page"
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.  <br />With the CPM (Cloud Project Methodology) adapted to Cloud Services using industry standards like Agile, Prince2, Lean and more, you can "Enjoy The Ride" and know your project will be a success.</p>"
+    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.<br />Our moto, Enjoy The Ride, no need to stress, we will make it happen.  Your project will be a success.</p>" 
     copyright = "Copyright &#169; 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
