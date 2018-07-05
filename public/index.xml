@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/</link>
+    <link>/</link>
     <description>Recent content on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.indalit.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://www.indalit.com/</link>
+      <link>/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.indalit.com/</guid>
+      <guid>/</guid>
       <description>Site Maintenance  body { text-align: center; padding: 150px; } h1 { font-size: 50px; } body { font: 20px Helvetica, sans-serif; color: #333; } article { display: block; text-align: left; width: 650px; margin: 0 auto; } a { color: #dc8100; text-decoration: none; } a:hover { color: #333; text-decoration: none; }   We&amp;rsquo;ll be back soon!  Sorry for the inconvenience but we&amp;rsquo;re performing some maintenance at the moment. If you need to you can always contact us, otherwise we&amp;rsquo;ll be back online shortly!</description>
     </item>
     
