@@ -1,7 +1,7 @@
 #baseurl = "https://www.indalit.com/"
 baseurl = "/"
 absurl = "https://www.indalit.com"
-title = "Indalit Cloud Consulting"
+title = "Indalit"
 theme = "hugo-universal-theme"
 #theme = "remark-twemoji"
 themesDir = "themes"
@@ -198,7 +198,7 @@ PaginatePath = "page"
     # Enable the contact form by entering your Formspree.io email
     email = ""
 
-    about_us = "<p>We are a great team of Project Managers.  We work together to offer the best service and make your project a success. Customer and employee statisfaction is the goal.<br />Our moto, Enjoy The Ride, no need to stress, we will make it happen.  Your project will be a success.</p>" 
+    about_us = "<p>We have created the best possible environment for everyone to enjoy their work, stay motivated and keep learning to always evolve.  Our main goal is to recruite the best possible candidates and keep turnover down to it's minimum by keeping all employees satisfied with their jobs.  <br />We work with you to do this, but we take on the responsibility of hiring, training, managing the HR part and keeping everyone happy and productive.  You just need to Enjoy the Ride!"
     copyright = "Copyright &#169; 2018 - 2019, Indalit Cloud Consulting; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -206,14 +206,17 @@ PaginatePath = "page"
 
     logo = "img/logo.png"
 
-address = """<p><strong>Indalit Cloud Consulting</strong>
-<br>
+address = """<span style="font-size:15px;font-weight:normal;color:white">Indalit</span>
+<br />
+Calle Reina Violante 5
+<br />
+Valencia, Spain
+<br />
 <br>+34 963 684 585
-<br>
+<br />
 <a href="mailto:info@indalit.com">info@indalit.com</a>
-<br>
-<br>
-</p>
+<br /><br />
+We are recruiting frequently, don't hesitate to send in your CV so you are at the top of the list as soon as we have an opening.  <a href="mailto:hire@indalit.com">hire@indalit.com</a>
 """
 
     latitude = "39.484992999999996"
@@ -258,7 +261,7 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     enable = true 
     icon = "fa fa-file-code-o"
     title = "Do you want more?"
-    subtitle = "There is a lot more to know about our services and how we can adapt them to your requirements.  We are specialised in IT Nearshoring in Spain but we are not limite by it.  Contact us when you ready or have questions for a futur project, we can make it work."
+    subtitle = "There is a lot more to know about our services and how we can adapt them to your requirements.  We are specialised in IT Nearshoring and Co-sourcing in Spain but we are not limite by it.  Contact us when you ready or have questions for a futur project, we can make it work."
     link_url = "/contact/"
     link_text = "Let's Go"
 

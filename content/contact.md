@@ -1,6 +1,6 @@
 +++
 title = "Contact Us"
-id = "contact"
+#id = "contact"
 type = "page"
 +++
 
@@ -10,7 +10,7 @@ type = "page"
                 <div class="RowTable CenterDivInside">
                         <div class="CellTable CenterDivInside">
 				<p>
-				If you are here, then you are curious about something or just have comments.  Don't hesitate to contact us, we will answer all your questions and listen to all your comments.
+				If you are here, then you are curious about something or just have comments our Nearshoring and/or Co-sourcing services.  Don't hesitate to contact us, we will answer all your questions and listen to all your comments.
 				</p>
 			</div>
                 </div>
