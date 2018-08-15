@@ -2,57 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/categories/aws/</link>
+    <link>/categories/aws/</link>
     <description>Recent content in Aws on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Mar 2018 00:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/categories/aws/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS DynamoDB Cross Region Replication</title>
-      <link>https://www.indalit.com/blog/2018/03/21/aws-dynamodb-cross-region-replication/</link>
+      <link>/blog/2018/03/21/aws-dynamodb-cross-region-replication/</link>
       <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/21/aws-dynamodb-cross-region-replication/</guid>
+      <guid>/blog/2018/03/21/aws-dynamodb-cross-region-replication/</guid>
+      <description>Did you know you can keep tables in sync across multiple regions with AWS DynamoDB cross-region replication? In near real time!</description>
+    </item>
+    
+    <item>
+      <title>AWS DynamoDB Cross Region Replication</title>
+      <link>/fixed/blog/did-you-know/aws-dynamodb-cross-region-replication/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-dynamodb-cross-region-replication/</guid>
       <description>Did you know you can keep tables in sync across multiple regions with AWS DynamoDB cross-region replication? In near real time!</description>
     </item>
     
     <item>
       <title>AWS Dedicated Instances versus Dedicated Hosts</title>
-      <link>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</link>
+      <link>/blog/2018/03/19/aws-ec2-instances-dedicated/</link>
       <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</guid>
+      <guid>/blog/2018/03/19/aws-ec2-instances-dedicated/</guid>
+      <description>Did you know AWS Dedicated Instances and Dedicated Hosts are two different services offered by AWS?</description>
+    </item>
+    
+    <item>
+      <title>AWS Dedicated Instances versus Dedicated Hosts</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-dedicated/</link>
+      <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-dedicated/</guid>
       <description>Did you know AWS Dedicated Instances and Dedicated Hosts are two different services offered by AWS?</description>
     </item>
     
     <item>
       <title>AWS Security Groups Associated to Network Interfaces</title>
-      <link>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</link>
+      <link>/blog/2018/03/02/aws-security-group-network-interface/</link>
       <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <guid>/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
+    </item>
+    
+    <item>
+      <title>AWS Security Groups Associated to Network Interfaces</title>
+      <link>/fixed/blog/did-you-know/aws-security-group-network-interface/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-security-group-network-interface/</guid>
       <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
     </item>
     
     <item>
       <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
-      <link>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</link>
+      <link>/blog/2018/03/01/aws-security-groups-stateful/</link>
       <pubDate>Thu, 01 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</guid>
+      <guid>/blog/2018/03/01/aws-security-groups-stateful/</guid>
+      <description>Did you know AWS Security Groups are stateful for outbound AND inbound traffic?</description>
+    </item>
+    
+    <item>
+      <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
+      <link>/fixed/blog/did-you-know/aws-security-groups-stateful/</link>
+      <pubDate>Thu, 01 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-security-groups-stateful/</guid>
       <description>Did you know AWS Security Groups are stateful for outbound AND inbound traffic?</description>
     </item>
     
     <item>
       <title>AWS Services List</title>
-      <link>https://www.indalit.com/blog/2018/02/23/aws-service-list/</link>
+      <link>/blog/2018/02/23/aws-service-list/</link>
       <pubDate>Fri, 23 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/23/aws-service-list/</guid>
+      <guid>/blog/2018/02/23/aws-service-list/</guid>
       <description>Amazon EC2
 Amazon EC2 Auto Scaling
 Amazon EC2 Container Service (ECS)
@@ -81,276 +117,563 @@ Amazon Neptune</description>
     </item>
     
     <item>
-      <title>AWS CloudFront Migration to HTTPS with Errors</title>
-      <link>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</link>
-      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      <title>AWS Services List</title>
+      <link>/fixed/blog/did-you-know/aws-service-list/</link>
+      <pubDate>Fri, 23 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</guid>
-      <description>I need to start this by saying there is NO bug with AWS CloudFront, NO bug with AWS S3, NO bug with Hugo and NO bug with OWL Carousel javascript. This is a Veronique bug. I just wanted to document this in case someone has a similar problem. I was unable to find the solution on the internet with the search strings I used.
-Environment  Hugo Static Website Generator version v0.</description>
+      <guid>/fixed/blog/did-you-know/aws-service-list/</guid>
+      <description>Amazon EC2
+Amazon EC2 Auto Scaling
+Amazon EC2 Container Service (ECS)
+AWS Elastic Container Service for Kubernetes
+AWS Fargate
+AWS Serverless Application Repository
+AWS Elastic Beanstalk
+Amazon EC2 Container Registry
+Amazon Lightsail
+AWS Batch
+AWS Lambda
+Amazon S3
+Amazon Elastic File System (EFS)
+AWS Storage Gateway
+AWS Snowball Edge
+Amazon EBS
+Amazon Glacier
+AWS Snowball
+AWS Snowmobile
+Amazon Aurora
+Amazon DynamoDB
+Amazon ElastiCache
+AWS Database Migration Service
+Amazon RDS
+Amazon Neptune</description>
     </item>
     
     <item>
       <title>AWS DynamoDB Replication</title>
-      <link>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</link>
+      <link>/blog/2018/02/22/aws-dynamodb-replication/</link>
       <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</guid>
+      <guid>/blog/2018/02/22/aws-dynamodb-replication/</guid>
+      <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.</description>
+    </item>
+    
+    <item>
+      <title>AWS DynamoDB Replication</title>
+      <link>/fixed/blog/did-you-know/aws-dynamodb-replication/</link>
+      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-dynamodb-replication/</guid>
       <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.</description>
     </item>
     
     <item>
       <title>AWS Aurora Multi Master Multi AZ</title>
-      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <link>/blog/2018/02/21/aws-aurora-multi-master/</link>
       <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <guid>/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>/fixed/blog/did-you-know/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-aurora-multi-master/</guid>
       <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
     </item>
     
     <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EBS Volumes Delete on Instance Termination</title>
+      <link>/fixed/blog/did-you-know/aws-ebs-instance-termination/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
     </item>
     
     <item>
       <title>AWS VPC To Span Across AZs</title>
-      <link>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <link>/blog/2018/02/15/aws-vpc-span/</link>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <guid>/blog/2018/02/15/aws-vpc-span/</guid>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
+    </item>
+    
+    <item>
+      <title>AWS VPC To Span Across AZs</title>
+      <link>/fixed/blog/did-you-know/aws-vpc-span/</link>
+      <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-vpc-span/</guid>
       <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
     </item>
     
     <item>
       <title>AWS Storage Gateway Cheat Sheet</title>
-      <link>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
+      <link>/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
       <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <guid>/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
+    </item>
+    
+    <item>
+      <title>AWS Storage Gateway Cheat Sheet</title>
+      <link>/fixed/blog/did-you-know/aws-storage-gateway-cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-storage-gateway-cheatsheet/</guid>
       <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
     </item>
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <link>/blog/2017/12/01/aws-new-instance-family-m5/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <guid>/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
+      <link>/fixed/blog/did-you-know/aws-new-instance-family-m5/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-new-instance-family-m5/</guid>
       <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
     </item>
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <link>/blog/2017/12/01/aws-guard-duty/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <guid>/blog/2017/12/01/aws-guard-duty/</guid>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Amazon GuardDuty</title>
+      <link>/fixed/blog/did-you-know/aws-guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     
     <item>
       <title>AWS Launches Fargate, Containers without EC2 Instances</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
+      <link>/blog/2017/12/01/aws-launch-fargate/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
+      <guid>/blog/2017/12/01/aws-launch-fargate/</guid>
+      <description>Did you know Amazon launched AWS Fargate?
+The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Fargate, Containers without EC2 Instances</title>
+      <link>/fixed/blog/did-you-know/aws-launch-fargate/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-launch-fargate/</guid>
       <description>Did you know Amazon launched AWS Fargate?
 The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.</description>
     </item>
     
     <item>
       <title>AWS Aurora Relational Database in the Cloud</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
+      <link>/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <guid>/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Relational Database in the Cloud</title>
+      <link>/fixed/blog/did-you-know/aws-aurora-without-ec2-instances/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-aurora-without-ec2-instances/</guid>
       <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?</description>
     </item>
     
     <item>
       <title>AWS Cross Region VPC Peering</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
+      <link>/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <guid>/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <description>Did you know AWS now allows VPC Peering across different regions?</description>
+    </item>
+    
+    <item>
+      <title>AWS Cross Region VPC Peering</title>
+      <link>/fixed/blog/did-you-know/aws-cross-region-vpc-peering/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-cross-region-vpc-peering/</guid>
       <description>Did you know AWS now allows VPC Peering across different regions?</description>
     </item>
     
     <item>
       <title>AWS Introduces Spread Placement Groups</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</link>
+      <link>/blog/2017/12/01/aws-spread-placement-group/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</guid>
+      <guid>/blog/2017/12/01/aws-spread-placement-group/</guid>
+      <description>Did you know AWS introduced Spread Placement Groups? This means AWS EC2 Instances within a Placement Group will be on distinct hardware.</description>
+    </item>
+    
+    <item>
+      <title>AWS Introduces Spread Placement Groups</title>
+      <link>/fixed/blog/did-you-know/aws-spread-placement-group/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-spread-placement-group/</guid>
       <description>Did you know AWS introduced Spread Placement Groups? This means AWS EC2 Instances within a Placement Group will be on distinct hardware.</description>
     </item>
     
     <item>
       <title>AWS Lightsail Launches Load Balancing Support</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</link>
+      <link>/blog/2017/12/01/aws-lightsail-load-balancer/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <guid>/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
+    </item>
+    
+    <item>
+      <title>AWS Lightsail Launches Load Balancing Support</title>
+      <link>/fixed/blog/did-you-know/aws-lightsail-load-balancer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-lightsail-load-balancer/</guid>
       <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite Retrieval Options</title>
-      <link>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
+      <link>/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
       <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <guid>/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite Retrieval Options</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-expedite-retrieval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-expedite-retrieval/</guid>
       <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
     </item>
     
     <item>
       <title>AWS Spot Intances Bid Duration</title>
-      <link>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
+      <link>/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
       <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <guid>/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
+    </item>
+    
+    <item>
+      <title>AWS Spot Intances Bid Duration</title>
+      <link>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</link>
+      <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</guid>
       <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
     </item>
     
     <item>
       <title>AWS New Compute Optimized Instance Family - C5</title>
-      <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
+      <link>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
       <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <guid>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS New Compute Optimized Instance Family - C5</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</link>
+      <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</guid>
       <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Per Second Billing</title>
-      <link>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
+      <link>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
       <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <guid>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Per Second Billing</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</link>
+      <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</guid>
       <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
     </item>
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     
     <item>
       <title>AWS S3 Encryption SSE-C</title>
-      <link>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <link>/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <guid>/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
+    </item>
+    
+    <item>
+      <title>AWS S3 Encryption SSE-C</title>
+      <link>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</guid>
       <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     
     <item>
       <title>AWS Deleting the Queue After 30 Days</title>
-      <link>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</link>
+      <link>/blog/2017/07/17/aws-sqs-deleting-queue/</link>
       <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
+      <guid>/blog/2017/07/17/aws-sqs-deleting-queue/</guid>
+      <description>Did you know if an AWS SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
+    </item>
+    
+    <item>
+      <title>AWS Deleting the Queue After 30 Days</title>
+      <link>/fixed/blog/did-you-know/aws-sqs-deleting-queue/</link>
+      <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-sqs-deleting-queue/</guid>
       <description>Did you know if an AWS SQS queue does not receive certain requests for more than 30 days, AWS reserves the right to delete the queue?</description>
     </item>
     
     <item>
       <title>AWS RDS Multi Availability Zone Deployment</title>
-      <link>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
+      <link>/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
       <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <guid>/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
+    </item>
+    
+    <item>
+      <title>AWS RDS Multi Availability Zone Deployment</title>
+      <link>/fixed/blog/did-you-know/aws-rds-multiaz-deployment/</link>
+      <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-rds-multiaz-deployment/</guid>
       <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
     </item>
     
     <item>
       <title>AWS EC2 Ephemeral Storage</title>
-      <link>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <link>/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
       <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <guid>/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Ephemeral Storage</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</link>
+      <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</guid>
       <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
     </item>
     
     <item>
       <title>AWS RDS Database Read Replicas</title>
-      <link>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
+      <link>/blog/2017/07/11/aws-rds-read-replica/</link>
       <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <guid>/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
+    </item>
+    
+    <item>
+      <title>AWS RDS Database Read Replicas</title>
+      <link>/fixed/blog/did-you-know/aws-rds-read-replica/</link>
+      <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-rds-read-replica/</guid>
       <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances T2 VPC</title>
-      <link>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <link>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <guid>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances T2 VPC</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</guid>
       <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite</title>
-      <link>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
+      <link>/blog/2017/06/20/aws-glacier-expedite/</link>
       <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <guid>/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-expedite/</link>
+      <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-expedite/</guid>
       <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes?</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Public IP</title>
-      <link>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
+      <link>/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <guid>/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Public IP</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-public-ip/</link>
+      <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-public-ip/</guid>
       <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
       <title>AWS EC2 Intances Metadata</title>
-      <link>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <link>/blog/2017/06/17/aws-ec2-instances-metadata/</link>
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <guid>/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
+http://169.254.169.254/latest/meta-data/  </description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Intances Metadata</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</link>
+      <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</guid>
       <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
 http://169.254.169.254/latest/meta-data/  </description>
     </item>
     
     <item>
       <title>AWS Glacier Minimum Pricing</title>
-      <link>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <link>/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <guid>/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Minimum Pricing</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</link>
+      <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</guid>
       <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Cooldown Period</title>
-      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</link>
+      <link>/blog/2017/06/13/aws-autoscaling-cooldown/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
+      <guid>/blog/2017/06/13/aws-autoscaling-cooldown/</guid>
+      <description>Did you know the default AWS Auto Scaling cooldown period is 300 seconds? When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.</description>
+    </item>
+    
+    <item>
+      <title>AWS Auto Scaling Cooldown Period</title>
+      <link>/fixed/blog/did-you-know/aws-autoscaling-cooldown/</link>
+      <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-autoscaling-cooldown/</guid>
       <description>Did you know the default AWS Auto Scaling cooldown period is 300 seconds? When AWS Auto Scaling launches a new instance, it will wait 300 seconds before launching a new one.</description>
     </item>
     
     <item>
       <title>AWS Auto Scaling Termination Policy</title>
-      <link>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
+      <link>/blog/2017/06/13/aws-autoscaling-termination-policy/</link>
       <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
+      <guid>/blog/2017/06/13/aws-autoscaling-termination-policy/</guid>
+      <description>Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</description>
+    </item>
+    
+    <item>
+      <title>AWS Auto Scaling Termination Policy</title>
+      <link>/fixed/blog/did-you-know/aws-autoscaling-termination-policy/</link>
+      <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-autoscaling-termination-policy/</guid>
       <description>Did you know when you use the default termination policy with AWS Auto Scaling it doesn’t terminate the instance with the oldest launch configuration automatically? It first tries to balance the number of instances across Availability Zones, then picks the Availability Zone with the most instances and terminates the instance with the oldest launch configuration. If there are more than one, then it ends the process by randomly picking the instance to terminate.</description>
     </item>
     

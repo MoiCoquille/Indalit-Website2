@@ -2,39 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pricing on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/pricing/</link>
+    <link>/tags/pricing/</link>
     <description>Recent content in Pricing on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Nov 2017 00:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pricing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Spot Intances Bid Duration</title>
-      <link>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
+      <link>/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
       <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <guid>/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
+    </item>
+    
+    <item>
+      <title>AWS Spot Intances Bid Duration</title>
+      <link>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</link>
+      <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</guid>
       <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Per Second Billing</title>
-      <link>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
+      <link>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
       <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <guid>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Per Second Billing</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</link>
+      <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</guid>
       <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
     </item>
     
     <item>
       <title>AWS Glacier Minimum Pricing</title>
-      <link>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <link>/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <guid>/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Minimum Pricing</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</link>
+      <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</guid>
       <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
     </item>
     

@@ -348,7 +348,12 @@ ul.list-style-none {
   margin: 0;
   padding: 0;
 }
-.navbar ul.dropdown-menu li {
+.navbar uvbar.navbar-light ul.nav > li.open > a:focus {
+  border-top: solid 5px #38a7bb;
+  background: #fff !important;
+  color: #555555 !important;
+}
+l.dropdown-menu li {
   list-style-type: none;
   border-bottom: solid 1px #eeeeee;
   text-transform: uppercase;
@@ -639,7 +644,7 @@ fieldset[disabled] .btn-template-transparent-primary.active {
 .btn-template-transparent-primary:active,
 .btn-template-transparent-primary.active {
   background: #fff;
-  color: #38a7bb;
+  color: #f33022;
   border-color: #fff;
 }
 .btn-template-transparent-black {

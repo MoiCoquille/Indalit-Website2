@@ -2,58 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Aws Service on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/categories/new-aws-service/</link>
+    <link>/categories/new-aws-service/</link>
     <description>Recent content in New Aws Service on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/categories/new-aws-service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/new-aws-service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <link>/blog/2017/12/01/aws-new-instance-family-m5/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <guid>/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
+      <link>/fixed/blog/did-you-know/aws-new-instance-family-m5/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-new-instance-family-m5/</guid>
       <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
     </item>
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <link>/blog/2017/12/01/aws-guard-duty/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <guid>/blog/2017/12/01/aws-guard-duty/</guid>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Amazon GuardDuty</title>
+      <link>/fixed/blog/did-you-know/aws-guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     
     <item>
       <title>AWS Launches Fargate, Containers without EC2 Instances</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</link>
+      <link>/blog/2017/12/01/aws-launch-fargate/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-launch-fargate/</guid>
+      <guid>/blog/2017/12/01/aws-launch-fargate/</guid>
+      <description>Did you know Amazon launched AWS Fargate?
+The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Fargate, Containers without EC2 Instances</title>
+      <link>/fixed/blog/did-you-know/aws-launch-fargate/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-launch-fargate/</guid>
       <description>Did you know Amazon launched AWS Fargate?
 The new AWS Fagate service allows for deployment and management of containers without having to build a cluster of EC2 Instances.</description>
     </item>
     
     <item>
       <title>AWS Lightsail Launches Load Balancing Support</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</link>
+      <link>/blog/2017/12/01/aws-lightsail-load-balancer/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <guid>/blog/2017/12/01/aws-lightsail-load-balancer/</guid>
+      <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
+    </item>
+    
+    <item>
+      <title>AWS Lightsail Launches Load Balancing Support</title>
+      <link>/fixed/blog/did-you-know/aws-lightsail-load-balancer/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-lightsail-load-balancer/</guid>
       <description>Did you know Amazon Lightsail has added support for Load Balancers with integrated certificate management?</description>
     </item>
     
     <item>
       <title>AWS New Compute Optimized Instance Family - C5</title>
-      <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
+      <link>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
       <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <guid>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS New Compute Optimized Instance Family - C5</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</link>
+      <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</guid>
       <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
     </item>
     

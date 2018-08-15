@@ -2,30 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Os on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/os/</link>
+    <link>/tags/os/</link>
     <description>Recent content in Os on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/os/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/os/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     
     <item>
       <title>AWS EC2 Intances Metadata</title>
-      <link>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <link>/blog/2017/06/17/aws-ec2-instances-metadata/</link>
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <guid>/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
+http://169.254.169.254/latest/meta-data/  </description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Intances Metadata</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</link>
+      <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</guid>
       <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
 http://169.254.169.254/latest/meta-data/  </description>
     </item>

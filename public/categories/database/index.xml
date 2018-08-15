@@ -2,66 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Database on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/categories/database/</link>
+    <link>/categories/database/</link>
     <description>Recent content in Database on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Mar 2018 00:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/categories/database/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/database/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS DynamoDB Cross Region Replication</title>
-      <link>https://www.indalit.com/blog/2018/03/21/aws-dynamodb-cross-region-replication/</link>
+      <link>/blog/2018/03/21/aws-dynamodb-cross-region-replication/</link>
       <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/21/aws-dynamodb-cross-region-replication/</guid>
+      <guid>/blog/2018/03/21/aws-dynamodb-cross-region-replication/</guid>
+      <description>Did you know you can keep tables in sync across multiple regions with AWS DynamoDB cross-region replication? In near real time!</description>
+    </item>
+    
+    <item>
+      <title>AWS DynamoDB Cross Region Replication</title>
+      <link>/fixed/blog/did-you-know/aws-dynamodb-cross-region-replication/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-dynamodb-cross-region-replication/</guid>
       <description>Did you know you can keep tables in sync across multiple regions with AWS DynamoDB cross-region replication? In near real time!</description>
     </item>
     
     <item>
       <title>AWS DynamoDB Replication</title>
-      <link>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</link>
+      <link>/blog/2018/02/22/aws-dynamodb-replication/</link>
       <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/22/aws-dynamodb-replication/</guid>
+      <guid>/blog/2018/02/22/aws-dynamodb-replication/</guid>
+      <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.</description>
+    </item>
+    
+    <item>
+      <title>AWS DynamoDB Replication</title>
+      <link>/fixed/blog/did-you-know/aws-dynamodb-replication/</link>
+      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-dynamodb-replication/</guid>
       <description>Did you know AWS DynamoDB provides you with a fully managed, multi-region, and multi-master database? Your tables can be automatically replicated across regions.</description>
     </item>
     
     <item>
       <title>AWS Aurora Multi Master Multi AZ</title>
-      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <link>/blog/2018/02/21/aws-aurora-multi-master/</link>
       <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <guid>/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>/fixed/blog/did-you-know/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-aurora-multi-master/</guid>
       <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
     </item>
     
     <item>
       <title>AWS Aurora Relational Database in the Cloud</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
+      <link>/blog/2017/12/01/aws-aurora-without-ec2-instances/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <guid>/blog/2017/12/01/aws-aurora-without-ec2-instances/</guid>
+      <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Relational Database in the Cloud</title>
+      <link>/fixed/blog/did-you-know/aws-aurora-without-ec2-instances/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-aurora-without-ec2-instances/</guid>
       <description>Did you know Amazon Aurora will enable you to run your Relational Database in the Cloud without managing any instances or clusters?</description>
     </item>
     
     <item>
       <title>AWS RDS Multi Availability Zone Deployment</title>
-      <link>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
+      <link>/blog/2017/07/14/aws-rds-multiaz-deployment/</link>
       <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <guid>/blog/2017/07/14/aws-rds-multiaz-deployment/</guid>
+      <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
+    </item>
+    
+    <item>
+      <title>AWS RDS Multi Availability Zone Deployment</title>
+      <link>/fixed/blog/did-you-know/aws-rds-multiaz-deployment/</link>
+      <pubDate>Fri, 14 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-rds-multiaz-deployment/</guid>
       <description>Did you know with an Amazone RDS Multi-AZ deployment, the standby cannot be used for read or write operations?</description>
     </item>
     
     <item>
       <title>AWS RDS Database Read Replicas</title>
-      <link>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</link>
+      <link>/blog/2017/07/11/aws-rds-read-replica/</link>
       <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <guid>/blog/2017/07/11/aws-rds-read-replica/</guid>
+      <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
+    </item>
+    
+    <item>
+      <title>AWS RDS Database Read Replicas</title>
+      <link>/fixed/blog/did-you-know/aws-rds-read-replica/</link>
+      <pubDate>Tue, 11 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-rds-read-replica/</guid>
       <description>Did you know that with Amazon RDS you can create Read Replicas from an another Read Replica and have the replication handled between them? This reduces the load on the master.</description>
     </item>
     

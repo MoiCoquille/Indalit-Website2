@@ -2,31 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Encryption on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/encryption/</link>
+    <link>/tags/encryption/</link>
     <description>Recent content in Encryption on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 00:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>AWS CloudFront Migration to HTTPS with Errors</title>
-      <link>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</link>
-      <pubDate>Thu, 22 Feb 2018 00:49:20 +0200</pubDate>
+      <title>AWS S3 Encryption SSE-C</title>
+      <link>/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/22/bug-report-aws-cloudfront-https/</guid>
-      <description>I need to start this by saying there is NO bug with AWS CloudFront, NO bug with AWS S3, NO bug with Hugo and NO bug with OWL Carousel javascript. This is a Veronique bug. I just wanted to document this in case someone has a similar problem. I was unable to find the solution on the internet with the search strings I used.
-Environment  Hugo Static Website Generator version v0.</description>
+      <guid>/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     
     <item>
       <title>AWS S3 Encryption SSE-C</title>
-      <link>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <link>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</link>
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <guid>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</guid>
       <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     

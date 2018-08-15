@@ -3,21 +3,696 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/blog/2018/03/21/aws-dynamodb-cross-region-replication/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-dynamodb-cross-region-replication/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/03/19/aws-ec2-instances-dedicated/</loc>
+    <lastmod>2018-03-19T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-instances-dedicated/</loc>
+    <lastmod>2018-03-19T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/03/02/aws-security-group-network-interface/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-security-group-network-interface/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/03/01/aws-security-groups-stateful/</loc>
+    <lastmod>2018-03-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-security-groups-stateful/</loc>
+    <lastmod>2018-03-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/25/indalit-news-new-logo/</loc>
+    <lastmod>2018-02-25T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/indalit-news/indalit-news-new-logo/</loc>
+    <lastmod>2018-02-25T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/25/how-to-hugo-template-blog-post/</loc>
+    <lastmod>2018-02-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/how-to/how-to-hugo-template-blog-post/</loc>
+    <lastmod>2018-02-25T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/23/aws-service-list/</loc>
+    <lastmod>2018-02-23T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-service-list/</loc>
+    <lastmod>2018-02-23T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/22/aws-dynamodb-replication/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-dynamodb-replication/</loc>
+    <lastmod>2018-02-22T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/21/aws-aurora-multi-master/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-aurora-multi-master/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/18/aws-ebs-instance-termination/</loc>
+    <lastmod>2018-02-18T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ebs-instance-termination/</loc>
+    <lastmod>2018-02-18T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2018/02/15/aws-vpc-span/</loc>
+    <lastmod>2018-02-15T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-vpc-span/</loc>
+    <lastmod>2018-02-15T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/14/aws-storage-gateway-cheatsheet/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-storage-gateway-cheatsheet/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-new-instance-family-m5/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-new-instance-family-m5/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-guard-duty/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-guard-duty/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-launch-fargate/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-launch-fargate/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-aurora-without-ec2-instances/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-aurora-without-ec2-instances/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-cross-region-vpc-peering/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-cross-region-vpc-peering/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-spread-placement-group/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-spread-placement-group/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/12/01/aws-lightsail-load-balancer/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-lightsail-load-balancer/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/11/27/aws-glacier-expedite-retrieval/</loc>
+    <lastmod>2017-11-27T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-glacier-expedite-retrieval/</loc>
+    <lastmod>2017-11-27T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/11/10/aws-spot-instances-bid-duration/</loc>
+    <lastmod>2017-11-10T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</loc>
+    <lastmod>2017-11-10T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</loc>
+    <lastmod>2017-11-08T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</loc>
+    <lastmod>2017-11-08T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</loc>
+    <lastmod>2017-10-13T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</loc>
+    <lastmod>2017-10-13T00:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/28/aws-ec2-ebs-encryption/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/21/aws-s3-encryption-sse-c/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/17/aws-sqs-deleting-queue/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-sqs-deleting-queue/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/14/aws-rds-multiaz-deployment/</loc>
+    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-rds-multiaz-deployment/</loc>
+    <lastmod>2017-07-14T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/12/aws-ec2-ephemeral-storage/</loc>
+    <lastmod>2017-07-12T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</loc>
+    <lastmod>2017-07-12T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/11/aws-rds-read-replica/</loc>
+    <lastmod>2017-07-11T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-rds-read-replica/</loc>
+    <lastmod>2017-07-11T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</loc>
+    <lastmod>2017-06-26T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</loc>
+    <lastmod>2017-06-26T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/20/aws-glacier-expedite/</loc>
+    <lastmod>2017-06-20T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-glacier-expedite/</loc>
+    <lastmod>2017-06-20T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/19/aws-ec2-instances-public-ip/</loc>
+    <lastmod>2017-06-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-instances-public-ip/</loc>
+    <lastmod>2017-06-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/17/aws-ec2-instances-metadata/</loc>
+    <lastmod>2017-06-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</loc>
+    <lastmod>2017-06-17T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/15/aws-glacier-minimum-pricing/</loc>
+    <lastmod>2017-06-15T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</loc>
+    <lastmod>2017-06-15T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/13/aws-autoscaling-cooldown/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-autoscaling-cooldown/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/06/13/aws-autoscaling-termination-policy/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fixed/blog/did-you-know/aws-autoscaling-termination-policy/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about-us/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/about-us/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/about-us/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aurora/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/auto-scaling/</loc>
+    <lastmod>2017-06-13T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/availability-zone/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/aws/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/cheatsheet/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/compute/</loc>
+    <lastmod>2018-03-19T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/configuration/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/database/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/did-you-know/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dynamodb/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ebs/</loc>
+    <lastmod>2018-02-18T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ec2-classic/</loc>
+    <lastmod>2017-06-26T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ec2-instances/</loc>
+    <lastmod>2018-03-19T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/encryption/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fargate/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fixed/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/glacier/</loc>
+    <lastmod>2017-11-27T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/guard-duty/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/how-to/</loc>
+    <lastmod>2018-02-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2018-03-21T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/indalit-news/</loc>
+    <lastmod>2018-02-25T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ip/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fixed/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>/legal/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/lightsail/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/load-balancing/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/messaging/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/networking--content-delivery/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/new-aws-feature/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/new-aws-service/</loc>
+    <lastmod>2017-12-01T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/os/</loc>
+    <lastmod>2017-07-28T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/bloggers/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/bloggers/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/project-management-services/project-management-custom-options/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-services/project-management-custom-options/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/project-management-services/project-management-plans/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-services/project-management-plans/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/project-management-services/all-project-management-services/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-services/all-project-management-services/</loc>
+  </url>
+  
+  <url>
+    <loc>/fixed/project-management-services/project-management-value-added-services/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-services/project-management-value-added-services/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/pricing/</loc>
+    <lastmod>2017-11-10T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/fixed/project-management-glossary/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-glossary/</loc>
+  </url>
+  
+  <url>
+    <loc>/project-management-services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rds/</loc>
+    <lastmod>2017-12-01T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/redundancy/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/s3/</loc>
+    <lastmod>2017-07-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/security-identity--compliance/</loc>
+    <lastmod>2018-03-02T00:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sqs/</loc>
+    <lastmod>2017-07-17T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/storage/</loc>
+    <lastmod>2018-02-18T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/storage-gateway/</loc>
+    <lastmod>2017-12-14T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-02-21T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vpc/</loc>
+    <lastmod>2018-02-15T21:49:20+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/web-development/</loc>
+    <lastmod>2018-02-25T00:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   

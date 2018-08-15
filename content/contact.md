@@ -4,32 +4,69 @@ id = "contact"
 type = "page"
 +++
 
+<div class="CenterDivOutside">
 
+	<div class="SingleColumnTable CenterDivInside">
+                <div class="RowTable CenterDivInside">
+                        <div class="CellTable CenterDivInside">
+				<p>
+				If you are here, then you are curious about something or just have comments.  Don't hesitate to contact us, we will answer all your questions and listen to all your comments.
+				</p>
+			</div>
+                </div>
+                <div class="RowTable CenterDivInside ContactImageLine">
+                        <div class="CellTable CenterDivInside">
+                               	<p>
+				______
+				</p> 
+                        </div>
+                </div>
+		<div class="RowTable CenterDivInside ContactImageLine">
 
-# We are here to help!
+			<div class="CellTable CenterDivInside">
+				<img style="float" src="/img/contact/indalit_contact_phone_number.png" width="75" alt="For any questions or comments, don't hesitate to contact us.">
+			</div>			
+		</div>
+                <div class="RowTable CenterDivInside">
 
+                        <div class="CellTable CenterDivInside">
+                                <p>
+                                ______
+                                </p>
+                        </div>
+                </div>
+		<div class="RowTable CenterDivInside">
 
-You are curious about something?
+			<div class="CellTable CenterDivInside">
 
+				<h4>Indalit</h4>
 
-<table>
-<tbody>
-<tr>
-<td style="padding: 20px; vertical-align: center;">	
-<img style="float" src="/img/contact/contact-us-project-manager-cloud-services.png" width="150" alt="Project Manager handling a project on the phone remotely.">
-</td>
-<td style="padding: 20px; vertical-align: center;">
-Do you need more information about Indalit, our <a href="/project-management-services/all-project-management-services/">Project Management Services</a>?  Maybe you are ready to go start a new <a href="https://aws.amazon.com" target="_blank">AWS</a> project? You need professional advice on how to move forward?  Then don't hesitate, we are here to help.
-<br /><br />
-Please feel free to contact us, we are opened from 9AM to 12PM and 2PM to 6PM "Madrid (GMT+1)".  If y
-ou need to make the timezone conversion, then see: <a href="http://www.thetimezoneconverter.com" targ
-et="blanc">www.thetimezoneconverter.com</a>.
-<br /><br />
-<img style="float" src="/img/contact/telephone.png" width="30" alt="Telephone"> +34 963 684 585
-<br /><br />
-<img style="float" src="/img/contact/email.png" width="30" alt="Email"> <a href="mailto:info@indalit.
-com">info@indalit.com</a>
-</td>
-</tr>
-</tbody>
-</table>
+				<p>
+				Tel: +34 699 184 246<br />
+				<a href="mailto:info@indalit.com">info@indalit.com</a>
+				</p>
+
+			</div>
+		</div>
+		<div class="RowTable CenterDivInside ContactImageLine">
+
+			<div class="CellTable CenterDivInside">
+                                <p>
+                                ______
+                                </p>
+			</div>
+		</div>
+		<div class="RowTable CenterDivInside">
+
+			<div class="CellTable CenterDivInside">
+				
+				<p>Calle Reina Violante 5 <br />
+				46015 Valencia <br />
+				Spain
+				</p>
+				<a href="https://www.linkedin.com/company/indalit-cloud-consulting/">LinkedIn</a> / <a href="https://twitter.com/indalitcloud">Twitter</a><br /><br />
+                        </div>
+                </div>
+	</div>
+</div>
+

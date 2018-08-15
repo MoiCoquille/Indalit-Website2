@@ -7,7 +7,7 @@ id = "blank"
 <table>
 <tbody>
 <tr>
-<td style="padding: 15px; vertical-align: center;">
+<td style="padding: 15px; vertical-align: top;">
 <img src="/img/bloggers/veronique_business.jpg" alt="Picture of Veronique">
 </td>
 <td>
@@ -17,7 +17,7 @@ I always have a lot to write about, it's just a question of time.  I tend to wri
 My entry point for the <i>Public Cloud</i> world was <a href="https://aws.amazon.com" target="_blank">AWS Services</a>.  Definitely fell in love with what they do and how they do it (except pricing).  So after learning Python (for no particular reason), I went for the <i>AWS Solutions Architect Certification</i>.  I will probably go for other Cloud Providers, like Google Cloud and Microsoft Azure, certifications, but first let me build my business.
 <br />
 <br />
-Don't be surprised if something is a bit "off", I see things differently, it's all about <b>organization</b>, <b>logic</b> and <b>efficiency</b>.  If you have anything special you want me to write about, or questions let me know at <a href="mailto:v@indalit.com">v@indalit.com</a>
+Don't be surprised if something is a bit "off", I see things differently, it's all about <b>organization</b>, <b>logic</b> and <b>efficiency</b>. 
 <br />
 <br />
 <center>

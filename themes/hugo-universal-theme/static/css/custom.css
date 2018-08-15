@@ -1,5 +1,57 @@
 /* your styles go here  */
 
+/* CLEAN FROM HERE BY VERO 180914  */
+
+.navbar ul.nav > li > a:hover {
+  border-top: solid 5px #f33022;
+  background-color: #f3a6a0;
+}
+
+.SingleColumnTable{
+	display: table;
+#	width: 100%; CHANGE RIEN DU TOUT
+}
+
+.RowTable {
+	display: table-row;
+#	width: 250px; OR % CHANGES NOTHING
+}
+
+.CellTable {
+#	border: 1px solid #999999;
+	display: table-cell;
+#	padding: 3px 10px;
+#	width: 150px; OR % CHANGES NOTHING
+}
+
+.CenterDivInside {
+	display: inline-block;
+#	padding: 9px;
+	width: 75%; 
+}
+
+.CenterDivOutside {
+#     padding: 30px;
+     text-align: center;
+      outline: 1px solid white;
+}
+
+.ContactImageLine {
+	padding: 15px 0px 25px 0px;
+}
+
+
+/* CLEAN UP TO HERE BY VERO 180914  */
+
+.blog-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+
 a {
 	color: #da4d4d;
 }

@@ -6,9 +6,226 @@
     <description>Recent content in Tags on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aurora</title>
+      <link>/tags/aurora/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/aurora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Auto Scaling</title>
+      <link>/tags/auto-scaling/</link>
+      <pubDate>Tue, 13 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/auto-scaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Availability Zone</title>
+      <link>/tags/availability-zone/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/availability-zone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>/tags/configuration/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamodb</title>
+      <link>/tags/dynamodb/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/dynamodb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ebs</title>
+      <link>/tags/ebs/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/ebs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ec2 Classic</title>
+      <link>/tags/ec2-classic/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/ec2-classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ec2 Instances</title>
+      <link>/tags/ec2-instances/</link>
+      <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/ec2-instances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Encryption</title>
+      <link>/tags/encryption/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fargate</title>
+      <link>/tags/fargate/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/fargate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glacier</title>
+      <link>/tags/glacier/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/glacier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guard Duty</title>
+      <link>/tags/guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/guard-duty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ip</title>
+      <link>/tags/ip/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/ip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lightsail</title>
+      <link>/tags/lightsail/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/lightsail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Load Balancing</title>
+      <link>/tags/load-balancing/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/load-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Os</title>
+      <link>/tags/os/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing</title>
+      <link>/tags/pricing/</link>
+      <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/pricing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rds</title>
+      <link>/tags/rds/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/tags/rds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redundancy</title>
+      <link>/tags/redundancy/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/redundancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>/tags/s3/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/s3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sqs</title>
+      <link>/tags/sqs/</link>
+      <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/sqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage Gateway</title>
+      <link>/tags/storage-gateway/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/storage-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vpc</title>
+      <link>/tags/vpc/</link>
+      <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/vpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -2,121 +2,231 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ec2 Instances on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/ec2-instances/</link>
+    <link>/tags/ec2-instances/</link>
     <description>Recent content in Ec2 Instances on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 19 Mar 2018 00:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/ec2-instances/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Dedicated Instances versus Dedicated Hosts</title>
-      <link>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</link>
+      <link>/blog/2018/03/19/aws-ec2-instances-dedicated/</link>
       <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/19/aws-ec2-instances-dedicated/</guid>
+      <guid>/blog/2018/03/19/aws-ec2-instances-dedicated/</guid>
+      <description>Did you know AWS Dedicated Instances and Dedicated Hosts are two different services offered by AWS?</description>
+    </item>
+    
+    <item>
+      <title>AWS Dedicated Instances versus Dedicated Hosts</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-dedicated/</link>
+      <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-dedicated/</guid>
       <description>Did you know AWS Dedicated Instances and Dedicated Hosts are two different services offered by AWS?</description>
     </item>
     
     <item>
       <title>AWS Aurora Multi Master Multi AZ</title>
-      <link>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</link>
+      <link>/blog/2018/02/21/aws-aurora-multi-master/</link>
       <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <guid>/blog/2018/02/21/aws-aurora-multi-master/</guid>
+      <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
+    </item>
+    
+    <item>
+      <title>AWS Aurora Multi Master Multi AZ</title>
+      <link>/fixed/blog/did-you-know/aws-aurora-multi-master/</link>
+      <pubDate>Wed, 21 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-aurora-multi-master/</guid>
       <description>Did you know that with Amazon Aurora you can have multiple master EC2 Instances across multiple AZ?</description>
     </item>
     
     <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EBS Volumes Delete on Instance Termination</title>
+      <link>/fixed/blog/did-you-know/aws-ebs-instance-termination/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
     </item>
     
     <item>
       <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</link>
+      <link>/blog/2017/12/01/aws-new-instance-family-m5/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <guid>/blog/2017/12/01/aws-new-instance-family-m5/</guid>
+      <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS Has Launched a New General Purpose Instance Family, M5</title>
+      <link>/fixed/blog/did-you-know/aws-new-instance-family-m5/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-new-instance-family-m5/</guid>
       <description>Did you know AWS EC2 has a new General Purpose instance family, M5? Check if available in your region.</description>
     </item>
     
     <item>
       <title>AWS Introduces Spread Placement Groups</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</link>
+      <link>/blog/2017/12/01/aws-spread-placement-group/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-spread-placement-group/</guid>
+      <guid>/blog/2017/12/01/aws-spread-placement-group/</guid>
+      <description>Did you know AWS introduced Spread Placement Groups? This means AWS EC2 Instances within a Placement Group will be on distinct hardware.</description>
+    </item>
+    
+    <item>
+      <title>AWS Introduces Spread Placement Groups</title>
+      <link>/fixed/blog/did-you-know/aws-spread-placement-group/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-spread-placement-group/</guid>
       <description>Did you know AWS introduced Spread Placement Groups? This means AWS EC2 Instances within a Placement Group will be on distinct hardware.</description>
     </item>
     
     <item>
       <title>AWS Spot Intances Bid Duration</title>
-      <link>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
+      <link>/blog/2017/11/10/aws-spot-instances-bid-duration/</link>
       <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <guid>/blog/2017/11/10/aws-spot-instances-bid-duration/</guid>
+      <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
+    </item>
+    
+    <item>
+      <title>AWS Spot Intances Bid Duration</title>
+      <link>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</link>
+      <pubDate>Fri, 10 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-spot-instances-bid-duration/</guid>
       <description>Did you know you can also bid for AWS SPOT Instances for a duration of 1 or 6 hours? This guarantees a minimum uptime for your instances. Of course the price is different.</description>
     </item>
     
     <item>
       <title>AWS New Compute Optimized Instance Family - C5</title>
-      <link>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
+      <link>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</link>
       <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <guid>/blog/2017/11/08/aws-ec2-new-compute-optimized-c5/</guid>
+      <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
+    </item>
+    
+    <item>
+      <title>AWS New Compute Optimized Instance Family - C5</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</link>
+      <pubDate>Wed, 08 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-new-compute-optimized-c5/</guid>
       <description>Did you know AWS EC2 has a new Compute Optimized instance family, C5? Check if available in your region.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Per Second Billing</title>
-      <link>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
+      <link>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</link>
       <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <guid>/blog/2017/10/13/aws-ec2-instances-per-second-billing/</guid>
+      <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Per Second Billing</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</link>
+      <pubDate>Fri, 13 Oct 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-per-second-billing/</guid>
       <description>Did you know the new AWS per second billing of AWS EC2 instances is only for Linux instances?</description>
     </item>
     
     <item>
       <title>AWS EC2 Ephemeral Storage</title>
-      <link>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <link>/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
       <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <guid>/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Ephemeral Storage</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</link>
+      <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</guid>
       <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances T2 VPC</title>
-      <link>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <link>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <guid>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances T2 VPC</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</guid>
       <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances Public IP</title>
-      <link>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
+      <link>/blog/2017/06/19/aws-ec2-instances-public-ip/</link>
       <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <guid>/blog/2017/06/19/aws-ec2-instances-public-ip/</guid>
+      <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances Public IP</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-public-ip/</link>
+      <pubDate>Mon, 19 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-public-ip/</guid>
       <description>Did you know an Amazon EC2 Instance retains its private IP addresses when it is stopped? This is not the case for the public IP address which is released when the instance is stopped.</description>
     </item>
     
     <item>
       <title>AWS EC2 Intances Metadata</title>
-      <link>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</link>
+      <link>/blog/2017/06/17/aws-ec2-instances-metadata/</link>
       <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <guid>/blog/2017/06/17/aws-ec2-instances-metadata/</guid>
+      <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
+http://169.254.169.254/latest/meta-data/  </description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Intances Metadata</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</link>
+      <pubDate>Sat, 17 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-metadata/</guid>
       <description>Did you know that viewing the following link on an AWS EC2 Instance will give you the metadata of your instance?
 http://169.254.169.254/latest/meta-data/  </description>
     </item>

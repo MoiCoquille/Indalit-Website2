@@ -6,9 +6,127 @@
     <description>Recent content in Categories on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 21 Mar 2018 00:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Aws</title>
+      <link>/categories/aws/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheatsheet</title>
+      <link>/categories/cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/categories/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compute</title>
+      <link>/categories/compute/</link>
+      <pubDate>Mon, 19 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/compute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>/categories/database/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did You Know</title>
+      <link>/categories/did-you-know/</link>
+      <pubDate>Wed, 21 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/did-you-know/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How To</title>
+      <link>/categories/how-to/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/categories/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indalit News</title>
+      <link>/categories/indalit-news/</link>
+      <pubDate>Sun, 25 Feb 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/indalit-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Messaging</title>
+      <link>/categories/messaging/</link>
+      <pubDate>Mon, 17 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/categories/messaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking  Content Delivery</title>
+      <link>/categories/networking--content-delivery/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/networking--content-delivery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Aws Feature</title>
+      <link>/categories/new-aws-feature/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/new-aws-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Aws Service</title>
+      <link>/categories/new-aws-service/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/categories/new-aws-service/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security Identity  Compliance</title>
+      <link>/categories/security-identity--compliance/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/categories/security-identity--compliance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage</title>
+      <link>/categories/storage/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/categories/storage/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

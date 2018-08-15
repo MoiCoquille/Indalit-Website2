@@ -2,85 +2,158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Storage on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/categories/storage/</link>
+    <link>/categories/storage/</link>
     <description>Recent content in Storage on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/categories/storage/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/storage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Amazon EBS Volumes Delete on Instance Termination</title>
-      <link>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</link>
+      <link>/blog/2018/02/18/aws-ebs-instance-termination/</link>
       <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <guid>/blog/2018/02/18/aws-ebs-instance-termination/</guid>
+      <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
+This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
+    </item>
+    
+    <item>
+      <title>Amazon EBS Volumes Delete on Instance Termination</title>
+      <link>/fixed/blog/did-you-know/aws-ebs-instance-termination/</link>
+      <pubDate>Sun, 18 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ebs-instance-termination/</guid>
       <description>Did you know that by default Amazon Web Services EBS root device volumes are automatically deleted when the instance terminates?
 This is also the case with ephemeral storage (instance store volumes). Other non root EBS volumes are not deleted. You can configure your instance so it doesn&amp;rsquo;t delete the EBS root device volumes with the DeleteOnTermination attribute.</description>
     </item>
     
     <item>
       <title>AWS Storage Gateway Cheat Sheet</title>
-      <link>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
+      <link>/blog/2017/12/14/aws-storage-gateway-cheatsheet/</link>
       <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <guid>/blog/2017/12/14/aws-storage-gateway-cheatsheet/</guid>
+      <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
+    </item>
+    
+    <item>
+      <title>AWS Storage Gateway Cheat Sheet</title>
+      <link>/fixed/blog/did-you-know/aws-storage-gateway-cheatsheet/</link>
+      <pubDate>Thu, 14 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-storage-gateway-cheatsheet/</guid>
       <description>General Characteristics   3 types of gateways available(NFS or iSCSI):    - File Gateway    - Volume Gateway    - Tape Gateway   You install the Gateways with a provided image on a on-premises server VM. Also possible on an instance.   VM software is either VMware ESXi or Microsoft Hyper-V.   Objects on S3 are encrypted using S3 SSE-S3 (S3 managed encryption keys).</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite Retrieval Options</title>
-      <link>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
+      <link>/blog/2017/11/27/aws-glacier-expedite-retrieval/</link>
       <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <guid>/blog/2017/11/27/aws-glacier-expedite-retrieval/</guid>
+      <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite Retrieval Options</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-expedite-retrieval/</link>
+      <pubDate>Mon, 27 Nov 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-expedite-retrieval/</guid>
       <description>Did you know you have two options when choosing Expedited Retrieval on AWS Glacier? You can choose on-demand or provisioned.</description>
     </item>
     
     <item>
       <title>AWS EC2 EBS Encryption of Boot Volume</title>
-      <link>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
+      <link>/blog/2017/07/28/aws-ec2-ebs-encryption/</link>
       <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <guid>/blog/2017/07/28/aws-ec2-ebs-encryption/</guid>
+      <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 EBS Encryption of Boot Volume</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</link>
+      <pubDate>Fri, 28 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ebs-encryption/</guid>
       <description>Did you know the Amazon Elastic Block Store (EBS) boot volume can be encrypted?</description>
     </item>
     
     <item>
       <title>AWS S3 Encryption SSE-C</title>
-      <link>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
+      <link>/blog/2017/07/21/aws-s3-encryption-sse-c/</link>
       <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <guid>/blog/2017/07/21/aws-s3-encryption-sse-c/</guid>
+      <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
+    </item>
+    
+    <item>
+      <title>AWS S3 Encryption SSE-C</title>
+      <link>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</link>
+      <pubDate>Fri, 21 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-s3-encryption-sse-c/</guid>
       <description>Did you know Amazon S3 SSE-C means Server Side Encryption with Customer-Provided Keys?</description>
     </item>
     
     <item>
       <title>AWS EC2 Ephemeral Storage</title>
-      <link>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
+      <link>/blog/2017/07/12/aws-ec2-ephemeral-storage/</link>
       <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <guid>/blog/2017/07/12/aws-ec2-ephemeral-storage/</guid>
+      <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Ephemeral Storage</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</link>
+      <pubDate>Wed, 12 Jul 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-ephemeral-storage/</guid>
       <description>Did you know when an Amazon EC2 instance with ephemeral store volumes is stopped, the data is lost?</description>
     </item>
     
     <item>
       <title>AWS Glacier Expedite</title>
-      <link>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</link>
+      <link>/blog/2017/06/20/aws-glacier-expedite/</link>
       <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <guid>/blog/2017/06/20/aws-glacier-expedite/</guid>
+      <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Expedite</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-expedite/</link>
+      <pubDate>Tue, 20 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-expedite/</guid>
       <description>Did you know there is an option to expedite the retrieval of an Amazon Glacier archive within minutes?</description>
     </item>
     
     <item>
       <title>AWS Glacier Minimum Pricing</title>
-      <link>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
+      <link>/blog/2017/06/15/aws-glacier-minimum-pricing/</link>
       <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <guid>/blog/2017/06/15/aws-glacier-minimum-pricing/</guid>
+      <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
+    </item>
+    
+    <item>
+      <title>AWS Glacier Minimum Pricing</title>
+      <link>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</link>
+      <pubDate>Thu, 15 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-glacier-minimum-pricing/</guid>
       <description>Did you know if you delete an archive from Amazon Glacier less than 90 days after it was uploaded you will still pay 90 days of storage for it?</description>
     </item>
     

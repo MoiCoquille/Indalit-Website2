@@ -2,39 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vpc on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/vpc/</link>
+    <link>/tags/vpc/</link>
     <description>Recent content in Vpc on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Feb 2018 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/vpc/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/vpc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS VPC To Span Across AZs</title>
-      <link>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</link>
+      <link>/blog/2018/02/15/aws-vpc-span/</link>
       <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/02/15/aws-vpc-span/</guid>
+      <guid>/blog/2018/02/15/aws-vpc-span/</guid>
+      <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
+    </item>
+    
+    <item>
+      <title>AWS VPC To Span Across AZs</title>
+      <link>/fixed/blog/did-you-know/aws-vpc-span/</link>
+      <pubDate>Thu, 15 Feb 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-vpc-span/</guid>
       <description>Did you know that a subnet cannot span multiple AWS Availability Zones while a VPC can?</description>
     </item>
     
     <item>
       <title>AWS Cross Region VPC Peering</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
+      <link>/blog/2017/12/01/aws-cross-region-vpc-peering/</link>
       <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <guid>/blog/2017/12/01/aws-cross-region-vpc-peering/</guid>
+      <description>Did you know AWS now allows VPC Peering across different regions?</description>
+    </item>
+    
+    <item>
+      <title>AWS Cross Region VPC Peering</title>
+      <link>/fixed/blog/did-you-know/aws-cross-region-vpc-peering/</link>
+      <pubDate>Fri, 01 Dec 2017 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-cross-region-vpc-peering/</guid>
       <description>Did you know AWS now allows VPC Peering across different regions?</description>
     </item>
     
     <item>
       <title>AWS EC2 Instances T2 VPC</title>
-      <link>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
+      <link>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</link>
       <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <guid>/blog/2017/06/26/aws-ec2-instances-t2-vpc/</guid>
+      <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
+    </item>
+    
+    <item>
+      <title>AWS EC2 Instances T2 VPC</title>
+      <link>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</link>
+      <pubDate>Mon, 26 Jun 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-ec2-instances-t2-vpc/</guid>
       <description>Did you know you cannot launch an AWS T2 instance type in an AWS EC2-Classic platform? You must launch it in a VPC.</description>
     </item>
     

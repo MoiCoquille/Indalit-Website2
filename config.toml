@@ -72,12 +72,12 @@ PaginatePath = "page"
 #    identifier = "us-menu-2"
 #    weight = 25
 
-#[[menu.main]]
-#    name = "Contact"
-#    url  = "/contact/"
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
 #    parent = "us-menu"
-#    identifier = "contact"
-#    weight = 130
+    identifier = "contact"
+    weight = 130
 
 #[[menu.main]]
 #    name = "Blog"
@@ -138,11 +138,11 @@ PaginatePath = "page"
 
 # Top bar social links menu
 
-[[menu.topbar]]
-    weight = 1
-    name = "GitHub"
-    url = "https://github.com/MoiCoquille"
-    pre = "<i class='fa fa-2x fa-github'></i>"
+#[[menu.topbar]]
+#    weight = 1
+#    name = "GitHub"
+#    url = "https://github.com/MoiCoquille"
+#    pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
     weight = 2
@@ -162,11 +162,11 @@ PaginatePath = "page"
     url = "https://www.linkedin.com/company/indalit-cloud-consulting/"
     pre = "<i class='fa fa-2x fa-linkedin'></i>"
 
-[[menu.topbar]]
-    weight = 5
-    name = "Meetup"
-    url = "https://www.meetup.com/AWS-Valencia/"
-    pre = "<i class='fa fa-2x fa-meetup'></i>"
+#[[menu.topbar]]
+#    weight = 5
+#    name = "Meetup"
+#    url = "https://www.meetup.com/AWS-Valencia/"
+#    pre = "<i class='fa fa-2x fa-meetup'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -255,12 +255,12 @@ address = """<p><strong>Indalit Cloud Consulting</strong>
     subtitle = ""
 
 [params.see_more]
-    enable = false
+    enable = true 
     icon = "fa fa-file-code-o"
-    title = "Do you want to know more?"
-    subtitle = "There is a lot more to know about our offering.  We have put together services that will be more than useful to you.  We go beyond our role of Project Managers and provide a real guidance in your projects.  Read the rest of the site, and the Blog for more information.  And don't hesitate to call us."
-    link_url = "/aws/"
-    link_text = "This week more on AWS"
+    title = "Do you want more?"
+    subtitle = "There is a lot more to know about our services and how we can adapt them to your requirements.  We are specialised in IT Nearshoring in Spain but we are not limite by it.  Contact us when you ready or have questions for a futur project, we can make it work."
+    link_url = "/contact/"
+    link_text = "Let's Go"
 
 [params.clients]
     enable = false

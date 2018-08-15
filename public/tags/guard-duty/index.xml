@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guard Duty on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/tags/guard-duty/</link>
+    <link>/tags/guard-duty/</link>
     <description>Recent content in Guard Duty on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2017 21:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/tags/guard-duty/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/guard-duty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <link>/blog/2017/12/01/aws-guard-duty/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <guid>/blog/2017/12/01/aws-guard-duty/</guid>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Amazon GuardDuty</title>
+      <link>/fixed/blog/did-you-know/aws-guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     

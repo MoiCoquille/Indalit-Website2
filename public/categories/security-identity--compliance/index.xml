@@ -2,39 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security Identity  Compliance on Indalit Cloud Consulting</title>
-    <link>https://www.indalit.com/categories/security-identity--compliance/</link>
+    <link>/categories/security-identity--compliance/</link>
     <description>Recent content in Security Identity  Compliance on Indalit Cloud Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Mar 2018 00:49:20 +0200</lastBuildDate>
     
-	<atom:link href="https://www.indalit.com/categories/security-identity--compliance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/security-identity--compliance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Security Groups Associated to Network Interfaces</title>
-      <link>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</link>
+      <link>/blog/2018/03/02/aws-security-group-network-interface/</link>
       <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <guid>/blog/2018/03/02/aws-security-group-network-interface/</guid>
+      <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
+    </item>
+    
+    <item>
+      <title>AWS Security Groups Associated to Network Interfaces</title>
+      <link>/fixed/blog/did-you-know/aws-security-group-network-interface/</link>
+      <pubDate>Fri, 02 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-security-group-network-interface/</guid>
       <description>Did you know AWS Security Groups are associated with a network interface? This means you can have different Security Groups on each network interface.</description>
     </item>
     
     <item>
       <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
-      <link>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</link>
+      <link>/blog/2018/03/01/aws-security-groups-stateful/</link>
       <pubDate>Thu, 01 Mar 2018 00:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2018/03/01/aws-security-groups-stateful/</guid>
+      <guid>/blog/2018/03/01/aws-security-groups-stateful/</guid>
+      <description>Did you know AWS Security Groups are stateful for outbound AND inbound traffic?</description>
+    </item>
+    
+    <item>
+      <title>AWS Security Groups Inbound &amp; Outbound Traffic</title>
+      <link>/fixed/blog/did-you-know/aws-security-groups-stateful/</link>
+      <pubDate>Thu, 01 Mar 2018 00:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-security-groups-stateful/</guid>
       <description>Did you know AWS Security Groups are stateful for outbound AND inbound traffic?</description>
     </item>
     
     <item>
       <title>AWS Launches Amazon GuardDuty</title>
-      <link>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</link>
+      <link>/blog/2017/12/01/aws-guard-duty/</link>
       <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
       
-      <guid>https://www.indalit.com/blog/2017/12/01/aws-guard-duty/</guid>
+      <guid>/blog/2017/12/01/aws-guard-duty/</guid>
+      <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
+    </item>
+    
+    <item>
+      <title>AWS Launches Amazon GuardDuty</title>
+      <link>/fixed/blog/did-you-know/aws-guard-duty/</link>
+      <pubDate>Fri, 01 Dec 2017 21:49:20 +0200</pubDate>
+      
+      <guid>/fixed/blog/did-you-know/aws-guard-duty/</guid>
       <description>Did you know AWS launched Amazon GuardDuty? This is a threat detection service which analyses events from AWS CloudTrail, VPC Flow Logs and more.</description>
     </item>
     
